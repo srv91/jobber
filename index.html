@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jobber</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+      min-height: 100vh;
+      color: #1a1a2e;
+    }
+
+    header {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      color: white;
+      padding: 2rem 1.5rem;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    }
+
+    .header-content {
+      max-width: 1000px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .logo-icon {
+      width: 48px;
+      height: 48px;
+      background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+    }
+
+    .logo h1 {
+      font-size: 1.5rem;
+      font-weight: 700;
+    }
+
+    .logo p {
+      font-size: 0.875rem;
+      opacity: 0.8;
+    }
+
+    .header-meta {
+      text-align: right;
+      font-size: 0.8rem;
+      opacity: 0.7;
+    }
+
+    main {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 1.5rem;
+    }
+
+    .search-box {
+      position: relative;
+      margin-bottom: 1.5rem;
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 1rem 1rem 1rem 3rem;
+      font-size: 1rem;
+      border: 2px solid transparent;
+      border-radius: 12px;
+      background: white;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+      transition: all 0.2s;
+      font-family: inherit;
+    }
+
+    .search-box input:focus {
+      outline: none;
+      border-color: #4facfe;
+      box-shadow: 0 4px 20px rgba(79, 172, 254, 0.15);
+    }
+
+    .search-box::before {
+      content: "🔍";
+      position: absolute;
+      left: 1rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1.1rem;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+      overflow-x: auto;
+      padding-bottom: 0.5rem;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .tabs::-webkit-scrollbar {
+      height: 4px;
+    }
+
+    .tabs::-webkit-scrollbar-thumb {
+      background: #cbd5e1;
+      border-radius: 4px;
+    }
+
+    .tab {
+      padding: 0.625rem 1.25rem;
+      border: none;
+      border-radius: 50px;
+      font-size: 0.875rem;
+      font-weight: 500;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s;
+      font-family: inherit;
+      background: white;
+      color: #64748b;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+
+    .tab:hover {
+      background: #f1f5f9;
+      color: #1a1a2e;
+    }
+
+    .tab.active {
+      background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+      color: white;
+      box-shadow: 0 4px 12px rgba(79, 172, 254, 0.35);
+    }
+
+    .job-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .job-card {
+      display: block;
+      text-decoration: none;
+      color: inherit;
+      background: white;
+      border-radius: 12px;
+      padding: 1.25rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+      transition: all 0.2s;
+      border: 1px solid #e2e8f0;
+    }
+
+    .job-card:hover {
+      box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+      transform: translateY(-2px);
+      border-color: #4facfe;
+    }
+
+    .job-card:hover .job-title {
+      color: #4facfe;
+    }
+
+    .job-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 1rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .job-title {
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: #1a1a2e;
+      line-height: 1.4;
+    }
+
+    .job-badge {
+      font-size: 0.7rem;
+      font-weight: 600;
+      padding: 0.35rem 0.75rem;
+      border-radius: 50px;
+      white-space: nowrap;
+      text-transform: uppercase;
+      letter-spacing: 0.025em;
+      flex-shrink: 0;
+    }
+
+    .job-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      font-size: 0.85rem;
+      color: #64748b;
+    }
+
+    .job-meta span {
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 4rem 2rem;
+      color: #64748b;
+    }
+
+    .empty-state-icon {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+
+    .stats-bar {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.85rem;
+      color: #64748b;
+    }
+
+    /* Company badge colors */
+    .badge-sunlife { background: #fee2e2; color: #dc2626; }
+    .badge-agf { background: #dbeafe; color: #2563eb; }
+    .badge-fidelity { background: #d1fae5; color: #059669; }
+    .badge-imco { background: #fef3c7; color: #d97706; }
+    .badge-optrust { background: #e0e7ff; color: #4f46e5; }
+    .badge-aviva { background: #fce7f3; color: #db2777; }
+    .badge-blackrock { background: #1a1a2e; color: white; }
+    .badge-canadalife { background: #dcfce7; color: #16a34a; }
+    .badge-cibcmellon { background: #fee2e2; color: #b91c1c; }
+
+    @media (max-width: 640px) {
+      header { padding: 1.5rem 1rem; }
+      .header-content { flex-direction: column; text-align: center; }
+      .header-meta { text-align: center; }
+      .job-header { flex-direction: column; gap: 0.5rem; }
+      .job-badge { align-self: flex-start; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <div class="logo">
+        <div class="logo-icon">💼</div>
+        <div>
+          <h1>Jobber</h1>
+          <p id="stats">Loading jobs...</p>
+        </div>
+      </div>
+      <div class="header-meta" id="updated"></div>
+    </div>
+  </header>
+
+  <main>
+    <div class="search-box">
+      <input type="text" id="search" placeholder="Search by title, location, or company...">
+    </div>
+    
+    <div class="tabs" id="tabs"></div>
+    <div class="job-list" id="jobs"></div>
+    <div class="stats-bar" id="footer-stats"></div>
+  </main>
+
+  <script>
+    let data = null;
+    let activeTab = 'all';
+    let searchQuery = '';
+
+    const badgeClasses = {
+      sunlife: 'badge-sunlife',
+      agf: 'badge-agf', 
+      fidelity: 'badge-fidelity',
+      imco: 'badge-imco',
+      optrust: 'badge-optrust',
+      aviva: 'badge-aviva',
+      blackrock: 'badge-blackrock',
+      canadalife: 'badge-canadalife',
+      cibcmellon: 'badge-cibcmellon'
+    };
+
+    async function loadJobs() {
+      try {
+        const res = await fetch('jobs.json');
+        data = await res.json();
+        
+        const total = data.sources.reduce((a,s) => a + s.jobCount, 0);
+        document.getElementById('stats').textContent = `${total} jobs from ${data.sources.length} companies`;
+        
+        const updated = new Date(data.lastUpdated);
+        document.getElementById('updated').innerHTML = `Last updated<br>${updated.toLocaleDateString()} ${updated.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}`;
+        
+        renderTabs();
+        renderJobs();
+      } catch (e) {
+        document.getElementById('jobs').innerHTML = `
+          <div class="empty-state">
+            <div class="empty-state-icon">⚠️</div>
+            <p>Could not load jobs. Make sure jobs.json exists.</p>
+          </div>`;
+      }
+    }
+
+    function renderTabs() {
+      const total = data.sources.reduce((a,s) => a + s.jobCount, 0);
+      let html = `<button class="tab ${activeTab === 'all' ? 'active' : ''}" onclick="setTab('all')">All Jobs (${total})</button>`;
+      
+      data.sources.forEach(s => {
+        html += `<button class="tab ${activeTab === s.id ? 'active' : ''}" onclick="setTab('${s.id}')">${s.name} (${s.jobCount})</button>`;
+      });
+      
+      document.getElementById('tabs').innerHTML = html;
+    }
+
+    function setTab(tab) {
+      activeTab = tab;
+      renderTabs();
+      renderJobs();
+    }
+
+    function renderJobs() {
+      let jobs = [];
+      
+      if (activeTab === 'all') {
+        data.sources.forEach(s => {
+          s.jobs.forEach(j => jobs.push({...j, company: s.name, companyId: s.id}));
+        });
+      } else {
+        const source = data.sources.find(s => s.id === activeTab);
+        if (source) jobs = source.jobs.map(j => ({...j, company: source.name, companyId: source.id}));
+      }
+
+      if (searchQuery) {
+        const q = searchQuery.toLowerCase();
+        jobs = jobs.filter(j => 
+          j.title.toLowerCase().includes(q) || 
+          j.location.toLowerCase().includes(q) ||
+          j.company.toLowerCase().includes(q)
+        );
+      }
+
+      document.getElementById('footer-stats').textContent = `Showing ${jobs.length} job${jobs.length !== 1 ? 's' : ''}`;
+
+      if (jobs.length === 0) {
+        document.getElementById('jobs').innerHTML = `
+          <div class="empty-state">
+            <div class="empty-state-icon">🔍</div>
+            <p>No jobs found matching your search</p>
+          </div>`;
+        return;
+      }
+
+      document.getElementById('jobs').innerHTML = jobs.map(j => `
+        <a href="${j.url}" target="_blank" rel="noopener" class="job-card">
+          <div class="job-header">
+            <span class="job-title">${j.title}</span>
+            <span class="job-badge ${badgeClasses[j.companyId] || ''}">${j.company}</span>
+          </div>
+          <div class="job-meta">
+            <span>📍 ${j.location}</span>
+            <span>🕐 ${j.postedDate}</span>
+            <span>🏷️ ${j.department}</span>
+          </div>
+        </a>
+      `).join('');
+    }
+
+    document.getElementById('search').addEventListener('input', (e) => {
+      searchQuery = e.target.value;
+      renderJobs();
+    });
+
+    loadJobs();
+  </script>
+</body>
+</html>
