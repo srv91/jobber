@@ -244,6 +244,65 @@
     .badge-blackrock { background: #1a1a2e; color: white; }
     .badge-canadalife { background: #dcfce7; color: #16a34a; }
     .badge-cibcmellon { background: #fee2e2; color: #b91c1c; }
+    .badge-alterna { background: #e0f2fe; color: #0369a1; }
+    .badge-meridian { background: #fef9c3; color: #a16207; }
+    .badge-cooperators { background: #d1fae5; color: #047857; }
+    .badge-igm { background: #ede9fe; color: #6d28d9; }
+.badge-statestreet { background: #e0e7ff; color: #3730a3; }
+    .badge-raymondjames { background: #fce7f3; color: #be185d; }
+    .badge-mackenzie { background: #fff7ed; color: #c2410c; }
+    .badge-richardson { background: #f0fdf4; color: #166534; }
+    .badge-iawealth { background: #dbeafe; color: #1d4ed8; }
+
+    .error-banner {
+      max-width: 1000px;
+      margin: 1rem auto 0;
+      padding: 0.75rem 1rem;
+      background: #fef3c7;
+      border: 1px solid #f59e0b;
+      border-radius: 10px;
+      font-size: 0.85rem;
+      color: #92400e;
+      display: none;
+    }
+
+    .error-banner-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      cursor: pointer;
+    }
+
+    .error-banner-header span {
+      font-weight: 600;
+    }
+
+    .error-banner-toggle {
+      background: none;
+      border: none;
+      font-size: 1rem;
+      cursor: pointer;
+      color: #92400e;
+      transition: transform 0.2s;
+    }
+
+    .error-banner-toggle.expanded {
+      transform: rotate(180deg);
+    }
+
+    .error-banner-details {
+      display: none;
+      margin-top: 0.5rem;
+      padding-top: 0.5rem;
+      border-top: 1px solid #f59e0b;
+    }
+
+    .error-banner-details ul {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
 
     @media (max-width: 640px) {
       header { padding: 1.5rem 1rem; }
@@ -267,6 +326,14 @@
       <div class="header-meta" id="updated"></div>
     </div>
   </header>
+
+  <div class="error-banner" id="error-banner">
+    <div class="error-banner-header" onclick="toggleErrors()">
+      <span id="error-summary"></span>
+      <button class="error-banner-toggle" id="error-toggle">▼</button>
+    </div>
+    <div class="error-banner-details" id="error-details"></div>
+  </div>
 
   <main>
     <div class="search-box">
@@ -292,7 +359,16 @@
       aviva: 'badge-aviva',
       blackrock: 'badge-blackrock',
       canadalife: 'badge-canadalife',
-      cibcmellon: 'badge-cibcmellon'
+      cibcmellon: 'badge-cibcmellon',
+      alterna: 'badge-alterna',
+      meridian: 'badge-meridian',
+      cooperators: 'badge-cooperators',
+      igm: 'badge-igm',
+statestreet: 'badge-statestreet',
+      raymondjames: 'badge-raymondjames',
+      mackenzie: 'badge-mackenzie',
+      richardson: 'badge-richardson',
+      iawealth: 'badge-iawealth'
     };
 
     async function loadJobs() {
@@ -306,6 +382,7 @@
         const updated = new Date(data.lastUpdated);
         document.getElementById('updated').innerHTML = `Last updated<br>${updated.toLocaleDateString()} ${updated.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}`;
         
+        renderErrors();
         renderTabs();
         renderJobs();
       } catch (e) {
@@ -379,6 +456,24 @@
           </div>
         </a>
       `).join('');
+    }
+
+    function renderErrors() {
+      const errors = data.sources.filter(s => s.error);
+      if (errors.length === 0) return;
+      document.getElementById('error-banner').style.display = 'block';
+      document.getElementById('error-summary').textContent = `${errors.length} source${errors.length > 1 ? 's' : ''} failed to fetch`;
+      document.getElementById('error-details').innerHTML = '<ul>' + errors.map(s =>
+        `<li><strong>${s.name}:</strong> ${s.error}</li>`
+      ).join('') + '</ul>';
+    }
+
+    function toggleErrors() {
+      const details = document.getElementById('error-details');
+      const toggle = document.getElementById('error-toggle');
+      const open = details.style.display === 'block';
+      details.style.display = open ? 'none' : 'block';
+      toggle.classList.toggle('expanded', !open);
     }
 
     document.getElementById('search').addEventListener('input', (e) => {

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T12:30:19.070Z",
+  "lastUpdated": "2026-03-01T14:11:01.025Z",
   "sources": [
     {
       "id": "sunlife",
@@ -1364,8 +1364,2803 @@
       "id": "cibcmellon",
       "name": "CIBC Mellon",
       "url": "https://clients.njoyn.com/cl2/xweb/xweb.asp?clid=51330&page=joblisting",
+      "jobCount": 12,
+      "jobs": [
+        {
+          "title": "View job details for J0226-0221",
+          "url": "https://clients.njoyn.com/cl2/xweb/XWeb.asp?NTKN=c&Page=JobDetails&Jobid=J0226-0221&BRID=376787&SBDID=1",
+          "location": "Vancouver",
+          "department": "Fund Accounting",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "View job details for J0226-0220",
+          "url": "https://clients.njoyn.com/cl2/xweb/XWeb.asp?NTKN=c&Page=JobDetails&Jobid=J0226-0220&BRID=376771&SBDID=1",
+          "location": "Toronto",
+          "department": "Client Experience",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "View job details for J0226-0048",
+          "url": "https://clients.njoyn.com/cl2/xweb/XWeb.asp?NTKN=c&Page=JobDetails&Jobid=J0226-0048&BRID=376385&SBDID=1",
+          "location": "Toronto",
+          "department": "Fund Accounting",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "View job details for J0226-0183",
+          "url": "https://clients.njoyn.com/cl2/xweb/XWeb.asp?NTKN=c&Page=JobDetails&Jobid=J0226-0183&BRID=376768&SBDID=1",
+          "location": "Toronto",
+          "department": "Information Technology",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "View job details for J0226-0084",
+          "url": "https://clients.njoyn.com/cl2/xweb/XWeb.asp?NTKN=c&Page=JobDetails&Jobid=J0226-0084&BRID=376369&SBDID=1",
+          "location": "Toronto",
+          "department": "Information Technology",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "View job details for J0226-0222",
+          "url": "https://clients.njoyn.com/cl2/xweb/XWeb.asp?NTKN=c&Page=JobDetails&Jobid=J0226-0222&BRID=376757&SBDID=1",
+          "location": "Toronto",
+          "department": "Compliance",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "View job details for J0226-0199",
+          "url": "https://clients.njoyn.com/cl2/xweb/XWeb.asp?NTKN=c&Page=JobDetails&Jobid=J0226-0199&BRID=376759&SBDID=1",
+          "location": "Toronto, Mississauga ...",
+          "department": "Information Technology",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "View job details for J0126-0093",
+          "url": "https://clients.njoyn.com/cl2/xweb/XWeb.asp?NTKN=c&Page=JobDetails&Jobid=J0126-0093&BRID=375427&SBDID=1",
+          "location": "Toronto",
+          "department": "Operational Control",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "View job details for J0226-0051",
+          "url": "https://clients.njoyn.com/cl2/xweb/XWeb.asp?NTKN=c&Page=JobDetails&Jobid=J0226-0051&BRID=376620&SBDID=1",
+          "location": "Mississauga",
+          "department": "Fund Accounting",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "View job details for J0226-0060",
+          "url": "https://clients.njoyn.com/cl2/xweb/XWeb.asp?NTKN=c&Page=JobDetails&Jobid=J0226-0060&BRID=376615&SBDID=1",
+          "location": "Toronto/Mississauga",
+          "department": "Financial Reporting and Tax",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "View job details for J0126-0044",
+          "url": "https://clients.njoyn.com/cl2/xweb/XWeb.asp?NTKN=c&Page=JobDetails&Jobid=J0126-0044&BRID=376552&SBDID=1",
+          "location": "Toronto",
+          "department": "Audit",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "View job details for J0226-0085",
+          "url": "https://clients.njoyn.com/cl2/xweb/XWeb.asp?NTKN=c&Page=JobDetails&Jobid=J0226-0085&BRID=376367&SBDID=1",
+          "location": "Toronto",
+          "department": "Treasury",
+          "postedDate": "2026-03-01"
+        }
+      ]
+    },
+    {
+      "id": "alterna",
+      "name": "Alterna Savings",
+      "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/JobBoardView/LoadSearchResults",
+      "jobCount": 22,
+      "jobs": [
+        {
+          "title": "Sector Development Manager, Community Impact",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=a94eaaa3-4d6a-45ed-b6c1-9afb8d5ba5d2",
+          "location": "Toronto, Ontario",
+          "department": "Community Impact",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Wealth Administrator",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=ab2c7756-2656-4597-a7e4-86df664a2ce8",
+          "location": "Toronto, Ontario",
+          "department": "Wealth Management",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Personal Banking Officer",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=b235df2f-d1ce-4e31-a4dd-600859c99f25",
+          "location": "Ottawa, Ontario",
+          "department": "Retail Branches",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Personal Banking Officer",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=5b0637fe-13f6-417c-9cd4-fcb959db3625",
+          "location": "Fort Frances, Ontario",
+          "department": "Retail Branches",
+          "postedDate": "2026-02-20"
+        },
+        {
+          "title": "Member Service Representative",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=d50ab378-e1fb-40ed-b76e-c0e43d90e380",
+          "location": "Toronto, Ontario",
+          "department": "Retail Branches",
+          "postedDate": "2026-02-20"
+        },
+        {
+          "title": "AML/ATF Officer",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=88ab655f-a765-4adc-9e4d-1852adbb13ee",
+          "location": "Toronto, Ontario",
+          "department": "Audit/Compliance/Risk",
+          "postedDate": "2026-02-18"
+        },
+        {
+          "title": "Personal Banking Associate (Hybrid Teller)",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=1431fa2a-6848-4044-81db-5b901180c989",
+          "location": "Nepean, Ontario",
+          "department": "Retail Branches",
+          "postedDate": "2026-02-18"
+        },
+        {
+          "title": "Member Service Representative",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=9f9bb700-eeb2-4526-a0b5-8ca6e3113c55",
+          "location": "Rainy River, Ontario",
+          "department": "Retail Branches",
+          "postedDate": "2026-02-17"
+        },
+        {
+          "title": "Credit Operations Representative (Term- one year)",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=71b0e38c-551a-41f0-b391-d5d6c7055923",
+          "location": "Ottawa, Ontario",
+          "department": "Banking Operations",
+          "postedDate": "2026-02-04"
+        },
+        {
+          "title": "Advisor Assistant",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=5530bf86-7761-4fd4-95c0-897ed27fe3a3",
+          "location": "Ottawa, Ontario",
+          "department": "Wealth Management",
+          "postedDate": "2026-02-04"
+        },
+        {
+          "title": "Member Service Representative",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=e530d84a-3a2f-4c7e-ab54-5dcc278fd86b",
+          "location": "Fort Frances, Ontario",
+          "department": "Retail Branches",
+          "postedDate": "2026-02-02"
+        },
+        {
+          "title": "Personal Banking Officer",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=d1a3dcdf-5939-446c-b4cd-2c97aa19bd1d",
+          "location": "Toronto, Ontario",
+          "department": "Retail Branches",
+          "postedDate": "2026-01-29"
+        },
+        {
+          "title": "Personal Banking Associate",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=133286da-6f84-4fb1-b773-4b40a70a7aca",
+          "location": "Toronto, Ontario",
+          "department": "Retail Branches",
+          "postedDate": "2026-01-28"
+        },
+        {
+          "title": "Member Service Representative (Term)",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=7dd59509-5031-4fa8-acb0-9aa50c1a2b6d",
+          "location": "Trenton, Ontario",
+          "department": "Retail Branches",
+          "postedDate": "2026-01-23"
+        },
+        {
+          "title": "Lending Program Manager (Project Management Focus)",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=97ac5914-edc9-4a3d-b451-fc60f3d90fea",
+          "location": "Ontario",
+          "department": "Corporate",
+          "postedDate": "2026-01-13"
+        },
+        {
+          "title": "Personal Banking Advisor",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=d3b81715-af27-469e-bf47-e7904cfc4f0b",
+          "location": "Scarborough, Ontario",
+          "department": "Retail Branches",
+          "postedDate": "2026-01-07"
+        },
+        {
+          "title": "Personal Banking Officer",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=1cc95d6b-d922-442d-a7cf-516a93daff86",
+          "location": "Scarborough, Ontario",
+          "department": "Retail Branches",
+          "postedDate": "2026-01-02"
+        },
+        {
+          "title": "Personal Banking Officer",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=836e8152-5af1-44a4-bcec-cd02d4661b85",
+          "location": "Scarborough, Ontario",
+          "department": "Retail Branches",
+          "postedDate": "2026-01-02"
+        },
+        {
+          "title": "Leasing and Contract Administrator",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=b6881d53-8c9e-4c3c-95c6-f66ab8127021",
+          "location": "Ottawa, Ontario",
+          "department": "Facilities",
+          "postedDate": "2025-12-19"
+        },
+        {
+          "title": "Senior Compliance Officer",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=c01766da-a22c-43b8-b775-5edf6f2be0a6",
+          "location": "Toronto, Ontario",
+          "department": "Audit/Compliance/Risk",
+          "postedDate": "2025-11-18"
+        },
+        {
+          "title": "VP, Digital Channel Applications",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=09fc8600-2759-402e-afe1-a37fd805367f",
+          "location": "Toronto, Ontario",
+          "department": "Information Technology",
+          "postedDate": "2025-10-23"
+        },
+        {
+          "title": "Learning Experience Designer",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=2bb59c8a-f849-454e-9ceb-c017f89060f5",
+          "location": "Toronto, Ontario",
+          "department": "Human Resources",
+          "postedDate": "2025-04-08"
+        }
+      ]
+    },
+    {
+      "id": "meridian",
+      "name": "Meridian",
+      "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/JobBoardView/LoadSearchResults",
+      "jobCount": 53,
+      "jobs": [
+        {
+          "title": "Financial Services Representative - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=90d74365-ee0b-49fd-aff4-1d2c7e869151",
+          "location": "Penetanguishene, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Software Developer - Co-op",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=d9c15e1d-8f97-4757-a9a7-9865562aa007",
+          "location": "St Catharines, Ontario",
+          "department": "IT",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Software Developer - Quality Engineering - Co-op",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=c9c80067-fdcc-426b-9386-459e42649639",
+          "location": "St Catharines, Ontario",
+          "department": "IT",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Software Developer",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=7190e60a-ff64-46a6-acd8-afbea2804123",
+          "location": "Etobicoke, Ontario",
+          "department": "IT",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Financial Services Associate - Licensed - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=023add39-e6c6-4467-9bda-65dd089888ba",
+          "location": "Guelph, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Future Opportunity - Investment Planning Consultant - Hamilton/Ancaster/Cambridge",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=00b67f56-8b35-469c-bd67-adbe8a6a898a",
+          "location": "Hamilton, Ontario",
+          "department": "Wealth",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Financial Services Associate - Licensed - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=3bd89046-a1d0-434f-940a-e4ce37cd716e",
+          "location": "Fergus, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Financial Services Representative - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ff585189-11ae-49eb-a498-dbd73fe1dc32",
+          "location": "Fergus, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Financial Services Representative - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=f4b1b899-782b-4f4c-919f-d8681c5b2e47",
+          "location": "Brantford, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Program Manager",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=78857e9b-b9b0-492e-bb64-006ffaaa3f81",
+          "location": "St Catharines, Ontario",
+          "department": "Corporate Services",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Financial Services Associate - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=989b9507-389f-45db-9d26-0cdbaf57140a",
+          "location": "Guelph, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Member Services Representative - Part Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=6bb825f8-70d6-4159-876b-7d649d257a3a",
+          "location": "Welland, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Member Services Representative - Part Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=552171c5-97d9-4c99-b594-5af4a721d4a8",
+          "location": "Kincardine, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-23"
+        },
+        {
+          "title": "Member Services Representative - Part Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=6eff40db-e1e3-4e6e-adca-a8991fa6b509",
+          "location": "Port Elgin, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-23"
+        },
+        {
+          "title": "Member Services Representative - Part Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=9dff0464-98a4-42d9-86bf-b3fb2b22e573",
+          "location": "Niagara Falls, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-23"
+        },
+        {
+          "title": "Financial Services Representative - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=f7dd82af-43dc-4520-8ad7-76e91b8e7b8a",
+          "location": "Port Elgin, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-23"
+        },
+        {
+          "title": "Member Services Representative - Part Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=6734c1f3-bbfc-4268-8dd3-943314ad8896",
+          "location": "Niagara-on-the-Lake, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-23"
+        },
+        {
+          "title": "Senior Credit Analyst",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=f46f2af2-fc02-442e-9eb2-312000f017d4",
+          "location": "St Catharines, Ontario",
+          "department": "Risk",
+          "postedDate": "2026-02-23"
+        },
+        {
+          "title": "Director and Team Lead, Land Development and Construction",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=c3b85ceb-c8e9-4317-9d2c-ef41f2d8bb98",
+          "location": "St Catharines, Ontario",
+          "department": "Business Banking",
+          "postedDate": "2026-02-19"
+        },
+        {
+          "title": "Technical Lead, HR Technology",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=49cf4df6-5c34-4548-b581-84b6e1c0cb31",
+          "location": "Etobicoke, Ontario",
+          "department": "Human Resources",
+          "postedDate": "2026-02-18"
+        },
+        {
+          "title": "Financial Services Associate - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=2119bb80-f485-4318-b1d6-54f62b828987",
+          "location": "Brampton, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-18"
+        },
+        {
+          "title": "Member Services Representative - Part Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=5ab7b5ae-5de3-4db7-9bc3-e39d1722804e",
+          "location": "Beamsville, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-17"
+        },
+        {
+          "title": "Financial Services Representative - Full Time - 15 Month Contract",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=706b55b7-8bab-4d2a-a53d-7357fd050019",
+          "location": "Guelph, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-17"
+        },
+        {
+          "title": "Contact Centre Representative - Part-Time - 6 Month Contract",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=c7e04464-5b5c-4a35-bf16-12919a435d7b",
+          "location": "St Catharines, Ontario",
+          "department": "Contact Centre",
+          "postedDate": "2026-02-13"
+        },
+        {
+          "title": "Financial Services Associate - Full Time - 12 Month Contract - Contact Centre - Hybrid",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=a51e84d4-56e6-4a1d-a23d-a9be08e4ad0a",
+          "location": "St Catharines, Ontario",
+          "department": "Contact Centre",
+          "postedDate": "2026-02-13"
+        },
+        {
+          "title": "Financial Services Associate - Full Time - Contact Centre - Hybrid",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=38b91b69-d023-4879-a9e6-db1a506e990c",
+          "location": "St Catharines, Ontario",
+          "department": "Contact Centre",
+          "postedDate": "2026-02-13"
+        },
+        {
+          "title": "Financial Services Representative - Full Time - Contact Centre - Hybrid",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=81acdb5c-c097-40fc-a546-2eb0ca429358",
+          "location": "St Catharines, Ontario",
+          "department": "Contact Centre",
+          "postedDate": "2026-02-13"
+        },
+        {
+          "title": "Financial Services Associate - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=54b55ad3-6e04-4208-96fb-bb10624bfb64",
+          "location": "Toronto, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-13"
+        },
+        {
+          "title": "Financial Services Representative - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=25ac3784-ce2f-4dbc-bdc0-6ed93d58a2f7",
+          "location": "Collingwood, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-09"
+        },
+        {
+          "title": "Financial Services Associate - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=3dce5874-3881-40ac-a8d0-00d2edfdc4f9",
+          "location": "Collingwood, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-09"
+        },
+        {
+          "title": "Member Services Representative - Part Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=a92faf7c-4a55-441d-b2cf-13e201a160c2",
+          "location": "Penetanguishene, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-06"
+        },
+        {
+          "title": "Financial Services Representative - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=fdcd87d8-db30-4395-93a4-c2cb9df64f9d",
+          "location": "Burlington, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-04"
+        },
+        {
+          "title": "Senior Financial Reporting Specialist",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=fb22397a-c9d0-4bd1-941d-38a9087fa873",
+          "location": "St Catharines, Ontario",
+          "department": "Finance",
+          "postedDate": "2026-02-03"
+        },
+        {
+          "title": "Assistant Branch Manager - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=23b5648f-8c4e-4e96-8b8a-d065ee094a05",
+          "location": "Pickering, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-02-03"
+        },
+        {
+          "title": "Senior Talent Acquisition Partner (12 Month Contract)",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=cdeba7b6-f9b7-4d14-a635-474466a4a6fc",
+          "location": "Etobicoke, Ontario",
+          "department": "Human Resources",
+          "postedDate": "2026-02-02"
+        },
+        {
+          "title": "Licensed Financial Services Associate - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=1c73d81d-eba1-44e8-9df6-cfad97f45828",
+          "location": "Guelph, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-01-30"
+        },
+        {
+          "title": "Financial Services Representative - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ae56dc7f-a92a-4446-9e95-36414b79c022",
+          "location": "Toronto, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-01-28"
+        },
+        {
+          "title": "Software Developer",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=b83d102c-94bb-46ac-8473-532b16e70bfb",
+          "location": "St Catharines, Ontario",
+          "department": "IT",
+          "postedDate": "2026-01-27"
+        },
+        {
+          "title": "AML/ATF Specialist",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=466a19c1-6546-4373-b475-91c0261fdff5",
+          "location": "Etobicoke, Ontario",
+          "department": "Risk",
+          "postedDate": "2026-01-23"
+        },
+        {
+          "title": "Senior AML/ ATF Specialist",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=8a489640-55a2-4c51-96e5-7af4ea07b6ba",
+          "location": "Etobicoke, Ontario",
+          "department": "Risk",
+          "postedDate": "2026-01-23"
+        },
+        {
+          "title": "AML/ATF Quality Control Specialist",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=a8ac1906-7f20-49c6-b9f9-ec8555b7bcfe",
+          "location": "Etobicoke, Ontario",
+          "department": "Risk",
+          "postedDate": "2026-01-20"
+        },
+        {
+          "title": "Future Opportunities - Investment Specialists/Financial Planners - GTA",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=cf664a51-10c5-48f0-8f70-6de30a4d00c4",
+          "location": "Toronto, Ontario",
+          "department": "Wealth",
+          "postedDate": "2026-01-13"
+        },
+        {
+          "title": "Financial Services Associate - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=8867d7b2-7c8a-42a5-b768-d33fa06a316a",
+          "location": "Fort Erie, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-01-12"
+        },
+        {
+          "title": "Service Management Analyst",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=75015298-7686-439d-978a-e7e34f02400a",
+          "location": "St Catharines, Ontario",
+          "department": "IT",
+          "postedDate": "2026-01-08"
+        },
+        {
+          "title": "Senior Manager, ESG and Sustainability Reporting (13 Month Contract)",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=fee24d67-fc24-4e61-940f-3ff38fe1a34c",
+          "location": "Etobicoke, Ontario",
+          "department": "Legal & Innovation",
+          "postedDate": "2026-01-07"
+        },
+        {
+          "title": "Senior Manager, Information Security",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=57138e1c-191b-473f-9efd-666082ee315c",
+          "location": "Etobicoke, Ontario",
+          "department": "IT",
+          "postedDate": "2026-01-06"
+        },
+        {
+          "title": "Financial Services Representative - Full Time - 6 Month Contract",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=4d0a302e-7f6d-409d-9a4c-26d2463b37a2",
+          "location": "Stevensville, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-01-06"
+        },
+        {
+          "title": "Manager, Fraud Analytics",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=5297c319-2d2b-4d42-9cd1-a671fcf52c0b",
+          "location": "Etobicoke, Ontario",
+          "department": "Risk",
+          "postedDate": "2026-01-06"
+        },
+        {
+          "title": "Senior Analyst, Data & Technology Integration",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=9c8d51c4-b555-465b-bca4-93221c06c147",
+          "location": "Etobicoke, Ontario",
+          "department": "Marketing",
+          "postedDate": "2026-01-05"
+        },
+        {
+          "title": "Join Our Talent Community! Financial Services Associate - Retail Branches!",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=1d9c4bf0-19c2-4558-9643-fabb0b68fc78",
+          "location": "Etobicoke, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-01-02"
+        },
+        {
+          "title": "Senior Commercial Credit Specialist",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=86a8c272-af12-4f0b-84f0-fe01fd67476e",
+          "location": "Etobicoke, Ontario",
+          "department": "Business Banking",
+          "postedDate": "2025-12-17"
+        },
+        {
+          "title": "UX Designer - 12 Month Contract",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=6e8a068c-a767-4f1f-bdc5-183bff7b9a1a",
+          "location": "Etobicoke, Ontario",
+          "department": "Digital Banking",
+          "postedDate": "2025-12-15"
+        },
+        {
+          "title": "Join Our Talent Community! Financial Services Associate - Contact Centre",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=7dd3992b-fc37-422c-9489-207caf9b6bd6",
+          "location": "St Catharines, Ontario",
+          "department": "Contact Centre",
+          "postedDate": "2025-10-03"
+        }
+      ]
+    },
+    {
+      "id": "cooperators",
+      "name": "Cooperators",
+      "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/JobBoardView/LoadSearchResults",
+      "jobCount": 76,
+      "jobs": [
+        {
+          "title": "Licensed Insurance Representative",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=6da0ccd2-d555-414d-97a2-9145e6a15b34",
+          "location": "Moncton, New Brunswick",
+          "department": "Client Service",
+          "postedDate": "2026-02-28"
+        },
+        {
+          "title": "Senior Business Analyst",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=62b378ba-8daa-4a23-ab2a-48b15a9a239b",
+          "location": "Guelph, Ontario",
+          "department": "Business Analysis & Solutions",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Accommodation Consultant",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=d26609c1-d0bf-4624-a6b8-ef4b08149b61",
+          "location": "Calgary, Alberta",
+          "department": "Human Resources",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Associate Insurance Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=f750fdcb-8c1b-4205-851d-f7756d86130c",
+          "location": "Grande Prairie, Alberta",
+          "department": "Client Service",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Claims Rep I QC",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=6a16ec45-47c7-481b-9ab1-1c7c6c6e209a",
+          "location": "Laval, Quebec",
+          "department": "Claims",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Claims Representative II",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=2f2bf2be-1db6-42c8-8304-83bddae066a8",
+          "location": "Laval, Quebec",
+          "department": "Claims",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Quality Assurance Analyst",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=24f7549c-1dab-4eff-8d39-c4536e276b44",
+          "location": "Guelph, Ontario",
+          "department": "Information Technology",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Associate Systems Developer",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=42d4aee9-ebcb-4aef-92fb-58832d212283",
+          "location": "Guelph, Ontario",
+          "department": "Information Technology",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Licensed Insurance Representative Assistant",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=53493dd6-bb66-4840-a83f-5b0defb892ee",
+          "location": "St John's, Newfoundland and Labrador",
+          "department": "Client Service",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Claims Representative II, Subrogation- Property",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=de7675cb-52e0-49bf-8bd2-a2e44c1ac23a",
+          "location": "Mississauga, Ontario",
+          "department": "Claims",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Data Architect",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=54cc614f-d981-456c-95fa-a647aa5f1a9f",
+          "location": "Toronto, Ontario",
+          "department": "Information Technology",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Licensed Insurance Representative",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=38896acb-4571-4ddd-b303-aa87ab1d6e82",
+          "location": "Tracadie-Sheila, New Brunswick",
+          "department": "Client Service",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Business Systems Analyst",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=084e0422-5478-4196-add7-0ab626e569bc",
+          "location": "Regina, Saskatchewan",
+          "department": "Information Technology",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Claims Representative III, Property (Field)",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=3dea7d15-1763-4abb-9788-c9d2af6921a1",
+          "location": "Calgary, Alberta",
+          "department": "Claims",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Senior Manager, Term Insurance Pricing",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=e51c8f33-b4f6-460c-9c32-abb4ae044f00",
+          "location": "Regina, Saskatchewan",
+          "department": "Actuarial",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Claims adjuster - Liability",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=b1417d6a-8e61-451b-825e-3c9cedc1aede",
+          "location": "Laval, Quebec",
+          "department": "Claims",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Technical  Supervisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=7d51ad40-f0d3-4f02-9cf6-373745b11dee",
+          "location": "Laval, Quebec",
+          "department": "Claims",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Senior Business Systems Analyst",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=dee6ef51-fe3d-4fe8-902d-531bf4a82a1a",
+          "location": "Burlington, Ontario",
+          "department": "Information Technology",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Senior Business Analyst -HR",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=fd7237ce-1bd0-4ebe-af1a-68ceb70ddf30",
+          "location": "Calgary, Alberta",
+          "department": "Cross Functional / Other",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Client service consultant",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=8bc653bb-e1e0-4e74-a4d1-9cef49dea4b4",
+          "location": "Québec, Quebec",
+          "department": "Client Service",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Senior Litigation Law Clerk",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=be4a41e2-9b5a-4862-8ae5-057cfb19a462",
+          "location": "Moncton, New Brunswick",
+          "department": "Legal/Compliance/Audit/Governance",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Commercial Insurance Specialist",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=8377054d-9d88-4b14-b631-750d76c80272",
+          "location": "Laval, Quebec",
+          "department": "Sales",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Manager, CFIS Compliance",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=c1201683-6f1a-4351-bec5-7ad550e5297d",
+          "location": "Guelph, Ontario",
+          "department": "Member Relations & Corporate Services",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Property Inspector",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=6ad39575-e0c6-4135-95fb-0f0172b405c6",
+          "location": "Moncton, New Brunswick",
+          "department": "Cross Functional / Other",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Health Claims Adjudicator- 12 month contract",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=dfcd3a1d-86bb-4d68-b6ab-17d811782ac3",
+          "location": "Regina, Saskatchewan",
+          "department": "Claims",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Appraiser II, Imagery",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=fd820ec2-4ba9-49a3-84a8-6ae3f3420971",
+          "location": "Calgary, Alberta",
+          "department": "Claims",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Operational Risk Consultant",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=0de9362b-9a09-4b88-bebe-aaa2831f15ed",
+          "location": "Regina, Saskatchewan",
+          "department": "Finance/Accounting",
+          "postedDate": "2026-02-23"
+        },
+        {
+          "title": "Associate Insurance Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=511d3043-331a-4e7c-9e9a-b4ebbe189d15",
+          "location": "Wainwright, Alberta",
+          "department": "Client Service",
+          "postedDate": "2026-02-23"
+        },
+        {
+          "title": "Associate Insurance Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=f96de582-418c-47e9-8f89-2a74bef3e323",
+          "location": "Mayerthorpe, Alberta",
+          "department": "Client Service",
+          "postedDate": "2026-02-23"
+        },
+        {
+          "title": "Lead Data Integration Specialist-API Mgmt",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=f5362392-4194-48b5-8a80-a497fa6e8d89",
+          "location": "Guelph, Ontario",
+          "department": "Business Intelligence",
+          "postedDate": "2026-02-20"
+        },
+        {
+          "title": "Claims Client Service Representative",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=72051db9-edb0-4345-843c-d53a5eee7aae",
+          "location": "Calgary, Alberta",
+          "department": "Claims",
+          "postedDate": "2026-02-20"
+        },
+        {
+          "title": "Claims Representative III, Property (Field)",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=96816874-57ac-4d62-b1ae-c7ea835b6af6",
+          "location": "Hamilton, Ontario",
+          "department": "Claims",
+          "postedDate": "2026-02-20"
+        },
+        {
+          "title": "Manager, Partnership Brand Programs ( Temporary - 14 months)",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=c57653ee-4b54-4f68-bb8d-fa7dec1332b0",
+          "location": "Toronto, Ontario",
+          "department": "Client Experience, Digital & Marketing",
+          "postedDate": "2026-02-19"
+        },
+        {
+          "title": "Supervisor, Client Contact Centre",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=4fd0415f-6edf-4ed2-b8f3-a22164540945",
+          "location": "Laval, Quebec",
+          "department": "Client Service",
+          "postedDate": "2026-02-19"
+        },
+        {
+          "title": "Operational Risk Analyst",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=ca3a5b02-ed20-4747-bdf2-4f7d14e204f8",
+          "location": "Toronto, Ontario",
+          "department": "Finance/Accounting",
+          "postedDate": "2026-02-19"
+        },
+        {
+          "title": "Manager, External Reporting",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=eb4bbba1-f4b3-4734-aa62-397291b1253d",
+          "location": "Guelph, Ontario",
+          "department": "Finance/Accounting",
+          "postedDate": "2026-02-19"
+        },
+        {
+          "title": "Project Manager",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=ec15f21d-d874-48d5-98c7-840255225156",
+          "location": "Guelph, Ontario",
+          "department": "Cross Functional / Other",
+          "postedDate": "2026-02-18"
+        },
+        {
+          "title": "Associate Insurance Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=e773edec-a68e-4528-b53f-9396cc31a6ee",
+          "location": "Wynyard, Saskatchewan",
+          "department": "Client Service",
+          "postedDate": "2026-02-18"
+        },
+        {
+          "title": "Associate Insurance Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=5fd4dca6-c0d3-49e3-b743-976c4b20a055",
+          "location": "Maple Ridge, British Columbia",
+          "department": "Client Service",
+          "postedDate": "2026-02-18"
+        },
+        {
+          "title": "Associate Partnership Marketing Specialist",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=bf01f2e9-7f50-449b-81ac-5a25878b6ad6",
+          "location": "Toronto, Ontario",
+          "department": "Client Experience, Digital & Marketing",
+          "postedDate": "2026-02-17"
+        },
+        {
+          "title": "Senior Litigation Law Clerk",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=8e826922-6bf6-4fbc-8341-1e1f8afd349d",
+          "location": "Moncton, New Brunswick",
+          "department": "Legal/Compliance/Audit/Governance",
+          "postedDate": "2026-02-17"
+        },
+        {
+          "title": "Associate Insurance Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=e51ac977-ffe6-4c95-8c33-122a3c729870",
+          "location": "Sedgewick, Alberta",
+          "department": "Client Service",
+          "postedDate": "2026-02-12"
+        },
+        {
+          "title": "Associate Insurance Advisor II",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=51d5a2f2-e29b-4b40-973c-4a0806e93f03",
+          "location": "Dauphin, Manitoba",
+          "department": "Client Service",
+          "postedDate": "2026-02-12"
+        },
+        {
+          "title": "Third Party Market Conduct & Operations Specialist",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=c6819b7a-244e-4cdf-8990-5243754a85a4",
+          "location": "Saskatchewan",
+          "department": "Client Service",
+          "postedDate": "2026-02-12"
+        },
+        {
+          "title": "Associate Insurance Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=b00eb816-e8b8-42d5-af13-bec325e144b8",
+          "location": "Estevan, Saskatchewan",
+          "department": "Client Service",
+          "postedDate": "2026-02-12"
+        },
+        {
+          "title": "Claims Administrative Assistant",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=ddc6c3cb-a69a-47b5-a4ae-b7eacf29cd21",
+          "location": "Calgary, Alberta",
+          "department": "Claims",
+          "postedDate": "2026-02-12"
+        },
+        {
+          "title": "Financial Advisor (Calgary - Heritage)",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=a99b99ab-263c-429e-bb3b-33edd35c7e9b",
+          "location": "Calgary, Alberta",
+          "department": "Other",
+          "postedDate": "2026-02-10"
+        },
+        {
+          "title": "Lead Data Engineering Developer",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=787275ea-dd48-4125-9f2d-acdc33f55bd4",
+          "location": "Guelph, Ontario",
+          "department": "Information Technology",
+          "postedDate": "2026-02-09"
+        },
+        {
+          "title": "Data Engineering Development Expert - Master Data Management",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=41be3de0-737a-4412-b781-a69e38274fa0",
+          "location": "Guelph, Ontario",
+          "department": "Information Technology",
+          "postedDate": "2026-02-04"
+        },
+        {
+          "title": "Lead Systems Developer",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=b122b0b3-c268-46ef-b730-afe2de727b6b",
+          "location": "Toronto, Ontario",
+          "department": "Information Technology",
+          "postedDate": "2026-02-04"
+        },
+        {
+          "title": "Customer Service Representative",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=eb8b7eec-b23b-4495-a2c8-8a13cea8afc9",
+          "location": "Caplan, Quebec",
+          "department": "Client Service",
+          "postedDate": "2026-02-03"
+        },
+        {
+          "title": "Senior Systems Developer – Sr Salesforce Developer",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=068fa373-feac-4a8e-a663-5583eeb7e326",
+          "location": "Toronto, Ontario",
+          "department": "Information Technology",
+          "postedDate": "2026-02-03"
+        },
+        {
+          "title": "Commercial Insurance Specialist",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=c54d8651-7b09-41f4-8542-9f88c47b587e",
+          "location": "Warwick, Quebec",
+          "department": "Sales",
+          "postedDate": "2026-02-02"
+        },
+        {
+          "title": "Commis de liaison",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=c6ca2c72-19fd-4ccb-aad9-d3cd7eb72672",
+          "location": "Laval, Quebec",
+          "department": "Client Service",
+          "postedDate": "2026-01-28"
+        },
+        {
+          "title": "Senior Solution Architect",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=fe4dcd12-df2d-4984-a308-f3e33d12eedb",
+          "location": "Guelph, Ontario",
+          "department": "Information Technology",
+          "postedDate": "2026-01-28"
+        },
+        {
+          "title": "Senior Actuarial Consultant - Corporate Actuarial",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=75b9e37a-a0b3-438d-9a43-b6a1e91d44f2",
+          "location": "Guelph, Ontario",
+          "department": "Actuarial",
+          "postedDate": "2026-01-27"
+        },
+        {
+          "title": "Sr Systems Development Consultant - Digital Platforms Technology",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=7e3abd0f-9b59-4834-bc0d-5a1e79a123c0",
+          "location": "Guelph, Ontario",
+          "department": "Digital",
+          "postedDate": "2026-01-27"
+        },
+        {
+          "title": "Associate Financial Advisor (Saskatchewan - Remote)",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=96e5aebb-31f0-4972-bab6-f557c682cd3b",
+          "location": "Saskatchewan",
+          "department": "Sales",
+          "postedDate": "2026-01-26"
+        },
+        {
+          "title": "Associate Financial Advisor (Alberta - Remote)",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=5821e74a-17f9-4aae-bd5f-a4f66e29bac2",
+          "location": "Alberta",
+          "department": "Sales",
+          "postedDate": "2026-01-26"
+        },
+        {
+          "title": "Associate Insurance Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=1bad9ebe-e4c2-418c-871e-9b0ac7919422",
+          "location": "Yellowknife, Northwest Territories",
+          "department": "Client Service",
+          "postedDate": "2026-01-22"
+        },
+        {
+          "title": "Associate Insurance Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=4ba74c5e-ffaa-4fc1-a075-415ff2325e09",
+          "location": "Langley, British Columbia",
+          "department": "Client Service",
+          "postedDate": "2026-01-22"
+        },
+        {
+          "title": "Financial Security Advisor – Independent",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=affc06c0-08b0-404c-adcd-15eb1cc483db",
+          "location": "Quebec",
+          "department": "Other",
+          "postedDate": "2026-01-21"
+        },
+        {
+          "title": "Associate Insurance Advisor III - Commercial Sales (Barrhead, Alberta)",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=7b48d1f2-0394-48ce-86c3-079370fd9eae",
+          "location": "Barrhead, Alberta",
+          "department": "Sales",
+          "postedDate": "2026-01-20"
+        },
+        {
+          "title": "Associate Financial Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=f0e3be31-59c3-4d0c-8730-8caf47c5c6cc",
+          "location": "Kanata, Ontario",
+          "department": "Sales",
+          "postedDate": "2026-01-09"
+        },
+        {
+          "title": "Commercial Specialist",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=67999242-efa2-45bd-9fa4-a636f04eb294",
+          "location": "Clarington, Ontario",
+          "department": "Sales",
+          "postedDate": "2026-01-09"
+        },
+        {
+          "title": "Associate Insurance Advisor III - Commercial Sales (Hybrid)",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=7f7815f7-115b-40a0-abec-c5570cf3896e",
+          "location": "Victoria, British Columbia",
+          "department": "Sales",
+          "postedDate": "2026-01-07"
+        },
+        {
+          "title": "Bilingual Senior Group Sales & Service Representative- Group Benefits",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=ee5c3e76-39e8-4a11-b39b-a38b4e09c133",
+          "location": "Moncton, New Brunswick",
+          "department": "Client Service",
+          "postedDate": "2026-01-06"
+        },
+        {
+          "title": "Associate Insurance Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=3b9bf07a-b137-4369-84d0-70f9a18a82d6",
+          "location": "High Prairie, Alberta",
+          "department": "Client Service",
+          "postedDate": "2025-12-23"
+        },
+        {
+          "title": "Associate Insurance Advisor II",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=06ac50c6-f7b9-4ac7-ad98-ab1345caf300",
+          "location": "Fairview, Alberta",
+          "department": "Client Service",
+          "postedDate": "2025-11-27"
+        },
+        {
+          "title": "Associate Insurance Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=01dc9e2a-2603-404f-b8f2-169a8c34c1c0",
+          "location": "Calgary, Alberta",
+          "department": "Client Service",
+          "postedDate": "2025-11-26"
+        },
+        {
+          "title": "Financial Advisor (Victoria, BC)",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=df55cb1f-23f0-4bd9-bd98-855551576436",
+          "location": "Victoria, British Columbia",
+          "department": "Other",
+          "postedDate": "2025-10-22"
+        },
+        {
+          "title": "Associate Insurance Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=bc3d29d4-7cb9-484b-a72e-ceececeb8f94",
+          "location": "Morinville, Alberta",
+          "department": "Client Service",
+          "postedDate": "2025-10-15"
+        },
+        {
+          "title": "Associate Insurance Advisor III",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=1d3187c9-7965-4608-bc2f-01dee8a2eee5",
+          "location": "Morinville, Alberta",
+          "department": "Sales",
+          "postedDate": "2025-10-15"
+        },
+        {
+          "title": "Financial Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=f76ac801-496a-45eb-8531-ec4a04b16613",
+          "location": "Burnaby, British Columbia",
+          "department": "Sales",
+          "postedDate": "2025-08-07"
+        },
+        {
+          "title": "Financial Advisor (Barrhead, AB)",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=e7d50d4c-61dd-4ce2-ab8e-cdbcce92a3f6",
+          "location": "Edmonton, Alberta",
+          "department": "Sales",
+          "postedDate": "2025-07-25"
+        },
+        {
+          "title": "Financial Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=8fe08345-45d1-45f0-bda7-3c29d012ba4d",
+          "location": "Penticton, British Columbia",
+          "department": "Other",
+          "postedDate": "2025-01-24"
+        }
+      ]
+    },
+    {
+      "id": "igm",
+      "name": "IGM",
+      "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing_summary&resultType=XML",
+      "jobCount": 26,
+      "jobs": [
+        {
+          "title": "Advisor, IG Wealth Connect (Alberta)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13854",
+          "location": "Location\nAlberta",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Advisor, IG Wealth Connect (British Columbia)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13853",
+          "location": "Location\nBritish Columbia",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Advisor, IG Wealth Connect (Maritimes)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13857",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Advisor, IG Wealth Connect (Ontario)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13856",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Advisor, IG Wealth Connect (Prairies)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13855",
+          "location": "Location\nManitoba|Saskatchewan",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Advisor, IG Wealth Connect (Quebec)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13858",
+          "location": "Location\nQuebec",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Advisor, IG Wealth Management, Corporate Channel (Mutual fund licensed) - (Saskatoon)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13885",
+          "location": "Location\nSaskatchewan",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Analyst Operational Controls &amp; Oversight",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13937",
+          "location": "Location\nManitoba|Ontario",
+          "department": "General",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Area Vice President, Business Development",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13933",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Bilingual Client Service Representative",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13918",
+          "location": "Location\nQuebec|Manitoba",
+          "department": "General",
+          "postedDate": "2026-02-18"
+        },
+        {
+          "title": "Bilingual Compliance Investigator",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13901",
+          "location": "Location\nManitoba|Quebec",
+          "department": "General",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Bilingual Private Company Advisory Analyst",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13709",
+          "location": "Location\nManitoba|Ontario|Quebec",
+          "department": "General",
+          "postedDate": "2026-02-10"
+        },
+        {
+          "title": "Bilingual Senior Client Relations Representative",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13931",
+          "location": "Location\nManitoba|Quebec",
+          "department": "General",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Bilingual Senior Specialist, Benefits &amp; Wellness",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13917",
+          "location": "Location\nManitoba|Quebec",
+          "department": "General",
+          "postedDate": "2026-02-16"
+        },
+        {
+          "title": "Business Development Associate",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13927",
+          "location": "Location\nOntario|Quebec",
+          "department": "General",
+          "postedDate": "2026-02-20"
+        },
+        {
+          "title": "Business Development Manager",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13935",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Coordinator Region Office Operations - Levis, QC",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13903",
+          "location": "Location\nQuebec",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Coordinator, Region Office Operations - Victoria, BC",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13926",
+          "location": "Location\nBritish Columbia",
+          "department": "General",
+          "postedDate": "2026-02-20"
+        },
+        {
+          "title": "Director Compensation",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13860",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Director, Private Wealth, Content Marketing &amp; Strategy",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13936",
+          "location": "Location\nManitoba|Ontario|Quebec",
+          "department": "General",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Estate and Insurance Specialist",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13873",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-02-20"
+        },
+        {
+          "title": "Manager, Compliance - Tier 1",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13837",
+          "location": "Location\nAlberta|British Columbia|Manitoba|New Brunswick|Newfoundland & Labrador|North West Territories|Nova Scotia|Ontario|Prince Edward Island|Quebec|Saskatchewan|Yukon",
+          "department": "General",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Regional Estate and Insurance Specialist (REIS)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13864",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-02-20"
+        },
+        {
+          "title": "Senior Financial Analyst, Strategy Planning &amp; Analysis",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13924",
+          "location": "Location\nManitoba",
+          "department": "General",
+          "postedDate": "2026-02-20"
+        },
+        {
+          "title": "Specialist, HR Process &amp; Technology - 12 Month Term",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13929",
+          "location": "Location\nManitoba|Ontario|Quebec",
+          "department": "General",
+          "postedDate": "2026-02-24"
+        },
+        {
+          "title": "Vice President, Private Company Advisory",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13865",
+          "location": "Location\nQuebec",
+          "department": "General",
+          "postedDate": "2026-02-10"
+        }
+      ]
+    },
+    {
+      "id": "desjardins",
+      "name": "Desjardins",
+      "url": "https://desjardins-workplace.relevance.studio/en",
       "jobCount": 0,
       "jobs": []
+    },
+    {
+      "id": "statestreet",
+      "name": "State Street",
+      "url": "https://careers.statestreet.com/global/en/search-results",
+      "jobCount": 10,
+      "jobs": [
+        {
+          "title": "Artificial Intelligence & Machine Learning, VP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Artificial-Intelligence---Machine-Learning--VP_R-782463-1/apply",
+          "location": "Bangalore",
+          "department": "Other",
+          "postedDate": "2026-01-07"
+        },
+        {
+          "title": "Data Scientist – Agentic AI / Graph/ LLM Science , VP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Data-Scientist---Agentic-AI---Graph--LLM-Science---VP_R-782492-1/apply",
+          "location": "Bangalore",
+          "department": "Other",
+          "postedDate": "2026-01-07"
+        },
+        {
+          "title": "Static Data, Assistance Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Static-Data--Assistance-Vice-President_R-782178/apply",
+          "location": "Bangalore",
+          "department": "Investment Operations",
+          "postedDate": "2026-02-02"
+        },
+        {
+          "title": "Compliance Monitoring & Surveillance, Senior Associate (Emerging Lead)",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Compliance-Monitoring---Surveillance--Senior-Associate_R-779480/apply",
+          "location": "Bangalore",
+          "department": "Compliance, Risk and Legal",
+          "postedDate": "2026-02-02"
+        },
+        {
+          "title": "Static Data Management Manager, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Static-Data-Management-Manager--Officer_R-776245/apply",
+          "location": "Bangalore",
+          "department": "Investment Operations",
+          "postedDate": "2026-02-04"
+        },
+        {
+          "title": "Portfolio Solutions Operations - Manager",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Portfolio-Solutions-Operations---Manager_R-783775/apply",
+          "location": "Bangalore",
+          "department": "Investment Operations",
+          "postedDate": "2026-02-07"
+        },
+        {
+          "title": "Officer - Global Treasury",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Officer---Global-Treasury_R-783894/apply",
+          "location": "Bangalore",
+          "department": "Investment Operations",
+          "postedDate": "2026-02-10"
+        },
+        {
+          "title": "Securities Lending - Collateral & Settlements -Assistant Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Securities-Lending---Collateral---Settlements--Assistant-Vice-President_R-784242-1/apply",
+          "location": "Bangalore",
+          "department": "Investment Operations",
+          "postedDate": "2026-02-13"
+        },
+        {
+          "title": "Reference Data Management, Team Lead",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Reference-Data-Management--Team-Lead_R-784100/apply",
+          "location": "Bangalore",
+          "department": "Investment Operations",
+          "postedDate": "2026-02-12"
+        },
+        {
+          "title": "Market Surveillance Officer!-2",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Market-Surveillance-Officer--2_R-784239/apply",
+          "location": "Bangalore",
+          "department": "Investment Management",
+          "postedDate": "2026-02-18"
+        }
+      ]
+    },
+    {
+      "id": "raymondjames",
+      "name": "Raymond James",
+      "url": "https://raymondjames.taleo.net/careersection/1_ca/jobsearch.ftl?lang=en",
+      "jobCount": 99,
+      "jobs": [
+        {
+          "title": "Client Service Specialist",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500711&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Victoria",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Account Profile Associate",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600166&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Sales Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600164&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Nanaimo",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Client Services Coordinator",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600167&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Burlington",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Financial Analyst",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600133&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Bilingual Transition Administrator - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600150&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Administrateur(-trice) de transition bilingue - Contrat de 12 mois",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600152&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Intermediate Relationship Associate, Correspondent Services - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600127&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600160&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Bilingual Talent Acquisition Specialist",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600155&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Spécialiste de l’acquisition de talents bilingue",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600156&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Relationship Associate, Correspondent Services - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600126&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Associate, Tax Preparation Services - 2 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600143&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Sales Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600138&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Account Transfer Associate - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600124&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Account Transfer Associate - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600123&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Trust Officer",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600103&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Chargé de comptes des services fiduciaires ou chargée de comptes des services fiduciaires",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600104&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Chargé de comptes adjoint des services fiduciaires ou chargée de comptes adjointe des services fiduciaires",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600113&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Associate Trust Officer",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600102&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Receptionist",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600137&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Kingston",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Financial Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600096&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Financial Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600097&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Branch Assistant - 6 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600135&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Administrative Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600134&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Nanaimo",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Financial Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600132&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Licensed Financial Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600131&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Branch Administrator",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600121&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Mississauga",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Senior Analyst, Incident Response",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600098&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "VP, Business Development",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600095&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Branch Manager, RJLU",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600114&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Business Analyst",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600115&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Coordinator, Corporate Communications",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600089&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Associate, Business Development",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600018&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Associé(e), Développement des affaires",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600019&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "VP, Business Development",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600021&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Vice-président ou vice-présidente, Développement des affaires",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600046&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Branch Administrative Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600092&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Mississauga",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Private Client Group (PCG) Administrative Associate - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500737&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Branch Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600088&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Victoria",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Compliance Officer",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600090&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Branch Assistant/Receptionist",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600080&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Kelowna",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Wealth Associate",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600077&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Associé(e) aux relations, Services de correspondants - Contrat de 12 mois",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600009&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600071&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "AB-Edmonton",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Administrative Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500716&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "AB-Edmonton",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Account Profile Associate - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600064&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Trust Officer",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600011&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Trust Operations Associate - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600057&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Equity Research Associate",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600052&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Administrateur/administratrice fiduciaire",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500520&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Trust Administrator",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500519&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600035&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Senior Trust Advisor",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600033&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Senior Tax Associate",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500648&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Payroll Associate",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600027&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Client Services Coordinator / Administrative Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600032&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Waterloo",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Associé ou associée aux opérations du Groupe gestion privée (GGP) – Contrat de 18 mois",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600007&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Private Client Group (PCG) Operations Associate - 18 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600006&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Mutual Funds Associate - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500787&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Licensed Sales Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500771&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "AB-Edmonton",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Administrative Assistant - Contract (15 months)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500764&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Adjoint administratif ou adjointe administrative - Contrat de 15 mois",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500750&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Branch Manager",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500745&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "MB-Winnipeg",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Project Manager II",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500747&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Burnaby",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Wealth Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500746&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Agent(e) de conformité",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500732&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Licensed Wealth Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500727&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Alberta",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Licensed Wealth Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500694&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Financial Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500673&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Certified Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500703&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Barrie",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Licensed Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500702&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Barrie",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Sales Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500691&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Financial Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500672&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Advisor Internship Program (AIP) (Toronto/Waterloo/Ottawa)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500587&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Advisor Internship Program (AIP) (Calgary/Edmonton/Saskatoon)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500586&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Advisor Internship Program (AIP) (Victoria/Kelowna)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500588&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Transition Administrator (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500495&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Licensed Sales Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403509&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Investment Banking Associate/Analyst",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500462&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Investment Banking Analyst/Associate (Future Opportunities)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500244&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Adjoint(e) au conseiller, service de conseils en placement (réquisition perpétuelle)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403015&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Investment Advisor Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403516&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Administrative Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500006&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Licensed Sales Assistant (evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2402021&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Administrative Assistant (evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2401046&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Victoria",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Financial Advisor",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2204723&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "SK-Saskatoon",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Advisor Internship Program (AIP) (Calgary/Edmonton/Saskatoon)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500586&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Advisor Internship Program (AIP) (Victoria/Kelowna)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500588&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Transition Administrator (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500495&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Licensed Sales Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403509&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Investment Banking Associate/Analyst",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500462&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Investment Banking Analyst/Associate (Future Opportunities)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500244&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Adjoint(e) au conseiller, service de conseils en placement (réquisition perpétuelle)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403015&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Investment Advisor Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403516&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Administrative Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500006&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Licensed Sales Assistant (evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2402021&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Administrative Assistant (evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2401046&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "BC-Victoria",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Financial Advisor",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2204723&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+          "location": "SK-Saskatoon",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        }
+      ]
+    },
+    {
+      "id": "mackenzie",
+      "name": "Mackenzie",
+      "url": "https://careersen-mackenzieinvestments.icims.com/jobs/search?ss=1",
+      "jobCount": 0,
+      "jobs": []
+    },
+    {
+      "id": "richardson",
+      "name": "Richardson Wealth",
+      "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL",
+      "jobCount": 22,
+      "jobs": [
+        {
+          "title": "Associate",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3022",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Complex Account & Estate Service Specialist",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3015",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Complex Account & Estate Service Specialist",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3012",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Assistant",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2998",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Assistant Branch Manager",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2987",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Assistant",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2972",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Complex Account & Estate Service Specialist",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2965",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Salesforce Administrator",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2960",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Assistant",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2954",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Reporting and IA Compensation Analyst",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2947",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Business Analyst (9-month Contract)",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2941",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Associate Wealth Planner",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2931",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Manager, Branch Administrator",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2493",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Wealth Compliance Advisor",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2921",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Investment Advisor, National Partnership Office",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2908",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Investment Advisor, National Partnership Office",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2904",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Investment Advisor, National Partnership Office",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2893",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Senior Business Analyst",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2886",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Associate",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2858",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Assistant",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2824",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Associate Investment Advisor",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/2816",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Cookie Preferences",
+          "url": "https://www.dayforce.com/ca/privacy/cookie-notice",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        }
+      ]
+    },
+    {
+      "id": "iawealth",
+      "name": "IA Wealth",
+      "url": "https://ia.ca/jobs/jobs-available",
+      "jobCount": 68,
+      "jobs": [
+        {
+          "title": "Senior Director, Financial and Actuarial Services, Canadian Dealer Services",
+          "url": "https://ia.ca/en/carrieres/job/JR10025738",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Intern - Compliance and Operational Risk Analyst (Summer 2026)",
+          "url": "https://ia.ca/en/carrieres/job/JR10025635",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Advisor Solutions Manager",
+          "url": "https://ia.ca/en/carrieres/job/JR10025726",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Agency Support Agent (Terrebonne)",
+          "url": "https://ia.ca/en/carrieres/job/JR10025708",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Agency Support Agent (Beaugrand)",
+          "url": "https://ia.ca/en/carrieres/job/JR10025707",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Business Development Specialist",
+          "url": "https://ia.ca/en/carrieres/job/JR10025673",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Business Development Specialist",
+          "url": "https://ia.ca/en/carrieres/job/JR10025669",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "IT Technician",
+          "url": "https://ia.ca/en/carrieres/job/JR10025655",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Student – Reinsurance Technician",
+          "url": "https://ia.ca/en/carrieres/job/JR10025714",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Team Leader for the Transactions and Nominee Payments team",
+          "url": "https://ia.ca/en/carrieres/job/JR10025690",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Administrative Assistant",
+          "url": "https://ia.ca/en/carrieres/job/JR10025749",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Internal Wholesaler",
+          "url": "https://ia.ca/en/carrieres/job/JR10025663",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Manager, Process Innovation",
+          "url": "https://ia.ca/en/carrieres/job/JR10025755",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Human Potential and Growth Coordinator",
+          "url": "https://ia.ca/en/carrieres/job/JR10025492",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Internal Sales Specialist",
+          "url": "https://ia.ca/en/carrieres/job/JR10025649",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Prestige HNW Relationship Manager",
+          "url": "https://ia.ca/en/carrieres/job/JR10023895",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Senior Actuarial Analyst – Individual Insurance, Savings and Retirement",
+          "url": "https://ia.ca/en/carrieres/job/JR10025575",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Mechanical Warranty Claims Adjuster",
+          "url": "https://ia.ca/en/carrieres/job/JR10025629",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Investment Advisor (CSC, CPH)",
+          "url": "https://ia.ca/en/carrieres/job/JR10024870",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Sales Manager, Atlantic Canada",
+          "url": "https://ia.ca/en/carrieres/job/JR10024560",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Automobile Claims Adjuster",
+          "url": "https://ia.ca/en/carrieres/job/JR10025559",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Project Controller",
+          "url": "https://ia.ca/en/carrieres/job/JR10025521",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Bilingual Automobile Claims Adjuster",
+          "url": "https://ia.ca/en/carrieres/job/JR10025610",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Client Relationship Manager - 1 year contract",
+          "url": "https://ia.ca/en/carrieres/job/JR10025642",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "ITSM Practice Lead – Event Management (ServiceNow ITOM)",
+          "url": "https://ia.ca/en/carrieres/job/JR10025659",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Insurance Advisor",
+          "url": "https://ia.ca/en/carrieres/job/JR10023101",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Directeur(trice) associé(e), Actions canadiennes",
+          "url": "https://ia.ca/en/carrieres/job/JR10025660",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Compliance Advisor (Insurance)",
+          "url": "https://ia.ca/en/carrieres/job/JR10025244",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Executive Assistant",
+          "url": "https://ia.ca/en/carrieres/job/JR10024966",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Senior Advisor, Insurance Risk Oversight",
+          "url": "https://ia.ca/en/carrieres/job/JR10025634",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Registration and Licensing Specialist",
+          "url": "https://ia.ca/en/carrieres/job/JR10025633",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Branch Manager (Saskatoon)",
+          "url": "https://ia.ca/en/carrieres/job/JR10025248",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Mechanic",
+          "url": "https://ia.ca/en/carrieres/job/JR10025605",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Product Manager - Hub Salesforce",
+          "url": "https://ia.ca/en/carrieres/job/JR10024771",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Model Validation Advisor",
+          "url": "https://ia.ca/en/carrieres/job/JR10024846",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Senior Investment Strategist",
+          "url": "https://ia.ca/en/carrieres/job/JR10024337",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Process Documentation Consultant",
+          "url": "https://ia.ca/en/carrieres/job/JR10025683",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Administrative Assistant",
+          "url": "https://ia.ca/en/carrieres/job/JR10025497",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Agency Support Agent",
+          "url": "https://ia.ca/en/carrieres/job/JR10025602",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Compliance Technician - Oversight and Investigation",
+          "url": "https://ia.ca/en/carrieres/job/JR10025515",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "AVP, Product Management",
+          "url": "https://ia.ca/en/carrieres/job/JR10024304",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Transfers and Deposits Technician",
+          "url": "https://ia.ca/en/carrieres/job/JR10025424",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Corporate Branch Manager",
+          "url": "https://ia.ca/en/carrieres/job/JR10025513",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Claims Administration Agent",
+          "url": "https://ia.ca/en/carrieres/job/JR10025604",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Associate Director, Asset-Liability Specialist, Investment Risk",
+          "url": "https://ia.ca/en/carrieres/job/JR10025552",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Directeur(trice), Expert métier – Fonds généraux,Risques d’investissement",
+          "url": "https://ia.ca/en/carrieres/job/JR10025542",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Senior Risk Advisor",
+          "url": "https://ia.ca/en/carrieres/job/JR10025329",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Accounting Analyst – Finance Team – Distribution Network Compensation",
+          "url": "https://ia.ca/en/carrieres/job/JR10025249",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Workplace Services Attendant (WPS)",
+          "url": "https://ia.ca/en/carrieres/job/JR10025630",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Client Relation Specialist",
+          "url": "https://ia.ca/en/carrieres/job/JR10024707",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Strategic Legal Counsel and Practice Leader, Privacy and Information Security",
+          "url": "https://ia.ca/en/carrieres/job/JR10025498",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Senior Advisor – Data, Data Architecture and Data Modeling",
+          "url": "https://ia.ca/en/carrieres/job/JR10025621",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Director, Data Governance Office",
+          "url": "https://ia.ca/en/carrieres/job/JR10025619",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Underwriter",
+          "url": "https://ia.ca/en/carrieres/job/JR10025107",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Senior Data Analyst",
+          "url": "https://ia.ca/en/carrieres/job/JR10025330",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Compliance Officer",
+          "url": "https://ia.ca/en/carrieres/job/JR10025387",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Investments Administrator",
+          "url": "https://ia.ca/en/carrieres/job/JR10025617",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Claims Analyst - Individual Insurance",
+          "url": "https://ia.ca/en/carrieres/job/JR10025510",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Sales Director, Life Insurance (WFG)",
+          "url": "https://ia.ca/en/carrieres/job/JR10025410",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Account Executive",
+          "url": "https://ia.ca/en/carrieres/job/JR10024113",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Claims Analyst - Individual Insurance",
+          "url": "https://ia.ca/en/carrieres/job/JR10025511",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Director, Marketing and Regional Operations",
+          "url": "https://ia.ca/en/carrieres/job/JR10025535",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Client Relationship Manager - 18 month contract",
+          "url": "https://ia.ca/en/carrieres/job/JR10025514",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Head Underwriter (Senior Underwriting consultant)",
+          "url": "https://ia.ca/en/carrieres/job/JR10025218",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Analyste - Systèmes financiers",
+          "url": "https://ia.ca/en/carrieres/job/JR10025439",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Senior Director – Strategic Procurement",
+          "url": "https://ia.ca/en/carrieres/job/JR10025457",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Senior Underwriter",
+          "url": "https://ia.ca/en/carrieres/job/JR10025469",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        },
+        {
+          "title": "Senior Buyer, Strategic Sourcing - IT Sector",
+          "url": "https://ia.ca/en/carrieres/job/JR10025430",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-01"
+        }
+      ]
     }
   ]
 }

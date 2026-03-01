@@ -6,7 +6,7 @@ on:
     - cron: '0 18 * * *'   # 6 PM UTC daily
   workflow_dispatch:        # Manual trigger button
   push:
-    branches: [main]
+    branches: [master]
 
 permissions:
   contents: write
@@ -24,8 +24,11 @@ jobs:
           node-version: '20'
       
       - name: Install dependencies
-        run: npm install cheerio
-      
+        run: npm install cheerio puppeteer
+
+      - name: Install Puppeteer system dependencies
+        run: npx puppeteer browsers install chrome --install-deps
+
       - name: Run scraper
         run: node scraper.js
       
