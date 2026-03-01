@@ -26,9 +26,6 @@ jobs:
       - name: Install dependencies
         run: npm install cheerio puppeteer
 
-      - name: Install Puppeteer system dependencies
-        run: npx puppeteer browsers install chrome --install-deps
-
       - name: Run scraper
         run: node scraper.js
       
