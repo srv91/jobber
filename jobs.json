@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T05:02:35.895Z",
+  "lastUpdated": "2026-03-02T05:14:39.589Z",
   "sources": [
     {
       "id": "sunlife",
@@ -1212,13 +1212,6 @@
           "postedDate": "Feb 28, 2026"
         },
         {
-          "title": "Director, Network & Security Operations ServicesDirector, Network & Security Operations Services",
-          "url": "https://jobs.canadalife.com/job/London-Director%2C-Network-&-Security-Operations-Services-ON/1278674701/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "Feb 28, 2026"
-        },
-        {
           "title": "Customer Service Specialist (bilingual)Customer Service Specialist (bilingual)",
           "url": "https://jobs.canadalife.com/job/Montreal-Customer-Service-Specialist-%28bilingual%29-Queb/1276834701/",
           "location": "Montreal, Quebec, CA",
@@ -1349,6 +1342,13 @@
           "url": "https://jobs.canadalife.com/job/London-Associate-Manager-Financial-Operations-ON/1367945533/",
           "location": "London, ON, CA\n            \n                +1 more…",
           "department": "Actuarial and Investments and Finance",
+          "postedDate": "Feb 25, 2026"
+        },
+        {
+          "title": "Senior Risk and Resilience AdvisorSenior Risk and Resilience Advisor",
+          "url": "https://jobs.canadalife.com/job/Toronto-Senior-Risk-and-Resilience-Advisor-ON/1367783233/",
+          "location": "Toronto, ON, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
           "postedDate": "Feb 25, 2026"
         }
       ]
@@ -2723,11 +2723,25 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "Associate Regional Consultant - Model Portfolios, AVP - State Street Investment Management",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Scottsdale/Associate-Regional-Consultant---Model-Portfolios--AVP---State-Street-Investment-Management_R-782405/apply",
-          "location": "Scottsdale",
-          "department": "Sales and Client Relationship",
-          "postedDate": "2026-01-05"
+          "title": "Alternative Investment Services Centralized Pricing Team, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investment-Services-Centralized-Pricing-Team--Senior-Associate_R-781772/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2025-12-16"
+        },
+        {
+          "title": "Alternative Investment Services Centralized Pricing Team, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investment-Services-Centralized-Pricing-Team--Senior-Associate_R-781759/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2025-12-16"
+        },
+        {
+          "title": "Hedge Fund Core Operations, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Middle-Office--Officer_R-781346/apply",
+          "location": "Sacramento",
+          "department": "Investment Operations",
+          "postedDate": "2026-02-18"
         },
         {
           "title": "Gold Strategist, VP I - State Street Investment Management",
@@ -2777,20 +2791,6 @@
           "location": "Irvine",
           "department": "Other",
           "postedDate": "2026-02-20"
-        },
-        {
-          "title": "Alternative Investment Services Centralized Pricing Team, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investment-Services-Centralized-Pricing-Team--Senior-Associate_R-781772/apply",
-          "location": "Sacramento",
-          "department": "Other",
-          "postedDate": "2025-12-16"
-        },
-        {
-          "title": "Alternative Investment Services Centralized Pricing Team, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investment-Services-Centralized-Pricing-Team--Senior-Associate_R-781759/apply",
-          "location": "Sacramento",
-          "department": "Other",
-          "postedDate": "2025-12-16"
         }
       ]
     },
