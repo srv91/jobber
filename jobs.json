@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T11:27:01.871Z",
+  "lastUpdated": "2026-03-07T23:27:19.758Z",
   "sources": [
     {
       "id": "sunlife",
@@ -825,6 +825,20 @@
       "jobCount": 40,
       "jobs": [
         {
+          "title": "Commercial Underwriter P&C",
+          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Vancouver/Commercial-Underwriter-P-C_R-165959",
+          "location": "Vancouver",
+          "department": "R-165959",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Senior Field Underwriter- Equipment Breakdown",
+          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Calgary-AB-112-4th-Ave-SW/Senior-Field-Underwriter--Equipment-Breakdown_R-162668",
+          "location": "Canada - Calgary AB 112-4th Ave SW",
+          "department": "R-162668",
+          "postedDate": "Posted Today"
+        },
+        {
           "title": "Intermediate Auto Claims Advisor/Adjuster (Oakville, ON - Hybrid)",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Oakville-ON-1335-North-Service-Road-East/Intermediate-Auto-Claims-Advisor-Adjuster--Oakville--ON---Hybrid-_R-161964-1",
           "location": "Canada - Oakville ON 1335 North Service Road East",
@@ -949,20 +963,6 @@
           "location": "2 Locations",
           "department": "R-162654",
           "postedDate": "Posted 4 Days Ago"
-        },
-        {
-          "title": "AVP, Compliance Monitoring",
-          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/AVP--Compliance-Monitoring_R-165800",
-          "location": "Markham",
-          "department": "R-165800",
-          "postedDate": "Posted 4 Days Ago"
-        },
-        {
-          "title": "Field Adjuster - Property Claims",
-          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Calgary/Field-Adjuster---Property-Claims_R-165770",
-          "location": "2 Locations",
-          "department": "R-165770",
-          "postedDate": "Posted 5 Days Ago"
         },
         {
           "title": "Agile Delivery Specialist",
@@ -2551,9 +2551,219 @@
       "id": "igm",
       "name": "IGM",
       "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing_summary&resultType=XML",
-      "jobCount": 0,
-      "jobs": [],
-      "error": "HTTP 504"
+      "jobCount": 30,
+      "jobs": [
+        {
+          "title": "Advisor, IG Wealth Connect (Alberta)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13854",
+          "location": "Location\nAlberta",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Advisor, IG Wealth Connect (British Columbia)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13853",
+          "location": "Location\nBritish Columbia",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Advisor, IG Wealth Connect (Maritimes)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13857",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Advisor, IG Wealth Connect (Ontario)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13856",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Advisor, IG Wealth Connect (Prairies)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13855",
+          "location": "Location\nManitoba|Saskatchewan",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Advisor, IG Wealth Connect (Quebec)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13858",
+          "location": "Location\nQuebec",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Advisor, IG Wealth Management, Corporate Channel (Mutual fund licensed) - (Saskatoon)",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13885",
+          "location": "Location\nSaskatchewan",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Advisor, IG Wealth Management, Corporate Channel (Mutual fund licensed) - Abbotsford, BC",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13912",
+          "location": "Location\nBritish Columbia",
+          "department": "General",
+          "postedDate": "2026-03-06"
+        },
+        {
+          "title": "Advisor, IG Wealth Management, Corporate Channel (Mutual fund licensed) - Centre-du-Québec",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13915",
+          "location": "Location\nQuebec",
+          "department": "General",
+          "postedDate": "2026-03-02"
+        },
+        {
+          "title": "Advisor, IG Wealth Management, Corporate Channel (Mutual fund licensed) - Edmonton, Alberta",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13911",
+          "location": "Location\nAlberta",
+          "department": "General",
+          "postedDate": "2026-03-06"
+        },
+        {
+          "title": "Advisor, IG Wealth Management, Corporate Channel (Mutual fund licensed) - Kelowna, BC",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13910",
+          "location": "Location\nBritish Columbia",
+          "department": "General",
+          "postedDate": "2026-03-03"
+        },
+        {
+          "title": "Advisor, IG Wealth Management, Corporate Channel (Mutual fund licensed) - Sherbrooke, QC",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13914",
+          "location": "Location\nQuebec",
+          "department": "General",
+          "postedDate": "2026-03-02"
+        },
+        {
+          "title": "Advisor, IG Wealth Management, Corporate Channel (Mutual fund licensed) - Winnipeg, MB",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13939",
+          "location": "Location\nManitoba",
+          "department": "General",
+          "postedDate": "2026-03-03"
+        },
+        {
+          "title": "Analyst Operational Controls &amp; Oversight",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13937",
+          "location": "Location\nManitoba|Ontario",
+          "department": "General",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Area Vice President, Business Development",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13933",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Area Vice President, Business Development",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13729",
+          "location": "Location\nQuebec",
+          "department": "General",
+          "postedDate": "2026-03-06"
+        },
+        {
+          "title": "Bilingual Business Development Associate",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13927",
+          "location": "Location\nOntario|Quebec",
+          "department": "General",
+          "postedDate": "2026-03-06"
+        },
+        {
+          "title": "Bilingual Client Service Representative",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13918",
+          "location": "Location\nQuebec|Manitoba",
+          "department": "General",
+          "postedDate": "2026-02-18"
+        },
+        {
+          "title": "Bilingual Senior Client Relations Representative",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13931",
+          "location": "Location\nManitoba|Quebec",
+          "department": "General",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Business Development Manager",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13935",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Coordinator Region Office Operations - Levis, QC",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13903",
+          "location": "Location\nQuebec",
+          "department": "General",
+          "postedDate": "2026-02-25"
+        },
+        {
+          "title": "Coordinator Transfers Out",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13942",
+          "location": "Location\nManitoba",
+          "department": "General",
+          "postedDate": "2026-03-04"
+        },
+        {
+          "title": "Coordinator, Region Office Operation",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13967",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-03-06"
+        },
+        {
+          "title": "Coordinator, Region Office Operations - Victoria, BC",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13926",
+          "location": "Location\nBritish Columbia",
+          "department": "General",
+          "postedDate": "2026-03-06"
+        },
+        {
+          "title": "Director Compensation",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13860",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Director, Private Wealth, Content Marketing &amp; Strategy",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13936",
+          "location": "Location\nManitoba|Ontario|Quebec",
+          "department": "General",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Manager, Compliance - Tier 1",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13837",
+          "location": "Location\nAlberta|British Columbia|Manitoba|New Brunswick|Newfoundland & Labrador|North West Territories|Nova Scotia|Ontario|Prince Edward Island|Quebec|Saskatchewan|Yukon",
+          "department": "General",
+          "postedDate": "2026-02-26"
+        },
+        {
+          "title": "Senior Manager, Risk Analytics",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13961",
+          "location": "Location\nManitoba|Ontario",
+          "department": "General",
+          "postedDate": "2026-03-06"
+        },
+        {
+          "title": "Senior Specialist, Operational Data &amp; Metrics",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13965",
+          "location": "Location\nManitoba",
+          "department": "General",
+          "postedDate": "2026-03-06"
+        },
+        {
+          "title": "Specialist, HR Process &amp; Technology - 12 Month Term",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13929",
+          "location": "Location\nManitoba|Ontario|Quebec",
+          "department": "General",
+          "postedDate": "2026-02-24"
+        }
+      ]
     },
     {
       "id": "statestreet",
@@ -2562,62 +2772,6 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "Private Equity, Fund Accounting & Administration, Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Private-Equity--Fund-Accounting---Administration--Vice-President_R-781536/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2025-12-11"
-        },
-        {
-          "title": "Private Equity, Fund Accounting & Administration, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Private-Equity--Fund-Accounting---Administration--Senior-Associate_R-781538-3/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2025-12-11"
-        },
-        {
-          "title": "Private Equity, Fund Accounting & Administration, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Private-Equity--Fund-Accounting---Administration--Senior-Associate_R-781675/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2025-12-15"
-        },
-        {
-          "title": "Private Equity, Fund Accounting & Administration, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Private-Equity--Fund-Accounting---Administration--Officer_R-781932-3/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2025-12-17"
-        },
-        {
-          "title": "Private Equity, Fund Accounting & Administration, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Private-Equity--Fund-Accounting---Administration--Officer_R-781678-3/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2025-12-15"
-        },
-        {
-          "title": "Fund Accounting, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Fund-Accounting--Senior-Associate_R-782563-1/apply",
-          "location": "Kansas City",
-          "department": "Finance and Audit",
-          "postedDate": "2026-01-08"
-        },
-        {
-          "title": "Alternative Investment Services Bank Loans Operations , Assistant Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Alternative-Investment-Services-Bank-Loans-Operations---Assistant-Vice-President_R-785405-3/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-03-06"
-        },
-        {
-          "title": "Alternative Investment Services Bank Loans Operations, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Alternative-Investment-Services-Bank-Loans-Operations--Officer_R-785403-8/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-03-06"
-        },
-        {
           "title": "Associate Regional Consultant - Model Portfolios, AVP - State Street Investment Management",
           "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Scottsdale/Associate-Regional-Consultant---Model-Portfolios--AVP---State-Street-Investment-Management_R-782405/apply",
           "location": "Scottsdale",
@@ -2625,11 +2779,67 @@
           "postedDate": "2026-01-05"
         },
         {
-          "title": "Senior Systems Analyst",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Austin-Texas/Senior-Systems-Analyst_R-782733/apply",
-          "location": "Austin",
+          "title": "Gold Strategist, VP I - State Street Investment Management",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Gold-Strategist--VP-I---State-Street-Investment-Management_R-777514/apply",
+          "location": "Irvine",
+          "department": "Investment Management",
+          "postedDate": "2026-01-12"
+        },
+        {
+          "title": "OTC Derivatives Transformation Lead – Alpha Business Architecture – Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/OTC-Architecture--VP_R-777887/apply",
+          "location": "Irvine",
+          "department": "Business Strategy and Project Management",
+          "postedDate": "2026-01-19"
+        },
+        {
+          "title": "Bank Loan Services Operations, Assistant Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Bank-Loan-Services-Operations--Assistant-Vice-President_R-785032/apply",
+          "location": "Irvine",
           "department": "Other",
-          "postedDate": "2026-01-13"
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Alternative and Bank Loans Accounting, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Alternative-and-Bank-Loans-Accounting--Officer_R-785031-1/apply",
+          "location": "Irvine",
+          "department": "Other",
+          "postedDate": "2026-02-27"
+        },
+        {
+          "title": "Front-Office Trading / Buyside Post Production Technical Support Specialist - (API, ETL tool usage, Java and/or C# programming) Investment Trading Software Fixed Income and Equities - Charles River Development",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/R-781540-Front-Office---Buyside-Post-Production-Technical-Support-Specialist----API--ETL-tool-usage--Java-and-or-C--programming--Investment-Trading-Software-Fixed-Income-and-Equities---Charles-River-Development_R-783888-1/apply",
+          "location": "Irvine",
+          "department": "Other",
+          "postedDate": "2026-02-20"
+        },
+        {
+          "title": "Product Management, MD",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Product-Management--MD_R-784954/apply",
+          "location": "Irvine",
+          "department": "Financial Software and Product Development",
+          "postedDate": "2026-03-03"
+        },
+        {
+          "title": "Alternative Investment Services Centralized Pricing Team, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investment-Services-Centralized-Pricing-Team--Senior-Associate_R-781772/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2025-12-16"
+        },
+        {
+          "title": "Alternative Investment Services Centralized Pricing Team, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investment-Services-Centralized-Pricing-Team--Senior-Associate_R-781759/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2025-12-16"
+        },
+        {
+          "title": "Hedge Fund Core Operations, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Middle-Office--Officer_R-781346/apply",
+          "location": "Sacramento",
+          "department": "Investment Operations",
+          "postedDate": "2026-02-18"
         }
       ]
     },
@@ -3585,8 +3795,22 @@
       "id": "iawealth",
       "name": "IA Wealth",
       "url": "https://ia.ca/jobs/jobs-available",
-      "jobCount": 63,
+      "jobCount": 65,
       "jobs": [
+        {
+          "title": "Business Improvement Advisor",
+          "url": "https://ia.ca/en/carrieres/job/JR10025800",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-07"
+        },
+        {
+          "title": "Training Designer",
+          "url": "https://ia.ca/en/carrieres/job/JR10025724",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-03-07"
+        },
         {
           "title": "Head Underwriter (Senior Underwriting consultant)",
           "url": "https://ia.ca/en/carrieres/job/JR10025218",
