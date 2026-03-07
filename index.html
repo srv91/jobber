@@ -440,6 +440,17 @@ statestreet: 'badge-statestreet',
       lucide.createIcons();
     }
 
+    function parsePostedDate(s) {
+      if (!s) return 0;
+      if (/^\d{4}-\d{2}-\d{2}$/.test(s)) return new Date(s + 'T00:00:00').getTime();
+      if (/posted today/i.test(s)) return new Date(data.lastUpdated).getTime();
+      const daysMatch = s.match(/posted (\d+)\+? days? ago/i);
+      if (daysMatch) return new Date(data.lastUpdated).getTime() - parseInt(daysMatch[1]) * 86400000;
+      const parsed = new Date(s);
+      if (!isNaN(parsed)) return parsed.getTime();
+      return 0;
+    }
+
     function renderJobs() {
       let jobs = [];
       
@@ -454,12 +465,14 @@ statestreet: 'badge-statestreet',
 
       if (searchQuery) {
         const q = searchQuery.toLowerCase();
-        jobs = jobs.filter(j => 
-          j.title.toLowerCase().includes(q) || 
+        jobs = jobs.filter(j =>
+          j.title.toLowerCase().includes(q) ||
           j.location.toLowerCase().includes(q) ||
           j.company.toLowerCase().includes(q)
         );
       }
+
+      jobs.sort((a, b) => parsePostedDate(b.postedDate) - parsePostedDate(a.postedDate));
 
       document.getElementById('footer-stats').textContent = `Showing ${jobs.length} job${jobs.length !== 1 ? 's' : ''}`;
 
@@ -479,8 +492,8 @@ statestreet: 'badge-statestreet',
             <span class="job-badge ${badgeClasses[j.companyId] || ''}">${j.company}</span>
           </div>
           <div class="job-meta">
-            <span><i data-lucide="map-pin"></i> ${j.location}</span>
             <span><i data-lucide="clock"></i> ${j.postedDate}</span>
+            <span><i data-lucide="map-pin"></i> ${j.location}</span>
             <span><i data-lucide="tag"></i> ${j.department}</span>
           </div>
         </a>
