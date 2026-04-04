@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T11:35:12.040Z",
+  "lastUpdated": "2026-04-04T23:35:44.795Z",
   "sources": [
     {
       "id": "sunlife",
@@ -162,13 +162,6 @@
           "postedDate": "Posted 2 Days Ago"
         },
         {
-          "title": "IT Control Analyst – ICFR",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/IT-Control-Analyst---ICFR_JR00121775",
-          "location": "Gurugram, Haryana",
-          "department": "JR00121775",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
           "title": "Financial Services Consultant, Client Relationship Team",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Financial-Services-Consultant--Client-Relationship-Team_JR00122414",
           "location": "Toronto, Ontario",
@@ -285,6 +278,13 @@
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Lead-Software-Engineer_JR00122124",
           "location": "3 Locations",
           "department": "JR00122124",
+          "postedDate": "Posted 3 Days Ago"
+        },
+        {
+          "title": "UI/UX Designer",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/UI-UX-Designer_JR00115957",
+          "location": "Taguig City, National Capital Region (Manila)",
+          "department": "JR00115957",
           "postedDate": "Posted 3 Days Ago"
         }
       ]
@@ -804,6 +804,13 @@
       "jobCount": 40,
       "jobs": [
         {
+          "title": "Group Portfolio Lead",
+          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Group-Portfolio-Lead_R-167217",
+          "location": "Markham",
+          "department": "R-167217",
+          "postedDate": "Posted Today"
+        },
+        {
           "title": "Salesforce Architect",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Salesforce-Architect_R-167347",
           "location": "Poland - Warsaw - ASEC",
@@ -991,13 +998,6 @@
           "location": "Canada - Ottawa ON 2100-112 Kent Street",
           "department": "R-167163",
           "postedDate": "Posted 3 Days Ago"
-        },
-        {
-          "title": "Untitled",
-          "url": "https://aviva.wd1.myworkdayjobs.com/External",
-          "location": "Not specified",
-          "department": "R-167217",
-          "postedDate": "2026-04-04"
         },
         {
           "title": "Civil Structural Engineer",
@@ -2807,74 +2807,74 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "North America Asset Manager Client Services, VP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/North-America-Asset-Manager-Client-Services--VP_R-786743/apply",
-          "location": "Kansas City",
-          "department": "Sales and Client Relationship",
+          "title": "Head of Americas - Professional Services - Managing Director - Charles River Development -",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Richmond-Virginia/Head-of-Americas---Professional-Services---Managing-Director---Charles-River-Development--_R-785335/apply",
+          "location": "OS VA",
+          "department": "Information Technology",
           "postedDate": "2026-03-24"
         },
         {
-          "title": "Fund Accounting and Administration Product - Insurance Accounting, Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Fund-Accounting-and-Administration-Product---Insurance-Accounting--Vice-President_R-787090-3/apply",
-          "location": "Kansas City",
-          "department": "Financial Software and Product Development",
-          "postedDate": "2026-03-26"
+          "title": "Front-Office / Buyside Post Production Technical Support Specialist - (API, ETL tool usage, Java and/or C# programming) Investment Trading Software Fixed Income and Equities - Charles River Development",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Front-Office---Buyside-Post-Production-Technical-Support-Specialist----API--ETL-tool-usage--Java-and-or-C--programming--Investment-Trading-Software-Fixed-Income-and-Equities---Charles-River-Development_R-783187/apply",
+          "location": "Berwyn",
+          "department": "Other",
+          "postedDate": "2026-03-19"
         },
         {
-          "title": "Operations Client Service, Off",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Operations-Client-Service--Off_R-785729/apply",
-          "location": "Kansas City",
-          "department": "Sales and Client Relationship",
-          "postedDate": "2026-03-31"
-        },
-        {
-          "title": "Product Management, AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Product-Management--AVP_R-786889/apply",
-          "location": "Kansas City",
-          "department": "Financial Software and Product Development",
-          "postedDate": "2026-03-31"
-        },
-        {
-          "title": "Product Management, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Product-Management--Officer_R-786890/apply",
-          "location": "Kansas City",
-          "department": "Financial Software and Product Development",
-          "postedDate": "2026-03-31"
-        },
-        {
-          "title": "Alpha Global Testing, - Middle-Office / Front-Office AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Alpha-Global-Testing--AVP_R-779493/apply",
-          "location": "Toronto",
+          "title": "Cash Services Implementation Lead, Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Cash-Services-Implementation-Lead--Vice-President_R-787308/apply",
+          "location": "Berwyn",
           "department": "Business Strategy and Project Management",
-          "postedDate": "2026-02-17"
+          "postedDate": "2026-04-01"
         },
         {
-          "title": "Financial Reporting, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Financial-Reporting--Officer_R-785744/apply",
-          "location": "Toronto",
-          "department": "Fund Services",
-          "postedDate": "2026-03-13"
-        },
-        {
-          "title": "Sr. Databricks Data Engineer, Onsite AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Sr-Databricks-Data-Engineer--Onsite-AVP_R-786175/apply",
-          "location": "Toronto",
+          "title": "Hedge Fund Accounting and Administration, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Hedge-Fund-Accounting-and-Administration--Senior-Associate_R-784303-4/apply",
+          "location": "Princeton",
           "department": "Other",
-          "postedDate": "2026-03-23"
+          "postedDate": "2026-02-13"
         },
         {
-          "title": "Senior Snowflake Data Engineer, AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Senior-Snowflake-Data-Engineer--AVP_R-786176/apply",
-          "location": "Toronto",
+          "title": "Infrastructure Operations Project Manager - Application, Infrastructure & Service Management",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Infrastructure-Operations-Project-Manager---Application--Infrastructure---Service-Management_R-784050/apply",
+          "location": "Princeton",
           "department": "Other",
-          "postedDate": "2026-03-23"
+          "postedDate": "2026-02-11"
         },
         {
-          "title": "Alternative Investment Services (AIS)- Transfer Agency, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Alternative-Investment-Services--AIS---Transfer-Agency--Senior-Associate_R-785376-1/apply",
-          "location": "Toronto",
+          "title": "Technical Program Manager - Capital Markets Technology, VP, Hybrid",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Technical-Program-Manager---Capital-Markets-Technology--VP--Hybrid_R-786336/apply",
+          "location": "Princeton",
           "department": "Other",
-          "postedDate": "2026-03-27"
+          "postedDate": "2026-03-19"
+        },
+        {
+          "title": "Hedge Fund Accounting & Administration, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Fund-Accounting---Administration--Senior-Associate_R-785750/apply",
+          "location": "Princeton",
+          "department": "Other",
+          "postedDate": "2026-03-30"
+        },
+        {
+          "title": "Alternative Investments Data Solutions, Managing Director",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Alternative-Investments-Data-Solutions--Managing-Director_R-782440-4/apply",
+          "location": "Princeton",
+          "department": "Other",
+          "postedDate": "2026-01-06"
+        },
+        {
+          "title": "Alternative Investments Business Transformation Business Analyst, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Alternative-Investments-Business-Transformation-Business-Analyst--Officer_R-785364/apply",
+          "location": "Princeton",
+          "department": "Other",
+          "postedDate": "2026-03-05"
+        },
+        {
+          "title": "Alternative Investment Services Middle Office Treasury, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Alternative-Investment-Services-Middle-Office-Treasury--Officer_R-785748/apply",
+          "location": "Princeton",
+          "department": "Other",
+          "postedDate": "2026-03-12"
         }
       ]
     },
