@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T11:40:29.077Z",
+  "lastUpdated": "2026-04-18T23:39:05.458Z",
   "sources": [
     {
       "id": "sunlife",
@@ -1125,184 +1125,9 @@
       "id": "canadalife",
       "name": "Canada Life",
       "url": "https://jobs.canadalife.com/go/All-Jobs/9170201/",
-      "jobCount": 25,
-      "jobs": [
-        {
-          "title": "Investigator IInvestigator I",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Investigator-I-MB/1374303033/",
-          "location": "Winnipeg, MB, CA\n            \n                +2 more…",
-          "department": "Claims Management",
-          "postedDate": "Apr 18, 2026"
-        },
-        {
-          "title": "Business Development AssociateBusiness Development Associate",
-          "url": "https://jobs.canadalife.com/job/Toronto-Business-Development-Associate-ON/1375706833/",
-          "location": "Toronto, ON, CA",
-          "department": "Sales and Business Development",
-          "postedDate": "Apr 18, 2026"
-        },
-        {
-          "title": "Bilingual (Fr/En) Business Development AssociateBilingual (Fr/En) Business Development Associate",
-          "url": "https://jobs.canadalife.com/job/Montreal-Bilingual-%28FrEn%29-Business-Development-Associate-Queb/1375690633/",
-          "location": "Montreal, Quebec, CA",
-          "department": "Sales and Business Development",
-          "postedDate": "Apr 18, 2026"
-        },
-        {
-          "title": "Director, Technical AccountingDirector, Technical Accounting",
-          "url": "https://jobs.canadalife.com/job/Toronto-Director%2C-Technical-Accounting-ON/1375316733/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Actuarial and Investments and Finance",
-          "postedDate": "Apr 18, 2026"
-        },
-        {
-          "title": "Associate Manager, Sales Enablement - 12 Month ContractAssociate Manager, Sales Enablement - 12 Month Contract",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Associate-Manager%2C-Sales-Enablement-12-Month-Contract-MB/1385228133/",
-          "location": "Winnipeg, MB, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Apr 18, 2026"
-        },
-        {
-          "title": "Disability Case Manager (bilingual)Disability Case Manager (bilingual)",
-          "url": "https://jobs.canadalife.com/job/Ottawa-Disability-Case-Manager-%28bilingual%29-ON/1375657633/",
-          "location": "Ottawa, ON, CA",
-          "department": "Claims Management",
-          "postedDate": "Apr 17, 2026"
-        },
-        {
-          "title": "Sr. Ford SpecialistSr. Ford Specialist",
-          "url": "https://jobs.canadalife.com/job/Mississauga-Ontario-Sr_-Ford-Specialist-ON-L5B-1M2/1374291733/",
-          "location": "Mississauga Ontario, ON, CA, L5B 1M2",
-          "department": "Claims Management",
-          "postedDate": "Apr 17, 2026"
-        },
-        {
-          "title": "Bilingual (Fr/En) Education & Engagement ConsultantBilingual (Fr/En) Education & Engagement Consultant",
-          "url": "https://jobs.canadalife.com/job/Montreal-Bilingual-%28FrEn%29-Education-&-Engagement-Consultant-Queb/1368324733/",
-          "location": "Montreal, Quebec, CA\n            \n                +1 more…",
-          "department": "Sales and Business Development",
-          "postedDate": "Apr 17, 2026"
-        },
-        {
-          "title": "Payment Processor Payment AdminPayment Processor Payment Admin",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Payment-Processor-Payment-Admin-MB/1385117733/",
-          "location": "Winnipeg, MB, CA",
-          "department": "Actuarial and Investments and Finance",
-          "postedDate": "Apr 17, 2026"
-        },
-        {
-          "title": "Client Experience Specialist - Kelowna, BCClient Experience Specialist - Kelowna, BC",
-          "url": "https://jobs.canadalife.com/job/Kelowna-British-Columbia-Client-Experience-Specialist-Kelowna%2C-BC-Brit-V1Y-4Z4/1385152733/",
-          "location": "Kelowna British Columbia, British Columbia, CA, V1Y 4Z4",
-          "department": "Corporate Functions",
-          "postedDate": "Apr 17, 2026"
-        },
-        {
-          "title": "Customer Service Specialist (bilingual)Customer Service Specialist (bilingual)",
-          "url": "https://jobs.canadalife.com/job/Montreal-Customer-Service-Specialist-%28bilingual%29-Queb/1385191833/",
-          "location": "Montreal, Quebec, CA",
-          "department": "Customer Service and Administration",
-          "postedDate": "Apr 17, 2026"
-        },
-        {
-          "title": "Customer Processing RepresentativeCustomer Processing Representative",
-          "url": "https://jobs.canadalife.com/job/London-Ontario-Customer-Processing-Representative-ON-N6A-4K1/1385158433/",
-          "location": "London Ontario, ON, CA, N6A 4K1",
-          "department": "Customer Service and Administration",
-          "postedDate": "Apr 17, 2026"
-        },
-        {
-          "title": "Claims ExaminerClaims Examiner",
-          "url": "https://jobs.canadalife.com/job/Charlottetown-Prince-Edward-Is-Claims-Examiner-Prin-C1E-1K5/1385178733/",
-          "location": "Charlottetown Prince Edward Is, Prince Edward Island, CA, C1E 1K5",
-          "department": "Claims Management",
-          "postedDate": "Apr 17, 2026"
-        },
-        {
-          "title": "Regional VP, InsuranceRegional VP, Insurance",
-          "url": "https://jobs.canadalife.com/job/Vancouver-Regional-VP%2C-Insurance-Brit/1385082233/",
-          "location": "Vancouver, British Columbia, CA",
-          "department": "Sales and Business Development",
-          "postedDate": "Apr 17, 2026"
-        },
-        {
-          "title": "Regional Sales Manager, Insurance (Outside Wholesaler)Regional Sales Manager, Insurance (Outside Wholesaler)",
-          "url": "https://jobs.canadalife.com/job/Vancouver-Regional-Sales-Manager%2C-Insurance-%28Outside-Wholesaler%29-Brit/1292006401/",
-          "location": "Vancouver, British Columbia, CA",
-          "department": "Sales and Business Development",
-          "postedDate": "Apr 16, 2026"
-        },
-        {
-          "title": "Conversion & Specialty Products AdministratorConversion & Specialty Products Administrator",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Conversion-&-Specialty-Products-Administrator-MB/1384711833/",
-          "location": "Winnipeg, MB, CA",
-          "department": "Customer Service and Administration",
-          "postedDate": "Apr 16, 2026"
-        },
-        {
-          "title": "Advisor Support AssociateAdvisor Support Associate",
-          "url": "https://jobs.canadalife.com/job/London-Advisor-Support-Associate-ON/1384530933/",
-          "location": "London, ON, CA",
-          "department": "Sales and Business Development",
-          "postedDate": "Apr 16, 2026"
-        },
-        {
-          "title": "Executive AssistantExecutive Assistant",
-          "url": "https://jobs.canadalife.com/job/Toronto-Executive-Assistant-ON/1384726933/",
-          "location": "Toronto, ON, CA",
-          "department": "Corporate Functions",
-          "postedDate": "Apr 16, 2026"
-        },
-        {
-          "title": "Field Compensation AssociateField Compensation Associate",
-          "url": "https://jobs.canadalife.com/job/Canada-Field-Compensation-Associate-ON/1384601633/",
-          "location": "Canada, ON, CA",
-          "department": "Corporate Functions",
-          "postedDate": "Apr 16, 2026"
-        },
-        {
-          "title": "Customer Service Specialist (bilingual)Customer Service Specialist (bilingual)",
-          "url": "https://jobs.canadalife.com/job/Montreal-Customer-Service-Specialist-%28bilingual%29-Queb/1273709201/",
-          "location": "Montreal, Quebec, CA\n            \n                +1 more…",
-          "department": "Sales and Business Development",
-          "postedDate": "Apr 15, 2026"
-        },
-        {
-          "title": "Manager, Platform ProductManager, Platform Product",
-          "url": "https://jobs.canadalife.com/job/London-Ontario-Manager%2C-Platform-Product-ON-N6A-4K1/1289599801/",
-          "location": "London Ontario, ON, CA, N6A 4K1\n            \n                +1 more…",
-          "department": "Digital Technology",
-          "postedDate": "Apr 15, 2026"
-        },
-        {
-          "title": "Wealth Advisor - Oakville, ONWealth Advisor - Oakville, ON",
-          "url": "https://jobs.canadalife.com/job/Oakville-Ontario-Wealth-Advisor-Oakville%2C-ON-ON-L5K-0J3/1384272333/",
-          "location": "Oakville Ontario, ON, CA, L5K 0J3\n            \n                +1 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Apr 15, 2026"
-        },
-        {
-          "title": "Wealth & Tax Planning Consultant (Bilingual Mandarin or Cantonese)Wealth & Tax Planning Consultant (Bilingual Mandarin or Cantonese)",
-          "url": "https://jobs.canadalife.com/job/Toronto-Wealth-&-Tax-Planning-Consultant-%28Bilingual-Mandarin-or-Cantonese%29-ON/1384268233/",
-          "location": "Toronto, ON, CA",
-          "department": "Sales and Business Development",
-          "postedDate": "Apr 15, 2026"
-        },
-        {
-          "title": "Associate Manager, Digital Optimization & PersonalizationAssociate Manager, Digital Optimization & Personalization",
-          "url": "https://jobs.canadalife.com/job/Toronto-Associate-Manager%2C-Digital-Optimization-&-Personalization-ON/1384262333/",
-          "location": "Toronto, ON, CA",
-          "department": "Digital Technology",
-          "postedDate": "Apr 15, 2026"
-        },
-        {
-          "title": "Manager, Application SecurityManager, Application Security",
-          "url": "https://jobs.canadalife.com/job/Toronto-Ontario-Manager%2C-Application-Security-ON-M5T-3M3/1384313333/",
-          "location": "Toronto Ontario, ON, CA, M5T 3M3",
-          "department": "Digital Technology",
-          "postedDate": "Apr 15, 2026"
-        }
-      ]
+      "jobCount": 0,
+      "jobs": [],
+      "error": "fetch failed"
     },
     {
       "id": "cibcmellon",
@@ -2912,74 +2737,74 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "Head of Americas - Professional Services - Managing Director - Charles River Development -",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Richmond-Virginia/Head-of-Americas---Professional-Services---Managing-Director---Charles-River-Development--_R-785335/apply",
-          "location": "OS VA",
-          "department": "Information Technology",
-          "postedDate": "2026-03-24"
+          "title": "Alternative Investment Services Valuations Pricing, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investment-Services-Valuations-Pricing--Senior-Associate_R-785370/apply",
+          "location": "Sacramento",
+          "department": "Investment Operations",
+          "postedDate": "2026-03-23"
         },
         {
-          "title": "Cash Services Implementation Lead, Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Cash-Services-Implementation-Lead--Vice-President_R-787308/apply",
-          "location": "Berwyn",
-          "department": "Business Strategy and Project Management",
-          "postedDate": "2026-04-01"
-        },
-        {
-          "title": "State Street - Global Delivery - Alpha Operations Summer Internship 2026",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/State-Street---Global-Delivery---Alpha-Operations-Summer-Internship-2026_R-781935/apply",
-          "location": "Berwyn",
-          "department": "Internships and Development Programs",
-          "postedDate": "2026-04-06"
-        },
-        {
-          "title": "Principal Consultant VP -  IBOR - Implementation",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Principal-Consultant-VP----IBOR---Implementation_R-787839/apply",
-          "location": "Berwyn",
+          "title": "Private Equity Fund Accounting & Administration, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Private-Equity-Fund-Accounting---Administration--Senior-Associate_R-785538/apply",
+          "location": "Sacramento",
           "department": "Other",
-          "postedDate": "2026-04-08"
+          "postedDate": "2026-03-31"
         },
         {
-          "title": "Infrastructure Operations Project Manager - Application, Infrastructure & Service Management",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Infrastructure-Operations-Project-Manager---Application--Infrastructure---Service-Management_R-784050/apply",
-          "location": "Princeton",
+          "title": "Private Equity Fund Accounting & Administration, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Private-Equity-Fund-Accounting---Administration--Senior-Associate_R-785726/apply",
+          "location": "Sacramento",
           "department": "Other",
-          "postedDate": "2026-02-11"
+          "postedDate": "2026-03-11"
         },
         {
-          "title": "Hedge Fund Accounting & Administration, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Fund-Accounting---Administration--Senior-Associate_R-785750/apply",
-          "location": "Princeton",
+          "title": "AIS Centralized Pricing- Associate 2",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/AIS-Centralized-Pricing--Associate-2_R-785841/apply",
+          "location": "Sacramento",
           "department": "Other",
-          "postedDate": "2026-03-30"
+          "postedDate": "2026-03-12"
         },
         {
-          "title": "AML Pillar Manager, Vice President, Hybrid",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/AML-Pillar-Manager--Vice-President--Hybrid_R-787580/apply",
-          "location": "Princeton",
-          "department": "Compliance, Risk and Legal",
-          "postedDate": "2026-04-06"
+          "title": "Middle Office - Assoicate 2",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Middle-Office---Assoicate-2_R-785851-1/apply",
+          "location": "Sacramento",
+          "department": "Investment Operations",
+          "postedDate": "2026-03-12"
         },
         {
-          "title": "IT Architecture",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/IT-Architecture_R-788046/apply",
-          "location": "Princeton",
+          "title": "Core Operations, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Core-Operations--Senior-Associate_R-785934/apply",
+          "location": "Sacramento",
           "department": "Other",
+          "postedDate": "2026-03-13"
+        },
+        {
+          "title": "Core Operations, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Core-Operations--Senior-Associate_R-787666/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-04-07"
+        },
+        {
+          "title": "Core Operations, Associate 2",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Core-Operations--Associate-2_R-778631/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-04-16"
+        },
+        {
+          "title": "Client Manager, AVP  Investment Trading - Charles River Development",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Client-Manager--AVP--Investment-Trading---Charles-River-Development_R-787835/apply",
+          "location": "Sacramento",
+          "department": "Sales and Client Relationship",
           "postedDate": "2026-04-10"
         },
         {
-          "title": "Assistant Vice President – IT Security Governance & Risk Management",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Assistant-Vice-President---IT-Security-Governance---Risk-Management_R-788585-1/apply",
-          "location": "Princeton",
+          "title": "Core Operations, Associate 2",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Core-Operations--Associate-2_R-778632/apply",
+          "location": "Sacramento",
           "department": "Other",
-          "postedDate": "2026-04-17"
-        },
-        {
-          "title": "Fund Accounting & Administration, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Fund-Accounting---Administration--Senior-Associate_R-788051/apply",
-          "location": "Princeton",
-          "department": "Other",
-          "postedDate": "2026-04-10"
+          "postedDate": "2026-04-16"
         }
       ]
     },
