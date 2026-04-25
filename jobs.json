@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T11:43:22.385Z",
+  "lastUpdated": "2026-04-25T23:41:51.258Z",
   "sources": [
     {
       "id": "sunlife",
@@ -260,13 +260,6 @@
           "postedDate": "Posted 2 Days Ago"
         },
         {
-          "title": "Specialist - Gen AI Development",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Specialist---Gen-AI-Development_JR00122854",
-          "location": "Gurugram, Haryana",
-          "department": "JR00122854",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
           "title": "AML Analyst",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/AML-Analyst_JR00123279-1",
           "location": "Taguig City, National Capital Region (Manila)",
@@ -285,6 +278,13 @@
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Disability-Case-Specialist---French-Bilingual--For-Pooling-_JR00123277",
           "location": "Taguig City, National Capital Region (Manila)",
           "department": "JR00123277",
+          "postedDate": "Posted 2 Days Ago"
+        },
+        {
+          "title": "Senior Specialist/Assistant Manager, Agency Distribution",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Hunghom-Kowloon-Hong-Kong/Assistant-Manager--Agency-Distribution_JR00122881",
+          "location": "Hunghom, Kowloon, Hong Kong",
+          "department": "JR00122881",
           "postedDate": "Posted 2 Days Ago"
         }
       ]
@@ -1111,9 +1111,184 @@
       "id": "canadalife",
       "name": "Canada Life",
       "url": "https://jobs.canadalife.com/go/All-Jobs/9170201/",
-      "jobCount": 0,
-      "jobs": [],
-      "error": "fetch failed"
+      "jobCount": 25,
+      "jobs": [
+        {
+          "title": "Disability Claims AdministratorDisability Claims Administrator",
+          "url": "https://jobs.canadalife.com/job/Vancouver-Disability-Claims-Administrator-Brit/1378228033/",
+          "location": "Vancouver, British Columbia, CA",
+          "department": "Claims Management",
+          "postedDate": "Apr 25, 2026"
+        },
+        {
+          "title": "Disability Claims Administrator (Bilingual)Disability Claims Administrator (Bilingual)",
+          "url": "https://jobs.canadalife.com/job/Montreal-Disability-Claims-Administrator-%28Bilingual%29-Queb/1375295533/",
+          "location": "Montreal, Quebec, CA",
+          "department": "Claims Management",
+          "postedDate": "Apr 24, 2026"
+        },
+        {
+          "title": "Manager, Global Technology Governance, Risk and Compliance (GRC)Manager, Global Technology Governance, Risk and Compliance (GRC)",
+          "url": "https://jobs.canadalife.com/job/Toronto-Manager%2C-Global-Technology-Governance%2C-Risk-and-Compliance-%28GRC%29-ON/1293508701/",
+          "location": "Toronto, ON, CA",
+          "department": "Digital Technology",
+          "postedDate": "Apr 24, 2026"
+        },
+        {
+          "title": "Underwriting ConsultantUnderwriting Consultant",
+          "url": "https://jobs.canadalife.com/job/Canada-Underwriting-Consultant-ON/1378120433/",
+          "location": "Canada, ON, CA",
+          "department": "Customer Service and Administration",
+          "postedDate": "Apr 24, 2026"
+        },
+        {
+          "title": "Disability Claims AdministratorDisability Claims Administrator",
+          "url": "https://jobs.canadalife.com/job/Vancouver-Disability-Claims-Administrator-Brit/1375209933/",
+          "location": "Vancouver, British Columbia, CA",
+          "department": "Claims Management",
+          "postedDate": "Apr 24, 2026"
+        },
+        {
+          "title": "Manager, Expense ManagementManager, Expense Management",
+          "url": "https://jobs.canadalife.com/job/London-Manager%2C-Expense-Management-ON/1387486033/",
+          "location": "London, ON, CA",
+          "department": "Actuarial and Investments and Finance",
+          "postedDate": "Apr 24, 2026"
+        },
+        {
+          "title": "Disability Claims Administrator CreditorDisability Claims Administrator Creditor",
+          "url": "https://jobs.canadalife.com/job/Toronto-Disability-Claims-Administrator-Creditor-ON/1387492633/",
+          "location": "Toronto, ON, CA",
+          "department": "Customer Service and Administration",
+          "postedDate": "Apr 24, 2026"
+        },
+        {
+          "title": "Technical Support SpecialistTechnical Support Specialist",
+          "url": "https://jobs.canadalife.com/job/Mississauga-Ontario-Technical-Support-Specialist-ON-L4W-0E4/1387515933/",
+          "location": "Mississauga Ontario, ON, CA, L4W 0E4\n            \n                +2 more…",
+          "department": "Digital Technology",
+          "postedDate": "Apr 24, 2026"
+        },
+        {
+          "title": "Lead Business AnalystLead Business Analyst",
+          "url": "https://jobs.canadalife.com/job/Winnipeg-Lead-Business-Analyst-MB/1387530533/",
+          "location": "Winnipeg, MB, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
+          "postedDate": "Apr 24, 2026"
+        },
+        {
+          "title": "Associate Manager, Private WealthAssociate Manager, Private Wealth",
+          "url": "https://jobs.canadalife.com/job/Mississauga-Ontario-Associate-Manager%2C-Private-Wealth-ON-L4W-0E4/1387556133/",
+          "location": "Mississauga Ontario, ON, CA, L4W 0E4",
+          "department": "Customer Service and Administration",
+          "postedDate": "Apr 24, 2026"
+        },
+        {
+          "title": "Manager, Supplier Service DeliveryManager, Supplier Service Delivery",
+          "url": "https://jobs.canadalife.com/job/Toronto-Manager%2C-Supplier-Service-Delivery-ON/1387571333/",
+          "location": "Toronto, ON, CA",
+          "department": "Corporate Functions",
+          "postedDate": "Apr 24, 2026"
+        },
+        {
+          "title": "IT Business Systems AnalystIT Business Systems Analyst",
+          "url": "https://jobs.canadalife.com/job/London-IT-Business-Systems-Analyst-ON/1387579833/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Digital Technology",
+          "postedDate": "Apr 24, 2026"
+        },
+        {
+          "title": "Administrative Assistant (12 month contract)Administrative Assistant (12 month contract)",
+          "url": "https://jobs.canadalife.com/job/Winnipeg-Administrative-Assistant-%2812-month-contract%29-MB/1387523733/",
+          "location": "Winnipeg, MB, CA",
+          "department": "Customer Service and Administration",
+          "postedDate": "Apr 24, 2026"
+        },
+        {
+          "title": "Client Service Assistant (12 Month Contract)Client Service Assistant (12 Month Contract)",
+          "url": "https://jobs.canadalife.com/job/London-Client-Service-Assistant-%2812-Month-Contract%29-ON/1387576733/",
+          "location": "London, ON, CA",
+          "department": "Customer Service and Administration",
+          "postedDate": "Apr 24, 2026"
+        },
+        {
+          "title": "Manager, Product Owner (Mobile App)Manager, Product Owner (Mobile App)",
+          "url": "https://jobs.canadalife.com/job/London-Manager%2C-Product-Owner-%28Mobile-App%29-ON/1368343533/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Digital Technology",
+          "postedDate": "Apr 23, 2026"
+        },
+        {
+          "title": "Sales Director, Group Benefits, Large GroupSales Director, Group Benefits, Large Group",
+          "url": "https://jobs.canadalife.com/job/Vancouver-Sales-Director%2C-Group-Benefits%2C-Large-Group-Brit/1245266901/",
+          "location": "Vancouver, British Columbia, CA",
+          "department": "Sales and Business Development",
+          "postedDate": "Apr 23, 2026"
+        },
+        {
+          "title": "Manager ComplianceManager Compliance",
+          "url": "https://jobs.canadalife.com/job/Toronto-Manager-Compliance-ON/1386966533/",
+          "location": "Toronto, ON, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
+          "postedDate": "Apr 23, 2026"
+        },
+        {
+          "title": "Customer Processing RepresentativeCustomer Processing Representative",
+          "url": "https://jobs.canadalife.com/job/Toronto-Customer-Processing-Representative-ON/1387019833/",
+          "location": "Toronto, ON, CA",
+          "department": "Customer Service and Administration",
+          "postedDate": "Apr 23, 2026"
+        },
+        {
+          "title": "Director, Quality Engineering Practice LeadDirector, Quality Engineering Practice Lead",
+          "url": "https://jobs.canadalife.com/job/Toronto-Director%2C-Quality-Engineering-Practice-Lead-ON/1387097033/",
+          "location": "Toronto, ON, CA",
+          "department": "Digital Technology",
+          "postedDate": "Apr 23, 2026"
+        },
+        {
+          "title": "Manager, Technology Risk and ControlsManager, Technology Risk and Controls",
+          "url": "https://jobs.canadalife.com/job/Toronto-Manager%2C-Technology-Risk-and-Controls-ON/1387101933/",
+          "location": "Toronto, ON, CA\n            \n                +2 more…",
+          "department": "Digital Technology",
+          "postedDate": "Apr 23, 2026"
+        },
+        {
+          "title": "Bilingual Disability Claims Admininstrator (18 Month Contract)Bilingual Disability Claims Admininstrator (18 Month Contract)",
+          "url": "https://jobs.canadalife.com/job/Montreal-Bilingual-Disability-Claims-Admininstrator-%2818-Month-Contract%29-Queb/1377049233/",
+          "location": "Montreal, Quebec, CA\n            \n                +1 more…",
+          "department": "Customer Service and Administration",
+          "postedDate": "Apr 22, 2026"
+        },
+        {
+          "title": "Bilingual (Fr/En) Account Executive, Group Retirement SavingsBilingual (Fr/En) Account Executive, Group Retirement Savings",
+          "url": "https://jobs.canadalife.com/job/Montreal-Bilingual-%28FrEn%29-Account-Executive%2C-Group-Retirement-Savings-Queb/1285430701/",
+          "location": "Montreal, Quebec, CA\n            \n                +1 more…",
+          "department": "Sales and Business Development",
+          "postedDate": "Apr 22, 2026"
+        },
+        {
+          "title": "Business Manager, WealthBusiness Manager, Wealth",
+          "url": "https://jobs.canadalife.com/job/London-Business-Manager%2C-Wealth-ON/1386236633/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
+          "postedDate": "Apr 22, 2026"
+        },
+        {
+          "title": "IT Business Systems AnalystIT Business Systems Analyst",
+          "url": "https://jobs.canadalife.com/job/Toronto-IT-Business-Systems-Analyst-ON/1386510733/",
+          "location": "Toronto, ON, CA",
+          "department": "Digital Technology",
+          "postedDate": "Apr 22, 2026"
+        },
+        {
+          "title": "Manager, Technology FinanceManager, Technology Finance",
+          "url": "https://jobs.canadalife.com/job/Winnipeg-Manager%2C-Technology-Finance-MB/1386617033/",
+          "location": "Winnipeg, MB, CA",
+          "department": "Digital Technology",
+          "postedDate": "Apr 22, 2026"
+        }
+      ]
     },
     {
       "id": "cibcmellon",
@@ -2723,48 +2898,6 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "Product Management, MD",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Product-Management--MD_R-784954/apply",
-          "location": "Irvine",
-          "department": "Financial Software and Product Development",
-          "postedDate": "2026-03-03"
-        },
-        {
-          "title": "Senior Implementation Manager - IBOR - Charles River Development",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/R-781540-Front-Office---Buyside-Post-Production-Technical-Support-Specialist----API--ETL-tool-usage--Java-and-or-C--programming--Investment-Trading-Software-Fixed-Income-and-Equities---Charles-River-Development_R-783888-1/apply",
-          "location": "Irvine",
-          "department": "Other",
-          "postedDate": "2026-04-13"
-        },
-        {
-          "title": "Senior Operations Officer, EVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/PIMCO-Chief-Operating-Officer--EVP_R-787941/apply",
-          "location": "Irvine",
-          "department": "Investment Operations",
-          "postedDate": "2026-04-14"
-        },
-        {
-          "title": "Head of IMS Production Management",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Head-of-IMS-Production-Management_R-789016/apply",
-          "location": "Irvine",
-          "department": "Other",
-          "postedDate": "2026-04-24"
-        },
-        {
-          "title": "Collateral Management Operations, Assistant Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Collateral-Management-Operations--Assistant-Vice-President_R-789088-1/apply",
-          "location": "Irvine",
-          "department": "Investment Operations",
-          "postedDate": "2026-04-23"
-        },
-        {
-          "title": "Alternative and Bank Loans Accounting, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Alternative-and-Bank-Loans-Accounting--Officer_R-785031-1/apply",
-          "location": "Irvine",
-          "department": "Other",
-          "postedDate": "2026-04-20"
-        },
-        {
           "title": "Alternative Investment Services Valuations Pricing, Senior Associate",
           "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investment-Services-Valuations-Pricing--Senior-Associate_R-785370/apply",
           "location": "Sacramento",
@@ -2791,6 +2924,48 @@
           "location": "Sacramento",
           "department": "Other",
           "postedDate": "2026-04-07"
+        },
+        {
+          "title": "Core Operations, Associate 2",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Core-Operations--Associate-2_R-778631/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-04-16"
+        },
+        {
+          "title": "Core Operations, Associate 2",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Core-Operations--Associate-2_R-778633/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-04-16"
+        },
+        {
+          "title": "Core Operations, Associate 2",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Core-Operations--Associate-2_R-778632/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-04-16"
+        },
+        {
+          "title": "Client Manager, AVP  Investment Trading - Charles River Development",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Client-Manager--AVP--Investment-Trading---Charles-River-Development_R-787835/apply",
+          "location": "Sacramento",
+          "department": "Sales and Client Relationship",
+          "postedDate": "2026-04-10"
+        },
+        {
+          "title": "Alternative Investments Business Strategy and Planning, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investments-Business-Strategy-and-Planning--Senior-Associate_R-788053/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-04-10"
+        },
+        {
+          "title": "GlobalLink Client Acquisition, Sales Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/GlobalLink-Client-Acquisition--Sales-Vice-President_R-788700/apply",
+          "location": "Sacramento",
+          "department": "Sales and Client Relationship",
+          "postedDate": "2026-04-17"
         }
       ]
     },
