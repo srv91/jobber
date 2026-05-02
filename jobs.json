@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T11:52:18.747Z",
+  "lastUpdated": "2026-05-02T23:50:01.991Z",
   "sources": [
     {
       "id": "sunlife",
@@ -1132,184 +1132,9 @@
       "id": "canadalife",
       "name": "Canada Life",
       "url": "https://jobs.canadalife.com/go/All-Jobs/9170201/",
-      "jobCount": 25,
-      "jobs": [
-        {
-          "title": "Director Corporate Financial Reporting - ICOFRDirector Corporate Financial Reporting - ICOFR",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Director-Corporate-Financial-Reporting-ICOFR-MB/1278230501/",
-          "location": "Winnipeg, MB, CA\n            \n                +2 more…",
-          "department": "Actuarial and Investments and Finance",
-          "postedDate": "May 2, 2026"
-        },
-        {
-          "title": "Group Benefits AnalystGroup Benefits Analyst",
-          "url": "https://jobs.canadalife.com/job/Toronto-Group-Benefits-Analyst-ON/1380468333/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Sales and Business Development",
-          "postedDate": "May 1, 2026"
-        },
-        {
-          "title": "Manager Technology RiskManager Technology Risk",
-          "url": "https://jobs.canadalife.com/job/Toronto-Manager-Technology-Risk-ON/1380610833/",
-          "location": "Toronto, ON, CA",
-          "department": "Corporate Functions",
-          "postedDate": "May 1, 2026"
-        },
-        {
-          "title": "Sr Counsel, Individual WealthSr Counsel, Individual Wealth",
-          "url": "https://jobs.canadalife.com/job/Toronto-Sr-Counsel%2C-Individual-Wealth-ON/1380608933/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "May 1, 2026"
-        },
-        {
-          "title": "Solutions Architect (Business Automation)Solutions Architect (Business Automation)",
-          "url": "https://jobs.canadalife.com/job/Toronto-Solutions-Architect-%28Business-Automation%29-ON/1389627733/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "May 1, 2026"
-        },
-        {
-          "title": "Service Support AssociateService Support Associate",
-          "url": "https://jobs.canadalife.com/job/Vancouver-Service-Support-Associate-Brit/1389657733/",
-          "location": "Vancouver, British Columbia, CA",
-          "department": "Customer Service and Administration",
-          "postedDate": "May 1, 2026"
-        },
-        {
-          "title": "Payment Recovery Analyst (bilingual)Payment Recovery Analyst (bilingual)",
-          "url": "https://jobs.canadalife.com/job/Montreal-Payment-Recovery-Analyst-%28bilingual%29-Queb/1389667733/",
-          "location": "Montreal, Quebec, CA\n            \n                +2 more…",
-          "department": "Customer Service and Administration",
-          "postedDate": "May 1, 2026"
-        },
-        {
-          "title": "Client Experience Specialist II - PentictonClient Experience Specialist II - Penticton",
-          "url": "https://jobs.canadalife.com/job/Penticton-British-Columbia-Client-Experience-Specialist-II-Penticton-Brit-V2A-5L5/1285913801/",
-          "location": "Penticton British Columbia, British Columbia, CA, V2A 5L5",
-          "department": "Customer Service and Administration",
-          "postedDate": "Apr 30, 2026"
-        },
-        {
-          "title": "HR Business PartnerHR Business Partner",
-          "url": "https://jobs.canadalife.com/job/Montreal-HR-Business-Partner-Queb/1389354133/",
-          "location": "Montreal, Quebec, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Apr 30, 2026"
-        },
-        {
-          "title": "Manager, Network & Security OperationsManager, Network & Security Operations",
-          "url": "https://jobs.canadalife.com/job/Toronto-Manager%2C-Network-&-Security-Operations-ON/1389418833/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "Apr 30, 2026"
-        },
-        {
-          "title": "Service Support AssociateService Support Associate",
-          "url": "https://jobs.canadalife.com/job/Toronto-Service-Support-Associate-ON/1389458333/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Customer Service and Administration",
-          "postedDate": "Apr 30, 2026"
-        },
-        {
-          "title": "Sourcing ManagerSourcing Manager",
-          "url": "https://jobs.canadalife.com/job/Toronto-Sourcing-Manager-ON/1389471233/",
-          "location": "Toronto, ON, CA\n            \n                +1 more…",
-          "department": "Digital Technology",
-          "postedDate": "Apr 30, 2026"
-        },
-        {
-          "title": "Client Experience SpecialistClient Experience Specialist",
-          "url": "https://jobs.canadalife.com/job/Ottawa-Ontario-Client-Experience-Specialist-ON-K1Z-8R9/1376089533/",
-          "location": "Ottawa Ontario, ON, CA, K1Z 8R9",
-          "department": "Customer Service and Administration",
-          "postedDate": "Apr 29, 2026"
-        },
-        {
-          "title": "Manager Innovation and EnablementManager Innovation and Enablement",
-          "url": "https://jobs.canadalife.com/job/London-Manager-Innovation-and-Enablement-ON/1388979233/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Apr 29, 2026"
-        },
-        {
-          "title": "Talent Acquisition Advisor, Human ResourcesTalent Acquisition Advisor, Human Resources",
-          "url": "https://jobs.canadalife.com/job/London-Talent-Acquisition-Advisor%2C-Human-Resources-ON/1388996233/",
-          "location": "London, ON, CA\n            \n                +3 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Apr 29, 2026"
-        },
-        {
-          "title": "Director Technical Solutions - HR TechnologyDirector Technical Solutions - HR Technology",
-          "url": "https://jobs.canadalife.com/job/Toronto-Director-Technical-Solutions-HR-Technology-ON/1388974533/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "Apr 29, 2026"
-        },
-        {
-          "title": "Director, AI Business EnablementDirector, AI Business Enablement",
-          "url": "https://jobs.canadalife.com/job/Toronto-Director%2C-AI-Business-Enablement-ON/1388846433/",
-          "location": "Toronto, ON, CA\n            \n                +3 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Apr 29, 2026"
-        },
-        {
-          "title": "Technical OCM ManagerTechnical OCM Manager",
-          "url": "https://jobs.canadalife.com/job/Toronto-Technical-OCM-Manager-ON/1369676533/",
-          "location": "Toronto, ON, CA",
-          "department": "Digital Technology",
-          "postedDate": "Apr 28, 2026"
-        },
-        {
-          "title": "Customer Service SpecialistCustomer Service Specialist",
-          "url": "https://jobs.canadalife.com/job/London-Customer-Service-Specialist-ON/1388494033/",
-          "location": "London, ON, CA",
-          "department": "Customer Service and Administration",
-          "postedDate": "Apr 28, 2026"
-        },
-        {
-          "title": "Intermediate Data AnalystIntermediate Data Analyst",
-          "url": "https://jobs.canadalife.com/job/London-Intermediate-Data-Analyst-ON/1388488933/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "Apr 28, 2026"
-        },
-        {
-          "title": "Solutions ArchitectSolutions Architect",
-          "url": "https://jobs.canadalife.com/job/London-Solutions-Architect-ON/1388515933/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "Apr 28, 2026"
-        },
-        {
-          "title": "Head of Investment Data & AnalyticsHead of Investment Data & Analytics",
-          "url": "https://jobs.canadalife.com/job/Toronto-Head-of-Investment-Data-&-Analytics-ON/1388552833/",
-          "location": "Toronto, ON, CA",
-          "department": "Corporate Functions",
-          "postedDate": "Apr 28, 2026"
-        },
-        {
-          "title": "Associate Manager, Customer InsightsAssociate Manager, Customer Insights",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Associate-Manager%2C-Customer-Insights-MB/1388554933/",
-          "location": "Winnipeg, MB, CA\n            \n                +2 more…",
-          "department": "Sales and Business Development",
-          "postedDate": "Apr 28, 2026"
-        },
-        {
-          "title": "Senior Analyst, Corporate FinanceSenior Analyst, Corporate Finance",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Senior-Analyst%2C-Corporate-Finance-MB/1388525833/",
-          "location": "Winnipeg, MB, CA",
-          "department": "Corporate Functions",
-          "postedDate": "Apr 28, 2026"
-        },
-        {
-          "title": "Rehabilitation Consultant (bilingual)Rehabilitation Consultant (bilingual)",
-          "url": "https://jobs.canadalife.com/job/Montreal-Rehabilitation-Consultant-%28bilingual%29-Queb/1388085133/",
-          "location": "Montreal, Quebec, CA",
-          "department": "Claims Management",
-          "postedDate": "Apr 27, 2026"
-        }
-      ]
+      "jobCount": 0,
+      "jobs": [],
+      "error": "fetch failed"
     },
     {
       "id": "cibcmellon",
@@ -2868,9 +2693,751 @@
       "id": "raymondjames",
       "name": "Raymond James",
       "url": "https://raymondjames.taleo.net/careersection/1_ca/jobsearch.ftl?lang=en",
-      "jobCount": 0,
-      "jobs": [],
-      "error": "Navigation timeout of 45000 ms exceeded"
+      "jobCount": 106,
+      "jobs": [
+        {
+          "title": "Manager, RJLU Compliance",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600320&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Intern, IT Security (Summer 2026)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600315&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Wealth Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600317&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Manager, IT Product Management",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600310&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Senior Business Management Associate, Wealth Solutions (WS)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600297&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Représentant(e) principal(e) en gestion des affaires, Solutions globales en gestion de patrimoine",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600298&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Senior Compliance Officer, Product - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500752&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Business Development Associate",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600294&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Registered Plans Associate - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600306&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Manager, Raymond James Canada Foundation (RJCF)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600282&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Compliance Intern",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600292&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Administrative Assistant - Contract (15 months)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500764&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Adjoint administratif ou adjointe administrative - Contrat de 15 mois",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500750&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Financial Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600290&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Financial Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600289&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Relationship Associate, Correspondent Services - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600278&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Mutual Funds Associate - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600284&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Client Support Associate - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600008&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Auditeur ou auditrice de la conformité des succursales",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600277&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Compliance Branch Examiner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600274&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Administrative Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600280&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Kelowna",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Learning & Development Associate - 18 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600247&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Associé(e), Apprentissage et perfectionnement - Contrat de 18 mois",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600249&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Corporate Actions Associate",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600273&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Wealth Advisor Associate",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600271&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Ottawa",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Compliance Officer",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600260&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Senior Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600259&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Administrative & Marketing Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600251&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Victoria",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Director, Canadian Equity Specialty Sales",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600253&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Associate Financial Advisor/Financial Advisor",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600233&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Manager, Risk Management",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600223&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Spécialiste bilingue de l'apprentissage en ligne et de la documentation, Groupe gestion privée",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600226&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Bilingual Private Client Group Services E-learning &  Documentation  Specialist",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600224&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Senior Associate, Tax & Client Reporting  - 6 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600211&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Associate, Tax & Client Reporting - 6 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600212&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Senior Branch Administrator",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600187&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Administrateur(-trice) principal(e) de succursale",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600229&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Senior Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600208&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Lead Engineer, Identity Governance and Administration - IAM",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600199&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Advisor Internship Program (AIP) (Victoria/Kelowna)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600193&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Advisor Internship Program (AIP) (Toronto/Waterloo/Ottawa)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600192&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Advisor Internship Program (AIP) (Calgary/Edmonton/Saskatoon)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600191&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Administrative Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600163&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Nanaimo",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Senior Financial Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600161&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Sales Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600164&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Nanaimo",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600160&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Financial Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600097&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Licensed Financial Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600131&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Wealth Associate",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600077&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600071&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "AB-Edmonton",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Trust Operations Associate - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600057&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600035&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Senior Trust Advisor",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600033&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Client Services Coordinator / Administrative Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600032&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Waterloo",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Branch Manager",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500745&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "MB-Winnipeg",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Project Manager II",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500747&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Burnaby",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Wealth Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500746&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Licensed Wealth Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500694&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Certified Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500703&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Barrie",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Licensed Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500702&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Barrie",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Licensed Sales Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403509&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Investment Banking Analyst/Associate (Future Opportunities)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500244&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Adjoint(e) au conseiller, service de conseils en placement (réquisition perpétuelle)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403015&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Investment Advisor Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403516&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Administrative Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500006&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Licensed Sales Assistant (evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2402021&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Administrative Assistant (evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2401046&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Victoria",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Financial Advisor",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2204723&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "SK-Saskatoon",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600071&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "AB-Edmonton",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Trust Operations Associate - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600057&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600035&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Senior Trust Advisor",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600033&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Client Services Coordinator / Administrative Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600032&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Waterloo",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Branch Manager",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500745&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "MB-Winnipeg",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Project Manager II",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500747&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Burnaby",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Wealth Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500746&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Licensed Wealth Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500694&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Certified Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500703&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Barrie",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Licensed Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500702&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Barrie",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Licensed Sales Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403509&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Investment Banking Analyst/Associate (Future Opportunities)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500244&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Adjoint(e) au conseiller, service de conseils en placement (réquisition perpétuelle)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403015&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Investment Advisor Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403516&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Administrative Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500006&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Licensed Sales Assistant (evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2402021&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Administrative Assistant (evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2401046&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Victoria",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Financial Advisor",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2204723&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "SK-Saskatoon",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600071&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "AB-Edmonton",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Trust Operations Associate - 12 Month Contract",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600057&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600035&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Senior Trust Advisor",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600033&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Client Services Coordinator / Administrative Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600032&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Waterloo",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Branch Manager",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500745&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "MB-Winnipeg",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Project Manager II",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500747&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Burnaby",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Wealth Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500746&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Licensed Wealth Advisor Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500694&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "AB-Calgary",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Certified Financial Planner",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500703&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Barrie",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Licensed Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500702&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Barrie",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Licensed Sales Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403509&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Investment Banking Analyst/Associate (Future Opportunities)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500244&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Adjoint(e) au conseiller, service de conseils en placement (réquisition perpétuelle)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403015&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Investment Advisor Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403516&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Administrative Assistant (Evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500006&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Licensed Sales Assistant (evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2402021&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Administrative Assistant (evergreen)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2401046&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Victoria",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        },
+        {
+          "title": "Financial Advisor",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2204723&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "SK-Saskatoon",
+          "department": "General",
+          "postedDate": "2026-05-02"
+        }
+      ]
     },
     {
       "id": "mackenzie",
