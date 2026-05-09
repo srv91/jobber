@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T11:55:33.380Z",
+  "lastUpdated": "2026-05-09T23:53:20.882Z",
   "sources": [
     {
       "id": "sunlife",
@@ -211,27 +211,6 @@
           "postedDate": "Posted 2 Days Ago"
         },
         {
-          "title": "Specialist - Strategic Sourcing",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Senior-Specialist-Sourcing_JR00122378",
-          "location": "Gurugram, Haryana",
-          "department": "JR00122378",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
-          "title": "Assistant Manager- Reporting",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Assistant-Manager--Financial-Reporting_JR00123313-2",
-          "location": "Gurugram, Haryana",
-          "department": "JR00123313",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
-          "title": "Procurement Specialist",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Procurement-Specialist_JR00123413",
-          "location": "Gurugram, Haryana",
-          "department": "JR00123413",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
           "title": "Senior Software Engineer (AWS Glue)",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Sun-Life-Toronto-Atria/Senior-Software-Engineer--AWS-Glue-_JR00121791",
           "location": "2 Locations",
@@ -285,6 +264,27 @@
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Sun-Life-Montreal-Metcalfe/Bilingual-Account-Resolutions-Representative_JR00123686",
           "location": "2 Locations",
           "department": "JR00123686",
+          "postedDate": "Posted 3 Days Ago"
+        },
+        {
+          "title": "Lead Machine Learning Engineer",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Lead-Machine-Learning-Engineer_JR00113192",
+          "location": "Waterford, Waterford, Ireland",
+          "department": "JR00113192",
+          "postedDate": "Posted 3 Days Ago"
+        },
+        {
+          "title": "Director, Product Accounting",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Director--Product-Accounting_JR00121997-1",
+          "location": "4 Locations",
+          "department": "JR00121997",
+          "postedDate": "Posted 3 Days Ago"
+        },
+        {
+          "title": "Specialist, Operations Communications & Engagement",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Specialist--Operations-Communications---Engagement_JR00123509-1",
+          "location": "Taguig City, National Capital Region (Manila)",
+          "department": "JR00123509",
           "postedDate": "Posted 3 Days Ago"
         }
       ]
@@ -1913,7 +1913,7 @@
       "id": "cooperators",
       "name": "Cooperators",
       "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/JobBoardView/LoadSearchResults",
-      "jobCount": 80,
+      "jobCount": 78,
       "jobs": [
         {
           "title": "Senior RSS Compensation Analyst",
@@ -2217,13 +2217,6 @@
           "postedDate": "2026-05-01"
         },
         {
-          "title": "Senior Business Systems Analyst",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=517c73ca-d68c-41d2-8e4c-7f9d59338ce7",
-          "location": "Calgary, Alberta",
-          "department": "Information Technology",
-          "postedDate": "2026-05-01"
-        },
-        {
           "title": "Business Development & Professional Lines Underwriter",
           "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=36fc4799-c964-4d66-aacf-11b949b7f00c",
           "location": "Burlington, Ontario",
@@ -2304,13 +2297,6 @@
           "title": "Claims Representative III, Bodily Injury",
           "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=72480230-eeea-44fd-8a34-e80b5a1401ab",
           "location": "Hamilton, Ontario",
-          "department": "Claims",
-          "postedDate": "2026-04-24"
-        },
-        {
-          "title": "Manager, Enterprise Fraud Strategy & Initiatives",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=2c94a125-20de-49ac-9b22-7c26cbdff6de",
-          "location": "Calgary, Alberta",
           "department": "Claims",
           "postedDate": "2026-04-24"
         },
@@ -2737,74 +2723,74 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "RIA Regional Consultant – Mid-Atlantic, VPII - State Street Investment Management",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Rockville-Maryland/RIA-Regional-Consultant---Mid-Atlantic--VPII---State-Street-Investment-Management_R-788345/apply",
-          "location": "OS MD",
+          "title": "North America Asset Manager Client Services, VP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/North-America-Asset-Manager-Client-Services--VP_R-786743/apply",
+          "location": "Kansas City",
           "department": "Sales and Client Relationship",
-          "postedDate": "2026-04-20"
-        },
-        {
-          "title": "Head of Americas - Professional Services - Managing Director - Charles River Development -",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Richmond-Virginia/Head-of-Americas---Professional-Services---Managing-Director---Charles-River-Development--_R-785335/apply",
-          "location": "OS VA",
-          "department": "Information Technology",
           "postedDate": "2026-03-24"
         },
         {
-          "title": "Technical Support Specialist (API, ETL, Java, C#), AVP - Charles River Development",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Front-Office---Buyside-Post-Production-Technical-Support-Specialist----API--ETL-tool-usage--Java-and-or-C--programming--Investment-Trading-Software-Fixed-Income-and-Equities---Charles-River-Development_R-783187/apply",
-          "location": "Berwyn",
+          "title": "Fund Accounting, Assistant Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Fund-Accounting--Assistant-Vice-President_R-788911/apply",
+          "location": "Kansas City",
           "department": "Other",
-          "postedDate": "2026-04-29"
+          "postedDate": "2026-04-23"
         },
         {
-          "title": "Hedge Fund Accounting & Administration, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Fund-Accounting---Administration--Senior-Associate_R-785750/apply",
-          "location": "Princeton",
-          "department": "Other",
-          "postedDate": "2026-03-30"
+          "title": "Product Management, AVP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Product-Management--AVP_R-786889/apply",
+          "location": "Kansas City",
+          "department": "Financial Software and Product Development",
+          "postedDate": "2026-04-27"
         },
         {
-          "title": "Fund Accounting & Administration, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Fund-Accounting---Administration--Senior-Associate_R-788051/apply",
-          "location": "Princeton",
-          "department": "Other",
-          "postedDate": "2026-04-10"
+          "title": "Operations Client Service, AVP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Operations-Client-Service--AVP_R-787792/apply",
+          "location": "Kansas City",
+          "department": "Sales and Client Relationship",
+          "postedDate": "2026-04-30"
         },
         {
-          "title": "IT Architecture",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/IT-Architecture_R-788046/apply",
-          "location": "Princeton",
+          "title": "Operations Client Service, AVP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Operations-Client-Service--AVP_R-787789/apply",
+          "location": "Kansas City",
           "department": "Other",
-          "postedDate": "2026-04-10"
+          "postedDate": "2026-04-30"
         },
         {
-          "title": "Assistant Vice President – IT Security Governance & Risk Management",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Assistant-Vice-President---IT-Security-Governance---Risk-Management_R-788585-1/apply",
-          "location": "Princeton",
-          "department": "Other",
-          "postedDate": "2026-04-17"
+          "title": "Financial Reporting, Assistant Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Financial-Reporting--Assistant-Vice-President_R-789456/apply",
+          "location": "Kansas City",
+          "department": "Fund Services",
+          "postedDate": "2026-04-30"
         },
         {
-          "title": "RKS SQA Agile Testing Room Leader- Assistant Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/RKS-SQA-Agile-Testing-Room-Leader--Assistant-Vice-President_R-788819/apply",
-          "location": "Princeton",
-          "department": "Other",
-          "postedDate": "2026-05-01"
+          "title": "Financial Reporting, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Financial-Reporting--Officer_R-789454/apply",
+          "location": "Kansas City",
+          "department": "Fund Services",
+          "postedDate": "2026-04-30"
         },
         {
-          "title": "Application Development and Maintenance Lead, AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/cation-Development-and-Maintenance-Lead--AVP_R-788924-1/apply",
-          "location": "Princeton",
+          "title": "Private Equity, Fund Accounting & Administration, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Private-Equity--Fund-Accounting---Administration--Officer_R-781678-3/apply",
+          "location": "Kansas City",
           "department": "Other",
-          "postedDate": "2026-05-01"
+          "postedDate": "2026-05-04"
         },
         {
-          "title": "Workday HCM AMS Manager, Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/R-781996-Workday-HCM-AMS-Manager--Vice-President_R-789562-1/apply",
-          "location": "Princeton",
+          "title": "Private Equity Fund Accounting & Administration, Assistant Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Private-Equity-Fund-Accounting---Administration--Assistant-Vice-President_R-781204-4/apply",
+          "location": "Kansas City",
           "department": "Other",
           "postedDate": "2026-05-05"
+        },
+        {
+          "title": "Private Credit Fund Accounting and Administration, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Private-Credit-Fund-Accounting-and-Administration--Senior-Associate_R-785539/apply",
+          "location": "Kansas City",
+          "department": "Other",
+          "postedDate": "2026-05-06"
         }
       ]
     },
@@ -3746,8 +3732,15 @@
       "id": "iawealth",
       "name": "IA Wealth",
       "url": "https://ia.ca/jobs/jobs-available",
-      "jobCount": 72,
+      "jobCount": 73,
       "jobs": [
+        {
+          "title": "Business Analyst – Financial Process Center of Excellence",
+          "url": "https://ia.ca/en/carrieres/job/JR10026517",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-05-09"
+        },
         {
           "title": "Business Development Specialist",
           "url": "https://ia.ca/en/carrieres/job/JR10025673",
