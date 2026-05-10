@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T11:57:09.721Z",
+  "lastUpdated": "2026-05-10T23:55:42.710Z",
   "sources": [
     {
       "id": "sunlife",
@@ -85,13 +85,6 @@
           "postedDate": "Posted 2 Days Ago"
         },
         {
-          "title": "Assistant Manager – ICFR",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/IT-Control-Analyst---ICFR_JR00121775",
-          "location": "Gurugram, Haryana",
-          "department": "JR00121775",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
           "title": "Training Specialist (Brighter Leader)",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Makati-City-National-Capital-Region-Manila/Training-Specialist--Brighter-Leader-_JR00119940",
           "location": "Makati City, National Capital Region (Manila)",
@@ -103,13 +96,6 @@
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Iloilo-Regional-Office/Trainer---Brighter-PRO--VisMin-_JR00119984",
           "location": "Iloilo Regional Office",
           "department": "JR00119984",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
-          "title": "Client Care Representative I",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Client-Care-Representative-I_JR00122964-1",
-          "location": "Taguig City, National Capital Region (Manila)",
-          "department": "JR00122964",
           "postedDate": "Posted 2 Days Ago"
         },
         {
@@ -286,6 +272,20 @@
           "location": "Waterford, Waterford, Ireland",
           "department": "JR00113192",
           "postedDate": "Posted 4 Days Ago"
+        },
+        {
+          "title": "Director, Product Accounting",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Director--Product-Accounting_JR00121997-1",
+          "location": "4 Locations",
+          "department": "JR00121997",
+          "postedDate": "Posted 4 Days Ago"
+        },
+        {
+          "title": "Specialist, Operations Communications & Engagement",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Specialist--Operations-Communications---Engagement_JR00123509-1",
+          "location": "Taguig City, National Capital Region (Manila)",
+          "department": "JR00123509",
+          "postedDate": "Posted 4 Days Ago"
         }
       ]
     },
@@ -373,6 +373,13 @@
       "url": "https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/fidelitycanada/jobs",
       "jobCount": 40,
       "jobs": [
+        {
+          "title": "Student, Digital Applications Development (Fall 2026)",
+          "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Student--Digital-Applications-Development--Fall-2026-_J68071",
+          "location": "Toronto Office",
+          "department": "J68071",
+          "postedDate": "Posted Today"
+        },
         {
           "title": "Project Manager FCC",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Scrum-Master---Wealth_J65405",
@@ -644,13 +651,6 @@
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Software-Developer_J65877",
           "location": "Toronto Office",
           "department": "J65877",
-          "postedDate": "Posted 23 Days Ago"
-        },
-        {
-          "title": "Technical Lead",
-          "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Technical-Lead_J65883",
-          "location": "Toronto Office",
-          "department": "J65883",
           "postedDate": "Posted 23 Days Ago"
         }
       ]
@@ -2723,72 +2723,72 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "Alternative Investment Services Valuations Pricing, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investment-Services-Valuations-Pricing--Senior-Associate_R-785370/apply",
-          "location": "Sacramento",
-          "department": "Investment Operations",
-          "postedDate": "2026-03-23"
+          "title": "RIA Regional Consultant – Mid-Atlantic, VPII - State Street Investment Management",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Rockville-Maryland/RIA-Regional-Consultant---Mid-Atlantic--VPII---State-Street-Investment-Management_R-788345/apply",
+          "location": "OS MD",
+          "department": "Sales and Client Relationship",
+          "postedDate": "2026-04-20"
         },
         {
-          "title": "AIS Centralized Pricing- Associate 2",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/AIS-Centralized-Pricing--Associate-2_R-785841/apply",
-          "location": "Sacramento",
+          "title": "Head of Americas - Professional Services - Managing Director - Charles River Development -",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Richmond-Virginia/Head-of-Americas---Professional-Services---Managing-Director---Charles-River-Development--_R-785335/apply",
+          "location": "OS VA",
+          "department": "Information Technology",
+          "postedDate": "2026-03-24"
+        },
+        {
+          "title": "Technical Support Specialist (API, ETL, Java, C#), AVP - Charles River Development",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Front-Office---Buyside-Post-Production-Technical-Support-Specialist----API--ETL-tool-usage--Java-and-or-C--programming--Investment-Trading-Software-Fixed-Income-and-Equities---Charles-River-Development_R-783187/apply",
+          "location": "Berwyn",
           "department": "Other",
-          "postedDate": "2026-03-12"
+          "postedDate": "2026-04-29"
         },
         {
-          "title": "Alternative Investments Business Strategy and Planning, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investments-Business-Strategy-and-Planning--Senior-Associate_R-788053/apply",
-          "location": "Sacramento",
+          "title": "Hedge Fund Accounting & Administration, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Fund-Accounting---Administration--Senior-Associate_R-785750/apply",
+          "location": "Princeton",
+          "department": "Other",
+          "postedDate": "2026-03-30"
+        },
+        {
+          "title": "Fund Accounting & Administration, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Fund-Accounting---Administration--Senior-Associate_R-788051/apply",
+          "location": "Princeton",
           "department": "Other",
           "postedDate": "2026-04-10"
         },
         {
-          "title": "GlobalLink Client Acquisition, Sales Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/GlobalLink-Client-Acquisition--Sales-Vice-President_R-788700/apply",
-          "location": "Sacramento",
-          "department": "Sales and Client Relationship",
+          "title": "Assistant Vice President – IT Security Governance & Risk Management",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Assistant-Vice-President---IT-Security-Governance---Risk-Management_R-788585-1/apply",
+          "location": "Princeton",
+          "department": "Other",
           "postedDate": "2026-04-17"
         },
         {
-          "title": "ETF Basket Operations, Assistant Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/ETF-Basket-Operations--Assistant-Vice-President_R-789368-5/apply",
-          "location": "Sacramento",
+          "title": "IT Architecture",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/IT-Architecture_R-788046/apply",
+          "location": "Princeton",
           "department": "Other",
-          "postedDate": "2026-04-29"
+          "postedDate": "2026-04-10"
         },
         {
-          "title": "ETF Settlements, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/ETF-Settlements--Officer_R-789379-1/apply",
-          "location": "Sacramento",
+          "title": "Workday HCM AMS Manager, Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/R-781996-Workday-HCM-AMS-Manager--Vice-President_R-789562-1/apply",
+          "location": "Princeton",
           "department": "Other",
-          "postedDate": "2026-04-29"
+          "postedDate": "2026-05-05"
         },
         {
-          "title": "Operations Client Service, Associate 2",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Operations-Client-Service--Associate-2_R-788712/apply",
-          "location": "Sacramento",
+          "title": "RKS SQA Agile Testing Room Leader- Assistant Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/RKS-SQA-Agile-Testing-Room-Leader--Assistant-Vice-President_R-788819/apply",
+          "location": "Princeton",
           "department": "Other",
-          "postedDate": "2026-04-28"
+          "postedDate": "2026-05-01"
         },
         {
-          "title": "Client Manager, AVP  Investment Trading - Charles River Development",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Client-Manager--AVP--Investment-Trading---Charles-River-Development_R-787835/apply",
-          "location": "Sacramento",
-          "department": "Sales and Client Relationship",
-          "postedDate": "2026-04-28"
-        },
-        {
-          "title": "ETF Settlements, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/ETF-Settlements--Senior-Associate_R-789376-8/apply",
-          "location": "Sacramento",
-          "department": "Other",
-          "postedDate": "2026-04-29"
-        },
-        {
-          "title": "Basket Operations, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/ETF-Settlements--Senior-Associate_R-789375-2/apply",
-          "location": "Sacramento",
+          "title": "Application Development and Maintenance Lead, AVP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/cation-Development-and-Maintenance-Lead--AVP_R-788924-1/apply",
+          "location": "Princeton",
           "department": "Other",
           "postedDate": "2026-05-01"
         }
