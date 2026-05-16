@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T11:56:43.364Z",
+  "lastUpdated": "2026-05-16T23:56:21.154Z",
   "sources": [
     {
       "id": "sunlife",
@@ -7,6 +7,27 @@
       "url": "https://sunlife.wd3.myworkdayjobs.com/wday/cxs/sunlife/Experienced-Jobs/jobs",
       "jobCount": 40,
       "jobs": [
+        {
+          "title": "Manager- Finance (Billing)",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Manager--Finance--Billing-_JR00123384",
+          "location": "Gurugram, Haryana",
+          "department": "JR00123384",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Control Analyst – ICFR",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Control-Analyst---ICFR_JR00121780",
+          "location": "Gurugram, Haryana",
+          "department": "JR00121780",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Manager- IT Controls – ICFR",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Manager--IT-Controls-Manager---ICFR_JR00121622",
+          "location": "Gurugram, Haryana",
+          "department": "JR00121622",
+          "postedDate": "Posted Today"
+        },
         {
           "title": "Principal Solution Designer - GenAI",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Principal-Solution-Designer---GenAI_JR00120665",
@@ -197,24 +218,10 @@
           "postedDate": "Posted 2 Days Ago"
         },
         {
-          "title": "Specialist - Gen AI Development",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Specialist---Gen-AI-Development_JR00123194",
-          "location": "2 Locations",
-          "department": "JR00123194",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
           "title": "Chief Product Officer",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Hunghom-Kowloon-Hong-Kong/Chief-Product-Officer_JR00124038",
           "location": "Hunghom, Kowloon, Hong Kong",
           "department": "JR00124038",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
-          "title": "Specialist - Strategic Sourcing",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Senior-Specialist-Sourcing_JR00122378",
-          "location": "Gurugram, Haryana",
-          "department": "JR00122378",
           "postedDate": "Posted 2 Days Ago"
         },
         {
@@ -278,13 +285,6 @@
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Manager--Strategic-Initiatives_JR00123610",
           "location": "3 Locations",
           "department": "JR00123610",
-          "postedDate": "Posted 3 Days Ago"
-        },
-        {
-          "title": "Executive Assistant",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Executive-Assistant_JR00123877",
-          "location": "Toronto, Ontario",
-          "department": "JR00123877",
           "postedDate": "Posted 3 Days Ago"
         }
       ]
@@ -2667,74 +2667,74 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "Alternative Investment Services Valuations Pricing, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investment-Services-Valuations-Pricing--Senior-Associate_R-785370/apply",
-          "location": "Sacramento",
-          "department": "Investment Operations",
-          "postedDate": "2026-03-23"
+          "title": "RIA Regional Consultant – Mid-Atlantic, VPII - State Street Investment Management",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Rockville-Maryland/RIA-Regional-Consultant---Mid-Atlantic--VPII---State-Street-Investment-Management_R-788345/apply",
+          "location": "OS MD",
+          "department": "Sales and Client Relationship",
+          "postedDate": "2026-04-20"
         },
         {
-          "title": "ETF Settlements, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/ETF-Settlements--Officer_R-789379-1/apply",
-          "location": "Sacramento",
+          "title": "Technical Support Specialist (API, ETL, Java, C#), AVP - Charles River Development",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Front-Office---Buyside-Post-Production-Technical-Support-Specialist----API--ETL-tool-usage--Java-and-or-C--programming--Investment-Trading-Software-Fixed-Income-and-Equities---Charles-River-Development_R-783187/apply",
+          "location": "Berwyn",
           "department": "Other",
           "postedDate": "2026-04-29"
         },
         {
-          "title": "ETF Basket Creation, Associate 2",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/ETF-Basket-Creation--Associate-2_R-789705/apply",
-          "location": "Sacramento",
+          "title": "SMF Analyst, Assistant Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/SMF-Analyst--Assistant-Vice-President_R-790567/apply",
+          "location": "Berwyn",
+          "department": "Information Technology",
+          "postedDate": "2026-05-15"
+        },
+        {
+          "title": "Hedge Fund Accounting & Administration, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Fund-Accounting---Administration--Senior-Associate_R-785750/apply",
+          "location": "Princeton",
           "department": "Other",
-          "postedDate": "2026-05-06"
+          "postedDate": "2026-03-30"
         },
         {
-          "title": "Alternative Investment Services, Associate 2",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investment-Services--Associate-2_R-789762/apply",
-          "location": "Sacramento",
+          "title": "Workday HCM AMS Manager, Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/R-781996-Workday-HCM-AMS-Manager--Vice-President_R-789562-1/apply",
+          "location": "Princeton",
           "department": "Other",
-          "postedDate": "2026-05-08"
+          "postedDate": "2026-05-05"
         },
         {
-          "title": "Client Manager, AVP  Investment Trading - Charles River Development",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Client-Manager--AVP--Investment-Trading---Charles-River-Development_R-787835/apply",
-          "location": "Sacramento",
-          "department": "Sales and Client Relationship",
-          "postedDate": "2026-04-28"
-        },
-        {
-          "title": "GlobalLink Client Acquisition, Sales Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/GlobalLink-Client-Acquisition--Sales-Vice-President_R-788700/apply",
-          "location": "Sacramento",
-          "department": "Sales and Client Relationship",
-          "postedDate": "2026-04-17"
-        },
-        {
-          "title": "Basket Operations, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/ETF-Settlements--Senior-Associate_R-789375-2/apply",
-          "location": "Sacramento",
+          "title": "RKS SQA Agile Testing Room Leader- Assistant Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/RKS-SQA-Agile-Testing-Room-Leader--Assistant-Vice-President_R-788819/apply",
+          "location": "Princeton",
           "department": "Other",
           "postedDate": "2026-05-01"
         },
         {
-          "title": "ETF Settlements, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/ETF-Settlements--Senior-Associate_R-789376-8/apply",
-          "location": "Sacramento",
-          "department": "Other",
-          "postedDate": "2026-04-29"
-        },
-        {
-          "title": "ETF Basket Operations, Assistant Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/ETF-Basket-Operations--Assistant-Vice-President_R-789368-5/apply",
-          "location": "Sacramento",
-          "department": "Other",
-          "postedDate": "2026-04-29"
-        },
-        {
-          "title": "Basket Operations, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Basket-Operations--Senior-Associate_R-789373-1/apply",
-          "location": "Sacramento",
+          "title": "Application Development and Maintenance Lead, AVP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/cation-Development-and-Maintenance-Lead--AVP_R-788924-1/apply",
+          "location": "Princeton",
           "department": "Other",
           "postedDate": "2026-05-01"
+        },
+        {
+          "title": "Enterprise Risk Management Audit, Assistant Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Enterprise-Risk-Management-Audit--Assistant-Vice-President_R-789763-4/apply",
+          "location": "Princeton",
+          "department": "Finance and Audit",
+          "postedDate": "2026-05-12"
+        },
+        {
+          "title": "Sr. Snowflake Data Engineer, Onsite, AVP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Sr-Snowflake-Data-Engineer--Onsite--AVP_R-789491-1/apply",
+          "location": "Princeton",
+          "department": "Other",
+          "postedDate": "2026-05-07"
+        },
+        {
+          "title": "Fund Accounting & Administration, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Fund-Accounting---Administration--Senior-Associate_R-788051/apply",
+          "location": "Princeton",
+          "department": "Other",
+          "postedDate": "2026-04-10"
         }
       ]
     },
