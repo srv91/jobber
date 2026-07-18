@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T11:57:23.759Z",
+  "lastUpdated": "2026-07-18T23:56:32.174Z",
   "sources": [
     {
       "id": "sunlife",
@@ -7,6 +7,13 @@
       "url": "https://sunlife.wd3.myworkdayjobs.com/wday/cxs/sunlife/Experienced-Jobs/jobs",
       "jobCount": 40,
       "jobs": [
+        {
+          "title": "AVP, HNW Operations (Agency & Broker)",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Hunghom-Kowloon-Hong-Kong/AVP--HNW-Operations--Agency---Broker-_JR00126139-1",
+          "location": "Hunghom, Kowloon, Hong Kong",
+          "department": "JR00126139",
+          "postedDate": "Posted Today"
+        },
         {
           "title": "Senior Journey & Service Designer",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Senior-Journey---Service-Designer_JR00126051",
@@ -201,13 +208,6 @@
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Lead-Software-Engineer--JAVA--API-_JR00125923-2",
           "location": "3 Locations",
           "department": "JR00125923",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
-          "title": "Specialist Development - DevOps Release Manager",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Sun-Life-Global-Solutions-Private-Limited---Bengaluru/Specialist-Development---DevOps-Release-Manager_JR00125414-1",
-          "location": "Sun Life Global Solutions Private Limited - Bengaluru",
-          "department": "JR00125414",
           "postedDate": "Posted 2 Days Ago"
         },
         {
@@ -1015,17 +1015,17 @@
       "jobCount": 25,
       "jobs": [
         {
-          "title": "Vice-President Enterprise AutomationVice-President Enterprise Automation",
-          "url": "https://jobs.canadalife.com/job/London-Vice-President-Enterprise-Automation-ON/1382393033/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "Jul 17, 2026"
-        },
-        {
           "title": "Regional Sales Manager, Insurance (Outside Wholesaler)Regional Sales Manager, Insurance (Outside Wholesaler)",
           "url": "https://jobs.canadalife.com/job/Vancouver-Regional-Sales-Manager%2C-Insurance-%28Outside-Wholesaler%29-Brit/1292006401/",
           "location": "Vancouver, British Columbia, CA",
           "department": "Sales and Business Development",
+          "postedDate": "Jul 17, 2026"
+        },
+        {
+          "title": "Vice-President Enterprise AutomationVice-President Enterprise Automation",
+          "url": "https://jobs.canadalife.com/job/London-Vice-President-Enterprise-Automation-ON/1382393033/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Digital Technology",
           "postedDate": "Jul 17, 2026"
         },
         {
@@ -1043,9 +1043,9 @@
           "postedDate": "Jul 17, 2026"
         },
         {
-          "title": "Scrum MasterScrum Master",
-          "url": "https://jobs.canadalife.com/job/London-Scrum-Master-ON/1416427833/",
-          "location": "London, ON, CA\n            \n                +1 more…",
+          "title": "Software DeveloperSoftware Developer",
+          "url": "https://jobs.canadalife.com/job/Toronto-Software-Developer-ON/1416441433/",
+          "location": "Toronto, ON, CA\n            \n                +2 more…",
           "department": "Digital Technology",
           "postedDate": "Jul 17, 2026"
         },
@@ -1064,24 +1064,10 @@
           "postedDate": "Jul 17, 2026"
         },
         {
-          "title": "Director, Strategy & GrowthDirector, Strategy & Growth",
-          "url": "https://jobs.canadalife.com/job/London-Director%2C-Strategy-&-Growth-ON/1416403833/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Jul 17, 2026"
-        },
-        {
-          "title": "Senior Analyst, Data & Analytics (12 Month Contract)Senior Analyst, Data & Analytics (12 Month Contract)",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Senior-Analyst%2C-Data-&-Analytics-%2812-Month-Contract%29-MB/1416422633/",
-          "location": "Winnipeg, MB, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Jul 17, 2026"
-        },
-        {
-          "title": "Software DeveloperSoftware Developer",
-          "url": "https://jobs.canadalife.com/job/Toronto-Software-Developer-ON/1416441433/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
+          "title": "Senior Business Analyst - 12 Month TermSenior Business Analyst - 12 Month Term",
+          "url": "https://jobs.canadalife.com/job/London-Senior-Business-Analyst-12-Month-Term-ON/1416474733/",
+          "location": "London, ON, CA\n            \n                +1 more…",
+          "department": "Customer Service and Administration",
           "postedDate": "Jul 17, 2026"
         },
         {
@@ -1092,6 +1078,20 @@
           "postedDate": "Jul 17, 2026"
         },
         {
+          "title": "Director, Strategy & GrowthDirector, Strategy & Growth",
+          "url": "https://jobs.canadalife.com/job/London-Director%2C-Strategy-&-Growth-ON/1416403833/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
+          "postedDate": "Jul 17, 2026"
+        },
+        {
+          "title": "Scrum MasterScrum Master",
+          "url": "https://jobs.canadalife.com/job/London-Scrum-Master-ON/1416427833/",
+          "location": "London, ON, CA\n            \n                +1 more…",
+          "department": "Digital Technology",
+          "postedDate": "Jul 17, 2026"
+        },
+        {
           "title": "Client Service Assistant (4 Month Contract)Client Service Assistant (4 Month Contract)",
           "url": "https://jobs.canadalife.com/job/London-Ontario-Client-Service-Assistant-%284-Month-Contract%29-ON-N5V-4K7/1416448733/",
           "location": "London Ontario, ON, CA, N5V 4K7",
@@ -1099,10 +1099,10 @@
           "postedDate": "Jul 17, 2026"
         },
         {
-          "title": "Senior Business Analyst - 12 Month TermSenior Business Analyst - 12 Month Term",
-          "url": "https://jobs.canadalife.com/job/London-Senior-Business-Analyst-12-Month-Term-ON/1416474733/",
-          "location": "London, ON, CA\n            \n                +1 more…",
-          "department": "Customer Service and Administration",
+          "title": "Senior Analyst, Data & Analytics (12 Month Contract)Senior Analyst, Data & Analytics (12 Month Contract)",
+          "url": "https://jobs.canadalife.com/job/Winnipeg-Senior-Analyst%2C-Data-&-Analytics-%2812-Month-Contract%29-MB/1416422633/",
+          "location": "Winnipeg, MB, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
           "postedDate": "Jul 17, 2026"
         },
         {
@@ -1127,6 +1127,13 @@
           "postedDate": "Jul 16, 2026"
         },
         {
+          "title": "Solutions ArchitectSolutions Architect",
+          "url": "https://jobs.canadalife.com/job/London-Solutions-Architect-ON/1388515933/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Digital Technology",
+          "postedDate": "Jul 15, 2026"
+        },
+        {
           "title": "Senior PAM Engineering SpecialistSenior PAM Engineering Specialist",
           "url": "https://jobs.canadalife.com/job/Toronto-Senior-PAM-Engineering-Specialist-ON/1405254033/",
           "location": "Toronto, ON, CA\n            \n                +2 more…",
@@ -1134,10 +1141,10 @@
           "postedDate": "Jul 15, 2026"
         },
         {
-          "title": "Solutions ArchitectSolutions Architect",
-          "url": "https://jobs.canadalife.com/job/London-Solutions-Architect-ON/1388515933/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
+          "title": "Bilingual Disability Medical CoordinatorBilingual Disability Medical Coordinator",
+          "url": "https://jobs.canadalife.com/job/Ottawa-Bilingual-Disability-Medical-Coordinator-ON/1415408633/",
+          "location": "Ottawa, ON, CA",
+          "department": "Claims Management",
           "postedDate": "Jul 15, 2026"
         },
         {
@@ -1152,13 +1159,6 @@
           "url": "https://jobs.canadalife.com/job/London-Lead-Quality-Analyst-ON/1415430433/",
           "location": "London, ON, CA\n            \n                +2 more…",
           "department": "Customer Service and Administration",
-          "postedDate": "Jul 15, 2026"
-        },
-        {
-          "title": "Bilingual Disability Medical CoordinatorBilingual Disability Medical Coordinator",
-          "url": "https://jobs.canadalife.com/job/Ottawa-Bilingual-Disability-Medical-Coordinator-ON/1415408633/",
-          "location": "Ottawa, ON, CA",
-          "department": "Claims Management",
           "postedDate": "Jul 15, 2026"
         },
         {
@@ -2813,74 +2813,74 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "Alternative Investment Services Bank Loans Operations, Assistant Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Alternative-Investment-Services-Bank-Loans-Operations--Assistant-Vice-President_R-788552-1/apply",
-          "location": "Kansas City",
+          "title": "Alternative Investment Services, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investment-Services--Senior-Associate_R-787945-4/apply",
+          "location": "Sacramento",
           "department": "Other",
-          "postedDate": "2026-07-13"
+          "postedDate": "2026-06-24"
         },
         {
-          "title": "Loan Services Operations, Associate 2",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Loan-Services-Operations--Associate-2_R-787486-1/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Full Stack Software Engineer, Vice President – Corporate Functions Technology",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Vice-President---Corporate-Functions-Technology_R-785158/apply",
-          "location": "Toronto",
-          "department": "Other",
-          "postedDate": "2026-05-12"
-        },
-        {
-          "title": "Investor Services - Relationship Manager, Managing Director",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Investor-Services---Relationship-Manager--Managing-Director_R-790056-1/apply",
-          "location": "Toronto",
+          "title": "Client Manager, AVP  Investment Trading - Charles River Development",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Client-Manager--AVP--Investment-Trading---Charles-River-Development_R-787835/apply",
+          "location": "Sacramento",
           "department": "Sales and Client Relationship",
-          "postedDate": "2026-05-12"
+          "postedDate": "2026-04-28"
         },
         {
-          "title": "Alpha Global Testing, - Middle-Office / Front-Office AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Alpha-Global-Testing--AVP_R-779493/apply",
-          "location": "Toronto",
-          "department": "Business Strategy and Project Management",
-          "postedDate": "2026-05-21"
-        },
-        {
-          "title": "Software Quality Engineer, AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Software-Quality-Engineer--AVP_R-792188/apply",
-          "location": "Toronto",
-          "department": "Information Technology",
-          "postedDate": "2026-06-10"
-        },
-        {
-          "title": "Full Stack Software Engineer, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792055/apply",
-          "location": "Toronto",
+          "title": "ETF Settlements, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/ETF-Settlements--Senior-Associate_R-789378-3/apply",
+          "location": "Sacramento",
           "department": "Other",
-          "postedDate": "2026-06-09"
+          "postedDate": "2026-05-13"
         },
         {
-          "title": "Sr. Software Engineer, AVP II",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Sr-Software-Engineer--AVP-II_R-792061/apply",
-          "location": "Toronto",
+          "title": "Fund Accounting & Administration, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Fund-Accounting---Administration--Officer_R-790691/apply",
+          "location": "Sacramento",
           "department": "Other",
-          "postedDate": "2026-06-09"
+          "postedDate": "2026-05-18"
         },
         {
-          "title": "Assistant Vice President, Solution Engineering",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Assistant-Vice-President--Solution-Engineering_R-792275/apply",
-          "location": "Toronto",
-          "department": "Business Strategy and Project Management",
-          "postedDate": "2026-06-12"
-        },
-        {
-          "title": "SaaS Onboarding -Systems Engineer & Automation - AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/SaaS-Onboarding--Systems-Engineer---Automation---AVP_R-785447/apply",
-          "location": "Toronto",
+          "title": "T26-8624 ; Software Engineering & Development, AVP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/T26-8624---Software-Engineering---Development--AVP_R-791138/apply",
+          "location": "Sacramento",
           "department": "Other",
-          "postedDate": "2026-06-18"
+          "postedDate": "2026-05-27"
+        },
+        {
+          "title": "T26-8686 ; Software Engineering & Development, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/T26-8686---Software-Engineering---Development--Officer_R-791145/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-05-27"
+        },
+        {
+          "title": "Investment Performance Analysis, Assistant Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Investment-Performance-Analysis--Assistant-Vice-President_R-793748/apply",
+          "location": "Sacramento",
+          "department": "Fund Services",
+          "postedDate": "2026-07-07"
+        },
+        {
+          "title": "Alpha Portfolio Readiness, Associate 2",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alpha-Portfolio-Readiness--Associate-2_R-788715/apply",
+          "location": "Sacramento",
+          "department": "Investment Operations",
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Alpha Portfolio Readiness, Assistant Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alpha-Portfolio-Readiness--Assistant-Vice-President_R-794402/apply",
+          "location": "Sacramento",
+          "department": "Investment Operations",
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Middle Office Operations, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Middle-Office-Operations--Senior-Associate_R-791659/apply",
+          "location": "Irvine",
+          "department": "Investment Operations",
+          "postedDate": "2026-06-03"
         }
       ]
     },
