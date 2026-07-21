@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T13:10:46.861Z",
+  "lastUpdated": "2026-07-20T23:58:39.027Z",
   "sources": [
     {
       "id": "sunlife",
@@ -7,6 +7,69 @@
       "url": "https://sunlife.wd3.myworkdayjobs.com/wday/cxs/sunlife/Experienced-Jobs/jobs",
       "jobCount": 40,
       "jobs": [
+        {
+          "title": "Manager, Business & Systems Analysis Chapter",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Manager--Business---Systems-Analysis-Chapter_JR00126070",
+          "location": "3 Locations",
+          "department": "JR00126070",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Senior AI Engineer",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Senior-AI-Engineer_JR00125626",
+          "location": "2 Locations",
+          "department": "JR00125626",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Director, HR Program Delivery - SLC Management",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Director--HR-Program-Delivery---SLC-Management_JR00126145-1",
+          "location": "Toronto, Ontario",
+          "department": "JR00126145",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Bilingual Retirement Consultant",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Montreal-Quebec/Bilingual-Retirement-Consultant_JR00126103",
+          "location": "Montreal, Quebec",
+          "department": "JR00126103",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Business Development Representative (Inside Sales)",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Montreal-Quebec/Business-Development-Representative--Inside-Sales-_JR00124101",
+          "location": "Montreal, Quebec",
+          "department": "JR00124101",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Associate, Portfolio Strategy & Analytics (Contract) - SLC Management",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Associate--Portfolio-Strategy---Analytics--Contract----SLC-Management_JR00125798-2",
+          "location": "Toronto, Ontario",
+          "department": "JR00125798",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Finance Associate",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Finance-Associate_JR00123591",
+          "location": "2 Locations",
+          "department": "JR00123591",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Senior Consultant, Business Architecture & Innovation",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Senior-Consultant--Business-Architecture---Innovation_JR00126125",
+          "location": "2 Locations",
+          "department": "JR00126125",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Disability Case Manager",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Disability-Case-Manager_JR00126191",
+          "location": "Waterloo, Ontario",
+          "department": "JR00126191",
+          "postedDate": "Posted Today"
+        },
         {
           "title": "Sr. Clinical Dental Advisor, DentaQuest",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Sr-Clinical-Dental-Advisor--DentaQuest_JR00124855",
@@ -223,69 +286,6 @@
           "location": "Kingston, Ontario",
           "department": "JR00034519",
           "postedDate": "Posted 4 Days Ago"
-        },
-        {
-          "title": "Financial Services Consultant, Wealth",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Calgary-Alberta/Financial-Services-Consultant--Wealth--Virtual-_JR00126022",
-          "location": "5 Locations",
-          "department": "JR00126022",
-          "postedDate": "Posted 4 Days Ago"
-        },
-        {
-          "title": "Disability Claims -  Quality Analyst",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Disability-Claims----Quality-Analyst_JR00124842",
-          "location": "3 Locations",
-          "department": "JR00124842",
-          "postedDate": "Posted 4 Days Ago"
-        },
-        {
-          "title": "Sun Advantage Account Executive",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Calgary-Alberta/Sun-Advantage-Account-Executive_JR00125987-1",
-          "location": "Calgary, Alberta",
-          "department": "JR00125987",
-          "postedDate": "Posted 4 Days Ago"
-        },
-        {
-          "title": "Provider Partner Consultant, DentaQuest (Upstate South Carolina)",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Columbia-South-Carolina/Provider-Partner-Consultant--DentaQuest--South-Carolina-_JR00123797",
-          "location": "Columbia, South Carolina",
-          "department": "JR00123797",
-          "postedDate": "Posted 4 Days Ago"
-        },
-        {
-          "title": "Specialist, Vendor Management",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/US-Employees-Remote/Specialist--Vendor-Management_JR00125774",
-          "location": "U.S. Employees (Remote)",
-          "department": "JR00125774",
-          "postedDate": "Posted 4 Days Ago"
-        },
-        {
-          "title": "Sr. Support Engineer; Data & Analytics Operations (Cloud/Data Warehouse)",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/North-York-Ontario/Sr-Support-Engineer--Data---Analytics-Operations--Cloud-Data-Warehouse-_JR00125237",
-          "location": "2 Locations",
-          "department": "JR00125237",
-          "postedDate": "Posted 4 Days Ago"
-        },
-        {
-          "title": "Lead Software Engineer (JAVA, API)",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Lead-Software-Engineer--JAVA--API-_JR00125923-2",
-          "location": "3 Locations",
-          "department": "JR00125923",
-          "postedDate": "Posted 4 Days Ago"
-        },
-        {
-          "title": "Chief Actuary, Philippines",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Chief-Actuary--Philippines_JR00126035",
-          "location": "Taguig City, National Capital Region (Manila)",
-          "department": "JR00126035",
-          "postedDate": "Posted 4 Days Ago"
-        },
-        {
-          "title": "Intermediate/Senior Underwriter",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Intermediate-Senior-Underwriter_JR00126087",
-          "location": "3 Locations",
-          "department": "JR00126087",
-          "postedDate": "Posted 5 Days Ago"
         }
       ]
     },
@@ -324,6 +324,13 @@
       "url": "https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/fidelitycanada/jobs",
       "jobCount": 40,
       "jobs": [
+        {
+          "title": "Data Architect Sr",
+          "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Data-Architect-Sr_J69507",
+          "location": "Toronto Office",
+          "department": "J69507",
+          "postedDate": "Posted Today"
+        },
         {
           "title": "Finance Manager",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Finance-Manager_J67663",
@@ -596,13 +603,6 @@
           "location": "Toronto Office",
           "department": "J68984",
           "postedDate": "Posted 21 Days Ago"
-        },
-        {
-          "title": "Product Solutions Manager FCC",
-          "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Product-Solutions-Manager-FCC_J68829",
-          "location": "Toronto Office",
-          "department": "J68829",
-          "postedDate": "Posted 23 Days Ago"
         }
       ]
     },
@@ -610,8 +610,15 @@
       "id": "imco",
       "name": "IMCO",
       "url": "https://imcoinvest.wd3.myworkdayjobs.com/wday/cxs/imcoinvest/IMCO/jobs",
-      "jobCount": 11,
+      "jobCount": 12,
       "jobs": [
+        {
+          "title": "Associate, Collateral Management",
+          "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Associate--Collateral-Management_R26-113-1",
+          "location": "Toronto - 16 York St",
+          "department": "R26-113",
+          "postedDate": "Posted Today"
+        },
         {
           "title": "Senior Manager, Internal Audit",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Senior-Manager--Internal-Audit_R26-109-1",
@@ -695,15 +702,8 @@
       "id": "optrust",
       "name": "OP Trust",
       "url": "https://optrust.wd3.myworkdayjobs.com/wday/cxs/optrust/OPTrust/jobs",
-      "jobCount": 3,
+      "jobCount": 2,
       "jobs": [
-        {
-          "title": "Relationship Advisor",
-          "url": "https://optrust.wd3.myworkdayjobs.com/OPTrust/job/Toronto-ON/Relationship-Advisor_R1252",
-          "location": "Toronto, ON",
-          "department": "R1252",
-          "postedDate": "Posted Today"
-        },
         {
           "title": "Managing Director, Total Portfolio Integration & Transformation",
           "url": "https://optrust.wd3.myworkdayjobs.com/OPTrust/job/Toronto-ON/Managing-Director--Total-Portfolio-Integration---Transformation_R1243",
@@ -726,6 +726,34 @@
       "url": "https://aviva.wd1.myworkdayjobs.com/wday/cxs/aviva/External/jobs",
       "jobCount": 40,
       "jobs": [
+        {
+          "title": "Intermediate Commercial Lines Underwriter",
+          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Edmonton/Intermediate-Commercial-Lines-Underwriter_R-170644-1",
+          "location": "Edmonton",
+          "department": "R-170644",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Expert(e) en sinistre - Automobile (Assurance des particuliers)",
+          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Montreal-QC-555-Chabanel-Ouest/Expert-e--en-sinistre---Automobile--Assurance-des-particuliers-_R-165478",
+          "location": "Canada - Montreal QC 555 Chabanel Ouest",
+          "department": "R-165478",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Expert(e) en sinistres – Habitation",
+          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Montreal-QC-630-boul-Ren-Lvesque-Ouest/Experte-en-sinistres---Habitation_R-169696",
+          "location": "Canada - Montreal QC 630 boul René Lévesque Ouest",
+          "department": "R-169696",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "National Property Claims Adjuster",
+          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/National-Property-Claims-Adjuster_R-162875",
+          "location": "5 Locations",
+          "department": "R-162875",
+          "postedDate": "Posted Today"
+        },
         {
           "title": "Automotive Body and Collision Damage Repair Technician - Aviva AutoCare Centre",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Oakville-ON-1335-North-Service-Road-East/Panel-Technician----Aviva-AutoCare-Centre_R-161689",
@@ -909,20 +937,6 @@
           "postedDate": "Posted 6 Days Ago"
         },
         {
-          "title": "Expert(e) en sinistres – Habitation",
-          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Montreal-QC-630-boul-Ren-Lvesque-Ouest/Experte-en-sinistres---Habitation_R-169696",
-          "location": "Canada - Montreal QC 630 boul René Lévesque Ouest",
-          "department": "R-169696",
-          "postedDate": "Posted 6 Days Ago"
-        },
-        {
-          "title": "Expert(e) en sinistre - Automobile (Assurance des particuliers)",
-          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Montreal-QC-555-Chabanel-Ouest/Expert-e--en-sinistre---Automobile--Assurance-des-particuliers-_R-165478",
-          "location": "Canada - Montreal QC 555 Chabanel Ouest",
-          "department": "R-165478",
-          "postedDate": "Posted 6 Days Ago"
-        },
-        {
           "title": "Actuary / Actuarial Specialist",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Actuary---Actuarial-Specialist_R-170906",
           "location": "Poland - Warsaw - ASEC",
@@ -991,20 +1005,6 @@
           "location": "Poland - Warsaw - ASEC",
           "department": "R-170121",
           "postedDate": "Posted 11 Days Ago"
-        },
-        {
-          "title": "Business Development Associate - UK Advisory (Wealth)",
-          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/London-UK/Business-Development-Associate---UK-Advisory--Wealth-_R-170609-3",
-          "location": "London (UK)",
-          "department": "R-170609",
-          "postedDate": "Posted 11 Days Ago"
-        },
-        {
-          "title": "AVP, West Auto Street Pricing",
-          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/AVP--Alberta-Auto-Street-Pricing_R-170584",
-          "location": "Markham",
-          "department": "R-170584",
-          "postedDate": "Posted 12 Days Ago"
         }
       ]
     },
@@ -1022,6 +1022,41 @@
       "jobCount": 25,
       "jobs": [
         {
+          "title": "Bilingual Disability Claims AdministratorBilingual Disability Claims Administrator",
+          "url": "https://jobs.canadalife.com/job/Montreal-Bilingual-Disability-Claims-Administrator-Queb/1416944733/",
+          "location": "Montreal, Quebec, CA",
+          "department": "Claims Management",
+          "postedDate": "Jul 20, 2026"
+        },
+        {
+          "title": "Associate Manager, Marketing Sales Enablement (12 month contract)Associate Manager, Marketing Sales Enablement (12 month contract)",
+          "url": "https://jobs.canadalife.com/job/London-Associate-Manager%2C-Marketing-Sales-Enablement-%2812-month-contract%29-ON/1416977833/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
+          "postedDate": "Jul 20, 2026"
+        },
+        {
+          "title": "Associate Marketing Manager (12 month contract)Associate Marketing Manager (12 month contract)",
+          "url": "https://jobs.canadalife.com/job/London-Associate-Marketing-Manager-%2812-month-contract%29-ON/1416979133/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
+          "postedDate": "Jul 20, 2026"
+        },
+        {
+          "title": "Senior Data & Reporting Analyst - 10-month contractSenior Data & Reporting Analyst - 10-month contract",
+          "url": "https://jobs.canadalife.com/job/Winnipeg-Senior-Data-&-Reporting-Analyst-10-month-contract-MB/1416943033/",
+          "location": "Winnipeg, MB, CA",
+          "department": "Actuarial and Investments and Finance",
+          "postedDate": "Jul 20, 2026"
+        },
+        {
+          "title": "Renewal/Underwriting AssistantRenewal/Underwriting Assistant",
+          "url": "https://jobs.canadalife.com/job/London-RenewalUnderwriting-Assistant-ON/1416883633/",
+          "location": "London, ON, CA\n            \n                +1 more…",
+          "department": "Customer Service and Administration",
+          "postedDate": "Jul 20, 2026"
+        },
+        {
           "title": "Regional Sales Manager, Insurance (Outside Wholesaler)Regional Sales Manager, Insurance (Outside Wholesaler)",
           "url": "https://jobs.canadalife.com/job/Vancouver-Regional-Sales-Manager%2C-Insurance-%28Outside-Wholesaler%29-Brit/1292006401/",
           "location": "Vancouver, British Columbia, CA",
@@ -1036,45 +1071,10 @@
           "postedDate": "Jul 17, 2026"
         },
         {
-          "title": "Senior Analyst, Data & AnalyticsSenior Analyst, Data & Analytics",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Senior-Analyst%2C-Data-&-Analytics-MB/1416420233/",
-          "location": "Winnipeg, MB, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Jul 17, 2026"
-        },
-        {
           "title": "Associate Manager Finance & ReportingAssociate Manager Finance & Reporting",
           "url": "https://jobs.canadalife.com/job/London-Associate-Manager-Finance-&-Reporting-ON/1416390133/",
           "location": "London, ON, CA\n            \n                +1 more…",
           "department": "Actuarial and Investments and Finance",
-          "postedDate": "Jul 17, 2026"
-        },
-        {
-          "title": "Assistant Vice President, StrategyAssistant Vice President, Strategy",
-          "url": "https://jobs.canadalife.com/job/Toronto-Assistant-Vice-President%2C-Strategy-ON/1416410933/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Jul 17, 2026"
-        },
-        {
-          "title": "Senior Analyst, Data & Analytics (12 Month Contract)Senior Analyst, Data & Analytics (12 Month Contract)",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Senior-Analyst%2C-Data-&-Analytics-%2812-Month-Contract%29-MB/1416422633/",
-          "location": "Winnipeg, MB, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Jul 17, 2026"
-        },
-        {
-          "title": "Client Service Assistant (4 Month Contract)Client Service Assistant (4 Month Contract)",
-          "url": "https://jobs.canadalife.com/job/London-Ontario-Client-Service-Assistant-%284-Month-Contract%29-ON-N5V-4K7/1416448733/",
-          "location": "London Ontario, ON, CA, N5V 4K7",
-          "department": "Customer Service and Administration",
-          "postedDate": "Jul 17, 2026"
-        },
-        {
-          "title": "Director, Strategy & GrowthDirector, Strategy & Growth",
-          "url": "https://jobs.canadalife.com/job/London-Director%2C-Strategy-&-Growth-ON/1416403833/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
           "postedDate": "Jul 17, 2026"
         },
         {
@@ -1085,9 +1085,23 @@
           "postedDate": "Jul 17, 2026"
         },
         {
+          "title": "Senior Analyst, Data & AnalyticsSenior Analyst, Data & Analytics",
+          "url": "https://jobs.canadalife.com/job/Winnipeg-Senior-Analyst%2C-Data-&-Analytics-MB/1416420233/",
+          "location": "Winnipeg, MB, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
+          "postedDate": "Jul 17, 2026"
+        },
+        {
           "title": "Transfers SpecialistTransfers Specialist",
           "url": "https://jobs.canadalife.com/job/Kitchener-Ontario-Transfers-Specialist-ON-N2P-2G5/1416381033/",
           "location": "Kitchener Ontario, ON, CA, N2P 2G5",
+          "department": "Customer Service and Administration",
+          "postedDate": "Jul 17, 2026"
+        },
+        {
+          "title": "Client Service Assistant (4 Month Contract)Client Service Assistant (4 Month Contract)",
+          "url": "https://jobs.canadalife.com/job/London-Ontario-Client-Service-Assistant-%284-Month-Contract%29-ON-N5V-4K7/1416448733/",
+          "location": "London Ontario, ON, CA, N5V 4K7",
           "department": "Customer Service and Administration",
           "postedDate": "Jul 17, 2026"
         },
@@ -1099,6 +1113,20 @@
           "postedDate": "Jul 17, 2026"
         },
         {
+          "title": "Scrum MasterScrum Master",
+          "url": "https://jobs.canadalife.com/job/London-Scrum-Master-ON/1416427833/",
+          "location": "London, ON, CA\n            \n                +1 more…",
+          "department": "Digital Technology",
+          "postedDate": "Jul 17, 2026"
+        },
+        {
+          "title": "Senior Analyst, Data & Analytics (12 Month Contract)Senior Analyst, Data & Analytics (12 Month Contract)",
+          "url": "https://jobs.canadalife.com/job/Winnipeg-Senior-Analyst%2C-Data-&-Analytics-%2812-Month-Contract%29-MB/1416422633/",
+          "location": "Winnipeg, MB, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
+          "postedDate": "Jul 17, 2026"
+        },
+        {
           "title": "Senior Business Analyst - 12 Month TermSenior Business Analyst - 12 Month Term",
           "url": "https://jobs.canadalife.com/job/London-Senior-Business-Analyst-12-Month-Term-ON/1416474733/",
           "location": "London, ON, CA\n            \n                +1 more…",
@@ -1106,10 +1134,17 @@
           "postedDate": "Jul 17, 2026"
         },
         {
-          "title": "Scrum MasterScrum Master",
-          "url": "https://jobs.canadalife.com/job/London-Scrum-Master-ON/1416427833/",
-          "location": "London, ON, CA\n            \n                +1 more…",
-          "department": "Digital Technology",
+          "title": "Director, Strategy & GrowthDirector, Strategy & Growth",
+          "url": "https://jobs.canadalife.com/job/London-Director%2C-Strategy-&-Growth-ON/1416403833/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
+          "postedDate": "Jul 17, 2026"
+        },
+        {
+          "title": "Assistant Vice President, StrategyAssistant Vice President, Strategy",
+          "url": "https://jobs.canadalife.com/job/Toronto-Assistant-Vice-President%2C-Strategy-ON/1416410933/",
+          "location": "Toronto, ON, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
           "postedDate": "Jul 17, 2026"
         },
         {
@@ -1120,17 +1155,17 @@
           "postedDate": "Jul 16, 2026"
         },
         {
-          "title": "Senior Operations Associate - 4-month contractSenior Operations Associate - 4-month contract",
-          "url": "https://jobs.canadalife.com/job/London-Senior-Operations-Associate-4-month-contract-ON/1415891533/",
-          "location": "London, ON, CA\n            \n                +1 more…",
-          "department": "Customer Service and Administration",
-          "postedDate": "Jul 16, 2026"
-        },
-        {
           "title": "Bilingual (Fr/En) Senior Investigator Corporate InvestigationsBilingual (Fr/En) Senior Investigator Corporate Investigations",
           "url": "https://jobs.canadalife.com/job/London-Bilingual-%28FrEn%29-Senior-Investigator-Corporate-Investigations-ON/1415958533/",
           "location": "London, ON, CA\n            \n                +3 more…",
           "department": "Corporate Functions",
+          "postedDate": "Jul 16, 2026"
+        },
+        {
+          "title": "Senior Operations Associate - 4-month contractSenior Operations Associate - 4-month contract",
+          "url": "https://jobs.canadalife.com/job/London-Senior-Operations-Associate-4-month-contract-ON/1415891533/",
+          "location": "London, ON, CA\n            \n                +1 more…",
+          "department": "Customer Service and Administration",
           "postedDate": "Jul 16, 2026"
         },
         {
@@ -1148,10 +1183,10 @@
           "postedDate": "Jul 15, 2026"
         },
         {
-          "title": "Bilingual Disability Medical CoordinatorBilingual Disability Medical Coordinator",
-          "url": "https://jobs.canadalife.com/job/Ottawa-Bilingual-Disability-Medical-Coordinator-ON/1415408633/",
-          "location": "Ottawa, ON, CA",
-          "department": "Claims Management",
+          "title": "Mgr Strategic InitiativesMgr Strategic Initiatives",
+          "url": "https://jobs.canadalife.com/job/London-Mgr-Strategic-Initiatives-ON/1415512433/",
+          "location": "London, ON, CA\n            \n                +1 more…",
+          "department": "Actuarial and Investments and Finance",
           "postedDate": "Jul 15, 2026"
         },
         {
@@ -1160,41 +1195,6 @@
           "location": "London, ON, CA\n            \n                +2 more…",
           "department": "Customer Service and Administration",
           "postedDate": "Jul 15, 2026"
-        },
-        {
-          "title": "Risk ActuaryRisk Actuary",
-          "url": "https://jobs.canadalife.com/job/Toronto-Ontario-Risk-Actuary-ON-M5G-1R8/1388052733/",
-          "location": "Toronto Ontario, ON, CA, M5G 1R8",
-          "department": "Actuarial and Investments and Finance",
-          "postedDate": "Jul 14, 2026"
-        },
-        {
-          "title": "Manager, Strategic Planning & Portfolio ManagementManager, Strategic Planning & Portfolio Management",
-          "url": "https://jobs.canadalife.com/job/Toronto-Manager%2C-Strategic-Planning-&-Portfolio-Management-ON/1414898033/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Jul 14, 2026"
-        },
-        {
-          "title": "Manager, Strategic InitiativesManager, Strategic Initiatives",
-          "url": "https://jobs.canadalife.com/job/Toronto-Manager%2C-Strategic-Initiatives-ON/1414993133/",
-          "location": "Toronto, ON, CA\n            \n                +4 more…",
-          "department": "Customer Service and Administration",
-          "postedDate": "Jul 14, 2026"
-        },
-        {
-          "title": "Manager, Talent and PerformanceManager, Talent and Performance",
-          "url": "https://jobs.canadalife.com/job/London-Manager%2C-Talent-and-Performance-ON/1415031433/",
-          "location": "London, ON, CA\n            \n                +3 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Jul 14, 2026"
-        },
-        {
-          "title": "Associate Manager, UnderwritingAssociate Manager, Underwriting",
-          "url": "https://jobs.canadalife.com/job/Toronto-Associate-Manager%2C-Underwriting-ON/1415036333/",
-          "location": "Toronto, ON, CA",
-          "department": "Actuarial and Investments and Finance",
-          "postedDate": "Jul 14, 2026"
         }
       ]
     },
@@ -1582,8 +1582,36 @@
       "id": "meridian",
       "name": "Meridian",
       "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/JobBoardView/LoadSearchResults",
-      "jobCount": 49,
+      "jobCount": 48,
       "jobs": [
+        {
+          "title": "Payroll Specialist (12 Month Contract)",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=1914e7f9-18fc-45e3-8ebf-151af6c54146",
+          "location": "Etobicoke, Ontario",
+          "department": "Human Resources",
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Member Services Representative (Part-Time, 9-Month Contract)",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=0a75c215-aa47-4890-b509-d4cf00424f35",
+          "location": "St Catharines, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Financial Services Associate - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=a5605012-8011-4d93-b0f5-242824ad578f",
+          "location": "Hamilton, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Financial Services Associate - Full Time",
+          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=8867d7b2-7c8a-42a5-b768-d33fa06a316a",
+          "location": "Fort Erie, Ontario",
+          "department": "Retail",
+          "postedDate": "2026-07-20"
+        },
         {
           "title": "Financial Services Associate - Full Time",
           "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=3bd89046-a1d0-434f-940a-e4ce37cd716e",
@@ -1669,13 +1697,6 @@
           "postedDate": "2026-07-15"
         },
         {
-          "title": "Member Services Representative (Part-Time, 9-Month Contract)",
-          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=0a75c215-aa47-4890-b509-d4cf00424f35",
-          "location": "St Catharines, Ontario",
-          "department": "Retail",
-          "postedDate": "2026-07-15"
-        },
-        {
           "title": "Senior Manager, Sales Effectiveness (Wealth)",
           "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=18e5f2a5-6007-4856-a8f2-5d9bfc14573d",
           "location": "St Catharines, Ontario",
@@ -1716,13 +1737,6 @@
           "location": "Etobicoke, Ontario",
           "department": "Human Resources",
           "postedDate": "2026-07-13"
-        },
-        {
-          "title": "Financial Services Representative — Full Time - 6 Month Contract",
-          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=1860685d-f8bd-4c33-8468-940e53097768",
-          "location": "Toronto, Ontario",
-          "department": "Retail",
-          "postedDate": "2026-07-10"
         },
         {
           "title": "Financial Services Representative - Full Time",
@@ -1777,13 +1791,6 @@
           "title": "Financial Services Representative - Full Time",
           "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=78e5754a-ccf7-440a-89ab-b21e89b2537f",
           "location": "Fonthill, Ontario",
-          "department": "Retail",
-          "postedDate": "2026-06-25"
-        },
-        {
-          "title": "Financial Services Associate - Full Time",
-          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=8867d7b2-7c8a-42a5-b768-d33fa06a316a",
-          "location": "Fort Erie, Ontario",
           "department": "Retail",
           "postedDate": "2026-06-25"
         },
@@ -1886,20 +1893,6 @@
           "postedDate": "2026-05-25"
         },
         {
-          "title": "Relationship Manager/Senior Relationship Manager",
-          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=56e83e0e-d1f5-4cf4-b85c-842e6b356cc8",
-          "location": "London, Ontario",
-          "department": "Business Banking",
-          "postedDate": "2026-05-22"
-        },
-        {
-          "title": "Director, Commercial Services",
-          "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=05334754-fb8e-4876-ac24-30a0de820ce8",
-          "location": "London, Ontario",
-          "department": "Business Banking",
-          "postedDate": "2026-05-22"
-        },
-        {
           "title": "Director, Business Credit",
           "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=55e53112-5024-4798-b39f-0a6d6c6973c3",
           "location": "St Catharines, Ontario",
@@ -1933,8 +1926,36 @@
       "id": "cooperators",
       "name": "Cooperators",
       "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/JobBoardView/LoadSearchResults",
-      "jobCount": 83,
+      "jobCount": 75,
       "jobs": [
+        {
+          "title": "Bilingual Disability Claims Coordinator- 4 month contract",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=1ce039a4-b4c4-4c07-9898-c2f3d009051a",
+          "location": "Calgary, Alberta",
+          "department": "Claims",
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Associate Insurance Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=112553c4-1967-4705-8949-f9035f9c6d67",
+          "location": "Surrey, British Columbia",
+          "department": "Client Service",
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Financial Services Independent Advisor",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=77c5a2c7-5544-4f27-b4ac-00004b2eb7e4",
+          "location": "Burnaby, British Columbia",
+          "department": "Agent/Business Owner",
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Commercial Insurance Advisor (Independent)",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=9b29c4ba-5cf5-4eee-9620-5c5c7a20110d",
+          "location": "Vancouver, British Columbia",
+          "department": "Agent/Business Owner",
+          "postedDate": "2026-07-20"
+        },
         {
           "title": "Client service consultant",
           "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=7a5a40d7-40aa-41b3-b92a-3300de6d515c",
@@ -2006,13 +2027,6 @@
           "postedDate": "2026-07-15"
         },
         {
-          "title": "Financial Services Independent Advisor",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=77c5a2c7-5544-4f27-b4ac-00004b2eb7e4",
-          "location": "Burnaby, British Columbia",
-          "department": "Agent/Business Owner",
-          "postedDate": "2026-07-15"
-        },
-        {
           "title": "Commercial Insurance Advisor (Independent)",
           "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=01d247f3-734d-4fde-b62c-c07d47ac96c6",
           "location": "Toronto, Ontario",
@@ -2038,13 +2052,6 @@
           "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=db5b0be4-c2c8-4ef0-8a9b-c19be60999cf",
           "location": "Ottawa, Ontario",
           "department": "Claims",
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Technical Supervisor, Group Contracts",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=6288951c-6db7-44ed-8a7b-f81ce4b6983c",
-          "location": "Calgary, Alberta",
-          "department": "Underwriting",
           "postedDate": "2026-07-15"
         },
         {
@@ -2251,20 +2258,6 @@
           "postedDate": "2026-07-08"
         },
         {
-          "title": "Associate Systems Developer",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=a786228b-e2ba-420a-8655-0769d58bb229",
-          "location": "Guelph, Ontario",
-          "department": "Information Technology",
-          "postedDate": "2026-07-08"
-        },
-        {
-          "title": "Senior Systems Developer",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=42c856fa-7653-4fd3-8de9-36aac7d68050",
-          "location": "Toronto, Ontario",
-          "department": "Information Technology",
-          "postedDate": "2026-07-07"
-        },
-        {
           "title": "Senior Counsel, Client Solutions",
           "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=04c9eb59-56d1-4c27-840c-425e178d6447",
           "location": "Burlington, Ontario",
@@ -2293,20 +2286,6 @@
           "postedDate": "2026-07-06"
         },
         {
-          "title": "Disability Claims Coordinator- 4  month contract",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=d0dede12-c674-41b4-a642-ce417ed5caa6",
-          "location": "Regina, Saskatchewan",
-          "department": "Claims",
-          "postedDate": "2026-07-06"
-        },
-        {
-          "title": "Associate Insurance Advisor II",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=7906bfcf-ca9a-41ff-8454-dcc6f508f145",
-          "location": "New Brunswick",
-          "department": "Client Service",
-          "postedDate": "2026-07-06"
-        },
-        {
           "title": "Client Service Representative, EHC & Dental-12 month contract",
           "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=2d189911-ae08-4c1e-a37d-3e35df3dc975",
           "location": "Regina, Saskatchewan",
@@ -2328,24 +2307,10 @@
           "postedDate": "2026-07-06"
         },
         {
-          "title": "Systems Developer - 12 months",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=bd72f955-cd93-45ca-9494-978613982d3d",
-          "location": "Guelph, Ontario",
-          "department": "Information Technology",
-          "postedDate": "2026-07-03"
-        },
-        {
           "title": "Associate Insurance Advisor II",
           "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=3b671f54-d38f-4293-a09a-5ca9d81e0f6a",
           "location": "Hearst, Ontario",
           "department": "Sales",
-          "postedDate": "2026-07-02"
-        },
-        {
-          "title": "Claims Representative II, Property",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=91cff636-436b-44f5-ac8b-fdb870f30bb1",
-          "location": "Ontario",
-          "department": "Claims",
           "postedDate": "2026-07-02"
         },
         {
@@ -2373,13 +2338,6 @@
           "title": "Financial Services Independent Advisor",
           "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=fffea06b-cc32-41cf-ba8f-95b8213d1d2b",
           "location": "Calgary, Alberta",
-          "department": "Agent/Business Owner",
-          "postedDate": "2026-06-30"
-        },
-        {
-          "title": "Commercial Insurance Advisor (Independent)",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=9b29c4ba-5cf5-4eee-9620-5c5c7a20110d",
-          "location": "Vancouver, British Columbia",
           "department": "Agent/Business Owner",
           "postedDate": "2026-06-30"
         },
@@ -2419,31 +2377,10 @@
           "postedDate": "2026-06-24"
         },
         {
-          "title": "Disability Case Manager I -12 month contract",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=dbf4b7ea-17a5-42f0-a29a-bda8f25570f7",
-          "location": "Calgary, Alberta",
-          "department": "Claims",
-          "postedDate": "2026-06-24"
-        },
-        {
           "title": "Associate Insurance Advisor III",
           "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=1d3187c9-7965-4608-bc2f-01dee8a2eee5",
           "location": "Morinville, Alberta",
           "department": "Sales",
-          "postedDate": "2026-06-24"
-        },
-        {
-          "title": "Lead Data Scientist - Profitable Growth",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=3c92a145-e113-4686-acf2-3012815457de",
-          "location": "Quebec, Quebec",
-          "department": "Business Intelligence",
-          "postedDate": "2026-06-24"
-        },
-        {
-          "title": "Manager, Business Intelligence - CLV",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=41f0b1aa-611e-4b9d-a98b-8290daa4125d",
-          "location": "Quebec, Quebec",
-          "department": "Business Intelligence",
           "postedDate": "2026-06-24"
         },
         {
@@ -2522,7 +2459,7 @@
       "id": "igm",
       "name": "IGM",
       "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing_summary&resultType=XML",
-      "jobCount": 39,
+      "jobCount": 41,
       "jobs": [
         {
           "title": "Advisor IG Wealth Connect",
@@ -2571,14 +2508,21 @@
           "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=14084",
           "location": "Location\nOntario",
           "department": "General",
-          "postedDate": "2026-07-13"
+          "postedDate": "2026-07-20"
         },
         {
           "title": "Advisor, IG Wealth Management, Corporate Channel (Mutual fund licensed) - Sherbrooke, QC",
           "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13914",
           "location": "Location\nQuebec",
           "department": "General",
-          "postedDate": "2026-07-06"
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Advisor, IG Wealth Management, Corporate Channel (Mutual Funds Licensed) - Sault Ste. Marie, ON",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=14086",
+          "location": "Location\nOntario",
+          "department": "General",
+          "postedDate": "2026-07-20"
         },
         {
           "title": "Bilingual Advisor, IG Wealth Connect",
@@ -2649,6 +2593,13 @@
           "location": "Location\nQuebec",
           "department": "General",
           "postedDate": "2026-07-13"
+        },
+        {
+          "title": "Manager Compliance Tier 1",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13975",
+          "location": "Location\nQuebec",
+          "department": "General",
+          "postedDate": "2026-07-20"
         },
         {
           "title": "Manager, Compliance - Tier 1",
@@ -2806,74 +2757,74 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "IT Program Project Delivery",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/IT-Program-Project-Delivery_R-792819/apply",
-          "location": "Berwyn",
-          "department": "Other",
-          "postedDate": "2026-06-23"
-        },
-        {
-          "title": "Infrastructure Operations Support AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Infrastructure-Operations-Support-AVP_R-794066/apply",
-          "location": "Berwyn",
-          "department": "Information Technology",
-          "postedDate": "2026-07-13"
-        },
-        {
-          "title": "Post Production Support Specialist",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Post-Production-Support-Specialist_R-793208/apply",
-          "location": "Berwyn",
-          "department": "Information Technology",
-          "postedDate": "2026-07-15"
-        },
-        {
-          "title": "Alpha Portfolio Readiness, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Alpha-Portfolio-Readiness--Officer_R-794399-1/apply",
-          "location": "Berwyn",
-          "department": "Investment Operations",
-          "postedDate": "2026-07-16"
-        },
-        {
-          "title": "Software Engineering & Development-Sr. Application Developer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Software-Engineering---Development-Sr-Application-Developer_R-792822/apply",
-          "location": "Princeton",
-          "department": "Other",
-          "postedDate": "2026-06-23"
-        },
-        {
-          "title": "Technical Program Manager - Capital Markets Technology, VP, Hybrid",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Technical-Program-Manager---Capital-Markets-Technology--VP--Hybrid_R-786336/apply",
-          "location": "Princeton",
+          "title": "Alternative Investment Services, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alternative-Investment-Services--Senior-Associate_R-787945-4/apply",
+          "location": "Sacramento",
           "department": "Other",
           "postedDate": "2026-06-24"
         },
         {
-          "title": "Business Analysis (Alpha / Middle Office Technology) Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Vice-President---System-Analysis---Quality-Engineering--Alpha---Middle-Office-Technology-_R-792792-1/apply",
-          "location": "Princeton",
-          "department": "Other",
-          "postedDate": "2026-06-29"
+          "title": "Client Manager, AVP  Investment Trading - Charles River Development",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Client-Manager--AVP--Investment-Trading---Charles-River-Development_R-787835/apply",
+          "location": "Sacramento",
+          "department": "Sales and Client Relationship",
+          "postedDate": "2026-04-28"
         },
         {
-          "title": "Workday HCM AMS Manager, Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/R-781996-Workday-HCM-AMS-Manager--Vice-President_R-789562-1/apply",
-          "location": "Princeton",
+          "title": "ETF Settlements, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/ETF-Settlements--Senior-Associate_R-789378-3/apply",
+          "location": "Sacramento",
           "department": "Other",
+          "postedDate": "2026-05-13"
+        },
+        {
+          "title": "Fund Accounting & Administration, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Fund-Accounting---Administration--Officer_R-790691/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-05-18"
+        },
+        {
+          "title": "T26-8624 ; Software Engineering & Development, AVP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/T26-8624---Software-Engineering---Development--AVP_R-791138/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-05-27"
+        },
+        {
+          "title": "T26-8686 ; Software Engineering & Development, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/T26-8686---Software-Engineering---Development--Officer_R-791145/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-05-27"
+        },
+        {
+          "title": "Investment Performance Analysis, Assistant Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Investment-Performance-Analysis--Assistant-Vice-President_R-793748/apply",
+          "location": "Sacramento",
+          "department": "Fund Services",
           "postedDate": "2026-07-07"
         },
         {
-          "title": "Alternative Investments Business Transformation Business Analyst, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Alternative-Investments-Business-Transformation-Business-Analyst--Officer_R-785364/apply",
-          "location": "Princeton",
-          "department": "Other",
-          "postedDate": "2026-07-08"
+          "title": "Alpha Portfolio Readiness, Associate 2",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alpha-Portfolio-Readiness--Associate-2_R-788715/apply",
+          "location": "Sacramento",
+          "department": "Investment Operations",
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "Senior Full Stack Software Engineer, AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Senior-Full-Stack-Software-Engineer--AVP_R-793908/apply",
-          "location": "Princeton",
-          "department": "Other",
-          "postedDate": "2026-07-09"
+          "title": "Alpha Portfolio Readiness, Assistant Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Alpha-Portfolio-Readiness--Assistant-Vice-President_R-794402/apply",
+          "location": "Sacramento",
+          "department": "Investment Operations",
+          "postedDate": "2026-07-16"
+        },
+        {
+          "title": "Middle Office Operations, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Middle-Office-Operations--Senior-Associate_R-791659/apply",
+          "location": "Irvine",
+          "department": "Investment Operations",
+          "postedDate": "2026-06-03"
         }
       ]
     },
@@ -2881,8 +2832,29 @@
       "id": "raymondjames",
       "name": "Raymond James",
       "url": "https://raymondjames.taleo.net/careersection/1_ca/jobsearch.ftl?lang=en",
-      "jobCount": 81,
+      "jobCount": 86,
       "jobs": [
+        {
+          "title": "Assistant",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600470&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Alberta",
+          "department": "General",
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Spécialiste en marketing, Équipe du contenu marketing",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600467&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Marketing Specialist, Content Marketing Team",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600466&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-07-20"
+        },
         {
           "title": "Senior Trust Officer (Evergreen)",
           "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600469&tz=GMT%2B00%3A00&tzname=UTC",
@@ -3416,6 +3388,20 @@
           "postedDate": "2026-07-20"
         },
         {
+          "title": "Investment Banking Analyst/Associate (Future Opportunities)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2500244&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "ON-Toronto",
+          "department": "General",
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Adjoint(e) au conseiller, service de conseils en placement (réquisition perpétuelle)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403015&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "QC-Montréal",
+          "department": "General",
+          "postedDate": "2026-07-20"
+        },
+        {
           "title": "Investment Advisor Assistant (Evergreen)",
           "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2403516&tz=GMT%2B00%3A00&tzname=UTC",
           "location": "QC-Montréal",
@@ -3467,116 +3453,116 @@
       "jobCount": 16,
       "jobs": [
         {
+          "title": "Senior Operations Journey Owner",
+          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3574",
+          "location": "Not specified",
+          "department": "General",
+          "postedDate": "2026-07-21"
+        },
+        {
           "title": "Operations Service Representative",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3571",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Wealth Digital Enablement Trainer",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3560",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Compliance Advisor",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3514",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Associate",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3503",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Journey Analyst",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3495",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Assistant",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3490",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Associate",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3480",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Wealth Digital Enablement Trainer",
-          "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3477",
-          "location": "Not specified",
-          "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Business Content Specialist",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3473",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Associate",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3466",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Journey Analyst (12-Month Contract)",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3295",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Digital Marketing Specialist (12 month-Contract)",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3276",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Associate Vice President, Operations",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3244",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Associate",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3220",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Assistant",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3181",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Branch Assistant",
           "url": "https://jobs.dayforcehcm.com/en-CA/richardsonwealth/CANDIDATEPORTAL/jobs/3118",
           "location": "Not specified",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         }
       ]
     },
@@ -3584,658 +3570,672 @@
       "id": "iawealth",
       "name": "IA Wealth",
       "url": "https://ia.ca/jobs/jobs-available",
-      "jobCount": 93,
+      "jobCount": 95,
       "jobs": [
+        {
+          "title": "Manager, Production, Integrity and Business Intelligence",
+          "url": "https://ia.ca/en/carrieres/job/JR10027146",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Senior underwriter",
+          "url": "https://ia.ca/en/carrieres/job/JR10027068",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Financial Advisor",
+          "url": "https://ia.ca/en/carrieres/job/JR10027156",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-07-21"
+        },
         {
           "title": "Internal Wholesaler",
           "url": "https://ia.ca/en/carrieres/job/JR10026598",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Learning and Development Advisor",
           "url": "https://ia.ca/en/carrieres/job/JR10027075",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Associate Director, IT Solutions Delivery - Data Management",
           "url": "https://ia.ca/en/carrieres/job/JR10027158",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Consultant, Advanced Underwriting",
           "url": "https://ia.ca/en/carrieres/job/JR10026129",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Financial Accountant – Dealer Services",
           "url": "https://ia.ca/en/carrieres/job/JR10026303",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Customer Service Representative",
           "url": "https://ia.ca/en/carrieres/job/JR10026840",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "IT Technician – Equipment logistics and local IT service | Temporary in Québec",
           "url": "https://ia.ca/en/carrieres/job/JR10026164",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Strategic Advisor, Client Growth",
           "url": "https://ia.ca/en/carrieres/job/JR10026843",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Education Specialist",
           "url": "https://ia.ca/en/carrieres/job/JR10026670",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Account Executive",
           "url": "https://ia.ca/en/carrieres/job/JR10026132",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Protection Program Specialist",
           "url": "https://ia.ca/en/carrieres/job/JR10027089",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Internal Auditor – Operational Risk Audits",
           "url": "https://ia.ca/en/carrieres/job/JR10026147",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Damage Insurance Agent",
           "url": "https://ia.ca/en/carrieres/job/JR10027108",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Business Development Specialist",
           "url": "https://ia.ca/en/carrieres/job/JR10025669",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "National Sales Director, Southeast US",
           "url": "https://ia.ca/en/carrieres/job/JR10026761",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Account Executive, Northeastern US",
           "url": "https://ia.ca/en/carrieres/job/JR10026507",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Account Executive",
           "url": "https://ia.ca/en/carrieres/job/JR10024113",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Wealth Enablement Digital Trainer",
           "url": "https://ia.ca/en/carrieres/job/JR10026877",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Compensation Technician",
           "url": "https://ia.ca/en/carrieres/job/JR10027062",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Project Manager",
           "url": "https://ia.ca/en/carrieres/job/JR10026832",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Regional Assistant – Events and Sales Support",
           "url": "https://ia.ca/en/carrieres/job/JR10027065",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Manager, North American Payroll Services",
           "url": "https://ia.ca/en/carrieres/job/JR10027041",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Advisor, Artificial Intelligence Strategy",
           "url": "https://ia.ca/en/carrieres/job/JR10027137",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Rehabilitation Consultant",
           "url": "https://ia.ca/en/carrieres/job/JR10027098",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Product Manager – Unstructured Data Platform",
           "url": "https://ia.ca/en/carrieres/job/JR10027091",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Accounts Payable and Advisor Commissions Specialist",
           "url": "https://ia.ca/en/carrieres/job/JR10027185",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Inside Sales Insurance",
           "url": "https://ia.ca/en/carrieres/job/JR10026906",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Director Tier 1 Supervision",
           "url": "https://ia.ca/en/carrieres/job/JR10027114",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Expert Advisor – HR Data Governance",
           "url": "https://ia.ca/en/carrieres/job/JR10026296",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Account Transfer Administrator",
           "url": "https://ia.ca/en/carrieres/job/JR10027110",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Agency Support Representative (Brossard)",
           "url": "https://ia.ca/en/carrieres/job/JR10027161",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Compliance Advisor, Privacy of Information",
           "url": "https://ia.ca/en/carrieres/job/JR10026801",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Principal Solution Designer",
           "url": "https://ia.ca/en/carrieres/job/JR10027074",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Benefits, Retirement and Leave Management Advisor",
           "url": "https://ia.ca/en/carrieres/job/JR10026089",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Creditor Claim Assistant",
           "url": "https://ia.ca/en/carrieres/job/JR10027063",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Financial Planning, Forecasting & Analysis Manager",
           "url": "https://ia.ca/en/carrieres/job/JR10027087",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "System Administrator",
           "url": "https://ia.ca/en/carrieres/job/JR10027148",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Tarificateur(trice) senior",
           "url": "https://ia.ca/en/carrieres/job/JR10027069",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Digital Enablement Advisor",
           "url": "https://ia.ca/en/carrieres/job/JR10027081",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Information Security, Risk and Compliance Advisor",
           "url": "https://ia.ca/en/carrieres/job/JR10027082",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Advisor, Voice of the Customer & Research",
           "url": "https://ia.ca/en/carrieres/job/JR10027097",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Client Relationship Manager, Group Benefits & Retirement Solutions (Retirement)",
           "url": "https://ia.ca/en/carrieres/job/JR10027023",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Marketing Advisor II",
           "url": "https://ia.ca/en/carrieres/job/JR10027033",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Communications Specialist (Temporary)",
           "url": "https://ia.ca/en/carrieres/job/JR10027084",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Corporate Actuarial Analyst",
           "url": "https://ia.ca/en/carrieres/job/JR10026184",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Corporate Actuarial Advisor",
           "url": "https://ia.ca/en/carrieres/job/JR10025871",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Actuarial Advisor",
           "url": "https://ia.ca/en/carrieres/job/JR10027031",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Business Analyst",
           "url": "https://ia.ca/en/carrieres/job/JR10027083",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Contracting Administrator",
           "url": "https://ia.ca/en/carrieres/job/JR10027154",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Practice Lead, Sustainability and Extra-Financial Disclosures",
           "url": "https://ia.ca/en/carrieres/job/JR10026780",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Advisor, Growth and Retention",
           "url": "https://ia.ca/en/carrieres/job/JR10026564",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Associate Director, Fixed Income Trader",
           "url": "https://ia.ca/en/carrieres/job/JR10026870",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Property & Casualty Actuarial Opportunities",
           "url": "https://ia.ca/en/carrieres/job/JR10027128",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Project Manager – ServiceNow Platform",
           "url": "https://ia.ca/en/carrieres/job/JR10027009",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Executive Assistant, Administration (SAEC)",
           "url": "https://ia.ca/en/carrieres/job/JR10027135",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Administrative Assistant",
           "url": "https://ia.ca/en/carrieres/job/JR10027026",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Managed Account Supervisor",
           "url": "https://ia.ca/en/carrieres/job/JR10027037",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Financial Performance Analyst",
           "url": "https://ia.ca/en/carrieres/job/JR10027057",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Individual Disability Claims Analyst",
           "url": "https://ia.ca/en/carrieres/job/JR10027006",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Financial Performance Advisor – Investments Sector",
           "url": "https://ia.ca/en/carrieres/job/JR10025890",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Vice-President, Professional Services",
           "url": "https://ia.ca/en/carrieres/job/JR10026703",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Director of Sales- Individual Insurance",
           "url": "https://ia.ca/en/carrieres/job/JR10027013",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Actuarial Advisor – Financial and Actuarial Services",
           "url": "https://ia.ca/en/carrieres/job/JR10027067",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Exclusive and VIP Service Specialist",
           "url": "https://ia.ca/en/carrieres/job/JR10027027",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Adjustment Specialist",
           "url": "https://ia.ca/en/carrieres/job/JR10027061",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Salesforce developer",
           "url": "https://ia.ca/en/carrieres/job/JR10026400",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Client Relationship Manager, Group Benefits & Retirement Solutions (Insurance)",
           "url": "https://ia.ca/en/carrieres/job/JR10027086",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Manager, Enterprise CAB",
           "url": "https://ia.ca/en/carrieres/job/JR10026679",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Corporate Branch Manager",
           "url": "https://ia.ca/en/carrieres/job/JR10026842",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "System Architect",
           "url": "https://ia.ca/en/carrieres/job/JR10026549",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "User Experience Advisor – UX Research",
           "url": "https://ia.ca/en/carrieres/job/JR10026966",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Credit Risk Officer",
           "url": "https://ia.ca/en/carrieres/job/JR10026201",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Legal Counsel – Corporate and Transactional Affairs",
           "url": "https://ia.ca/en/carrieres/job/JR10026613",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Project Manager",
           "url": "https://ia.ca/en/carrieres/job/JR10026964",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Advisor, Compensation and Benefits – HR M&A",
           "url": "https://ia.ca/en/carrieres/job/JR10026685",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Advisor, Integration Modeling and Economics",
           "url": "https://ia.ca/en/carrieres/job/JR10026270",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Systems Architect",
           "url": "https://ia.ca/en/carrieres/job/JR10026729",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Digital Marketing and Communications Project Manager",
           "url": "https://ia.ca/en/carrieres/job/JR10026722",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Actuarial Advisor – Auto and Home Pricing",
           "url": "https://ia.ca/en/carrieres/job/JR10024143",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Cloud Technology Designer FinOps",
           "url": "https://ia.ca/en/carrieres/job/JR10026965",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Analyst, Investment Funds - Corporate Credit",
           "url": "https://ia.ca/en/carrieres/job/JR10026968",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Regional Vice-President, Business Development - ON",
           "url": "https://ia.ca/en/carrieres/job/JR10026990",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Regional Vice-President, Business Development - AB",
           "url": "https://ia.ca/en/carrieres/job/JR10026991",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Mail Services Administrator",
           "url": "https://ia.ca/en/carrieres/job/JR10026969",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Manager, Business Operations",
           "url": "https://ia.ca/en/carrieres/job/JR10026974",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Salesforce Administrator",
           "url": "https://ia.ca/en/carrieres/job/JR10026898",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Underwriter",
           "url": "https://ia.ca/en/carrieres/job/JR10026905",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "New Business Specialist",
           "url": "https://ia.ca/en/carrieres/job/JR10026962",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
-        },
-        {
-          "title": "Team Leader, Investments – Eastern Canada",
-          "url": "https://ia.ca/en/carrieres/job/JR10025958",
-          "location": "Canada",
-          "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Branch Manager (Saskatoon)",
           "url": "https://ia.ca/en/carrieres/job/JR10025248",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Compliance Officer",
           "url": "https://ia.ca/en/carrieres/job/JR10026810",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Underwriting Consultant",
           "url": "https://ia.ca/en/carrieres/job/JR10026417",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         },
         {
           "title": "Senior Underwriter",
           "url": "https://ia.ca/en/carrieres/job/JR10025469",
           "location": "Canada",
           "department": "General",
-          "postedDate": "2026-07-20"
+          "postedDate": "2026-07-21"
         }
       ]
     }
