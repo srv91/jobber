@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T11:34:25.621Z",
+  "lastUpdated": "2026-08-08T23:31:29.333Z",
   "sources": [
     {
       "id": "sunlife",
@@ -1026,184 +1026,9 @@
       "id": "canadalife",
       "name": "Canada Life",
       "url": "https://jobs.canadalife.com/go/All-Jobs/9170201/",
-      "jobCount": 25,
-      "jobs": [
-        {
-          "title": "Client Experience Specialist - Georgetown, ONClient Experience Specialist - Georgetown, ON",
-          "url": "https://jobs.canadalife.com/job/Georgetown-Ontario-Client-Experience-Specialist-Georgetown%2C-ON-ON-L7G-3Z4/1413845733/",
-          "location": "Georgetown Ontario, ON, CA, L7G 3Z4",
-          "department": "Customer Service and Administration",
-          "postedDate": "Aug 8, 2026"
-        },
-        {
-          "title": "BI Platform EngineerBI Platform Engineer",
-          "url": "https://jobs.canadalife.com/job/Toronto-BI-Platform-Engineer-ON/1395162133/",
-          "location": "Toronto, ON, CA\n            \n                +1 more…",
-          "department": "Digital Technology",
-          "postedDate": "Aug 8, 2026"
-        },
-        {
-          "title": "Bilingual (Fr/En) Marketing Relationship ManagerBilingual (Fr/En) Marketing Relationship Manager",
-          "url": "https://jobs.canadalife.com/job/Mississauga-Ontario-Bilingual-%28FrEn%29-Marketing-Relationship-Manager-ON-L4W-0E4/1403496633/",
-          "location": "Mississauga Ontario, ON, CA, L4W 0E4\n            \n                +1 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Aug 8, 2026"
-        },
-        {
-          "title": "Investment Analyst | Great WestInvestment Analyst | Great West",
-          "url": "https://jobs.canadalife.com/job/Toronto-Investment-Analyst-Great-West-ON/1293018101/",
-          "location": "Toronto, ON, CA",
-          "department": "Actuarial and Investments and Finance",
-          "postedDate": "Aug 7, 2026"
-        },
-        {
-          "title": "Disability Medical CoordinatorDisability Medical Coordinator",
-          "url": "https://jobs.canadalife.com/job/Vancouver-Disability-Medical-Coordinator-Brit/1402603333/",
-          "location": "Vancouver, British Columbia, CA",
-          "department": "Claims Management",
-          "postedDate": "Aug 7, 2026"
-        },
-        {
-          "title": "Office Administrator (12-Month Contract, French Comprehension Required)Office Administrator (12-Month Contract, French Comprehension Required)",
-          "url": "https://jobs.canadalife.com/job/Kitchener-Ontario-Office-Administrator-%2812-Month-Contract%2C-French-Comprehension-Required%29-ON-N2P-2G5/1399401333/",
-          "location": "Kitchener Ontario, ON, CA, N2P 2G5",
-          "department": "Customer Service and Administration",
-          "postedDate": "Aug 7, 2026"
-        },
-        {
-          "title": "Sr Devops Engineering Specialist (Container Platforms)Sr Devops Engineering Specialist (Container Platforms)",
-          "url": "https://jobs.canadalife.com/job/London-Sr-Devops-Engineering-Specialist-%28Container-Platforms%29-ON/1424431833/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "Aug 7, 2026"
-        },
-        {
-          "title": "Director, Change ManagementDirector, Change Management",
-          "url": "https://jobs.canadalife.com/job/London-Director%2C-Change-Management-ON/1424432933/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Aug 7, 2026"
-        },
-        {
-          "title": "Account Executive, Group BenefitsAccount Executive, Group Benefits",
-          "url": "https://jobs.canadalife.com/job/Toronto-Account-Executive%2C-Group-Benefits-ON/1424462533/",
-          "location": "Toronto, ON, CA",
-          "department": "Sales and Business Development",
-          "postedDate": "Aug 7, 2026"
-        },
-        {
-          "title": "Associate Strategic Implementation ManagerAssociate Strategic Implementation Manager",
-          "url": "https://jobs.canadalife.com/job/London-Associate-Strategic-Implementation-Manager-ON/1424423933/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Aug 7, 2026"
-        },
-        {
-          "title": "Sr Videographer/Multi-Media SpecialistSr Videographer/Multi-Media Specialist",
-          "url": "https://jobs.canadalife.com/job/Toronto-Ontario-Sr-VideographerMulti-Media-Specialist-ON-M5T-3M3/1424491733/",
-          "location": "Toronto Ontario, ON, CA, M5T 3M3\n            \n                +1 more…",
-          "department": "Digital Technology",
-          "postedDate": "Aug 7, 2026"
-        },
-        {
-          "title": "Senior Change Management SpecialistSenior Change Management Specialist",
-          "url": "https://jobs.canadalife.com/job/London-Senior-Change-Management-Specialist-ON/1424438233/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Aug 7, 2026"
-        },
-        {
-          "title": "Bilingual (Fr/En) Manager, Inside SalesBilingual (Fr/En) Manager, Inside Sales",
-          "url": "https://jobs.canadalife.com/job/Montreal-Bilingual-%28FrEn%29-Manager%2C-Inside-Sales-Queb/1424492233/",
-          "location": "Montreal, Quebec, CA",
-          "department": "Sales and Business Development",
-          "postedDate": "Aug 7, 2026"
-        },
-        {
-          "title": "Data Platform EngineerData Platform Engineer",
-          "url": "https://jobs.canadalife.com/job/Toronto-Data-Platform-Engineer-ON/1424024633/",
-          "location": "Toronto, ON, CA\n            \n                +1 more…",
-          "department": "Digital Technology",
-          "postedDate": "Aug 6, 2026"
-        },
-        {
-          "title": "Manager, AI GovernanceManager, AI Governance",
-          "url": "https://jobs.canadalife.com/job/Toronto-Manager%2C-AI-Governance-ON/1424000233/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "Aug 6, 2026"
-        },
-        {
-          "title": "Bilingual (Fr/En) National Securities SpecialistBilingual (Fr/En) National Securities Specialist",
-          "url": "https://jobs.canadalife.com/job/Montreal-Bilingual-%28FrEn%29-National-Securities-Specialist-Queb/1424086733/",
-          "location": "Montreal, Quebec, CA",
-          "department": "Actuarial and Investments and Finance",
-          "postedDate": "Aug 6, 2026"
-        },
-        {
-          "title": "Solutions Architect - App Enablement LeadSolutions Architect - App Enablement Lead",
-          "url": "https://jobs.canadalife.com/job/Toronto-Ontario-Solutions-Architect-App-Enablement-Lead-ON-M5T-3M3/1424080833/",
-          "location": "Toronto Ontario, ON, CA, M5T 3M3\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "Aug 6, 2026"
-        },
-        {
-          "title": "Client Relationship Executive (bilingual)Client Relationship Executive (bilingual)",
-          "url": "https://jobs.canadalife.com/job/Montreal-Client-Relationship-Executive-%28bilingual%29-Queb/1424085933/",
-          "location": "Montreal, Quebec, CA\n            \n                +1 more…",
-          "department": "Sales and Business Development",
-          "postedDate": "Aug 6, 2026"
-        },
-        {
-          "title": "Senior AI Platform DeveloperSenior AI Platform Developer",
-          "url": "https://jobs.canadalife.com/job/Toronto-Senior-AI-Platform-Developer-ON/1423954533/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "Aug 6, 2026"
-        },
-        {
-          "title": "Business Analyst, Dealer Operations - 12 Month TermBusiness Analyst, Dealer Operations - 12 Month Term",
-          "url": "https://jobs.canadalife.com/job/London-Business-Analyst%2C-Dealer-Operations-12-Month-Term-ON/1423652433/",
-          "location": "London, ON, CA\n            \n                +1 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Aug 6, 2026"
-        },
-        {
-          "title": "Business Development ManagerBusiness Development Manager",
-          "url": "https://jobs.canadalife.com/job/Calgary-Business-Development-Manager-AB/1392024833/",
-          "location": "Calgary, AB, CA",
-          "department": "Sales and Business Development",
-          "postedDate": "Aug 5, 2026"
-        },
-        {
-          "title": "Associate Manager, Digital Analytics - 12 Month ContractAssociate Manager, Digital Analytics - 12 Month Contract",
-          "url": "https://jobs.canadalife.com/job/Toronto-Associate-Manager%2C-Digital-Analytics-12-Month-Contract-ON/1400016233/",
-          "location": "Toronto, ON, CA\n            \n                +1 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Aug 5, 2026"
-        },
-        {
-          "title": "Adobe Experience Manager (AEM ) Engineering SpecialistAdobe Experience Manager (AEM ) Engineering Specialist",
-          "url": "https://jobs.canadalife.com/job/Canada-Adobe-Experience-Manager-%28AEM-%29-Engineering-Specialist-ON/1423191133/",
-          "location": "Canada, ON, CA",
-          "department": "Digital Technology",
-          "postedDate": "Aug 5, 2026"
-        },
-        {
-          "title": "Manager, Enterprise AI ReportingManager, Enterprise AI Reporting",
-          "url": "https://jobs.canadalife.com/job/Toronto-Manager%2C-Enterprise-AI-Reporting-ON/1423591833/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "Aug 5, 2026"
-        },
-        {
-          "title": "Manager, Change ManagementManager, Change Management",
-          "url": "https://jobs.canadalife.com/job/London-Manager%2C-Change-Management-ON/1423587733/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Aug 5, 2026"
-        }
-      ]
+      "jobCount": 0,
+      "jobs": [],
+      "error": "fetch failed"
     },
     {
       "id": "cibcmellon",
@@ -1856,8 +1681,22 @@
       "id": "cooperators",
       "name": "Cooperators",
       "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/JobBoardView/LoadSearchResults",
-      "jobCount": 83,
+      "jobCount": 85,
       "jobs": [
+        {
+          "title": "Bilingual Disability Case Manager II",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=061d0437-b076-48dc-829d-04e9665f0db8",
+          "location": "Canada Other",
+          "department": "Claims",
+          "postedDate": "2026-08-08"
+        },
+        {
+          "title": "Disability Case Manager II",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=6d5c934f-0e3e-4475-848b-d82c3dc9e21b",
+          "location": "Canada Other",
+          "department": "Claims",
+          "postedDate": "2026-08-08"
+        },
         {
           "title": "Senior Product Consultant",
           "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=d159a68b-fd66-43c6-8efb-a7ab0b1b8eb0",
@@ -2799,74 +2638,74 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "Bank Loan Servicing, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Chicago-Illinois/Bank-Loan-Servicing--Officer_R-790582/apply",
-          "location": "OS IL",
-          "department": "Other",
+          "title": "RIA Regional Consultant – Enterprise RIAs, VP III - State Street Investment Management",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Montgomery-County-Maryland/RIA-Regional-Consultant---Enterprise-RIAs--VP-III---State-Street-Investment-Management_R-795566-2/apply",
+          "location": "OS MD",
+          "department": "Sales and Client Relationship",
           "postedDate": "2026-08-05"
         },
         {
-          "title": "Alternative Investment Services Bank Loans Operations, Assistant Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Alternative-Investment-Services-Bank-Loans-Operations--Assistant-Vice-President_R-788552-1/apply",
-          "location": "Kansas City",
+          "title": "IT Program Project Delivery",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/IT-Program-Project-Delivery_R-792819/apply",
+          "location": "Berwyn",
           "department": "Other",
+          "postedDate": "2026-06-23"
+        },
+        {
+          "title": "Post Production Support Specialist",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Post-Production-Support-Specialist_R-793208/apply",
+          "location": "Berwyn",
+          "department": "Information Technology",
+          "postedDate": "2026-07-15"
+        },
+        {
+          "title": "Infrastructure Operations Support AVP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Infrastructure-Operations-Support-AVP_R-794066/apply",
+          "location": "Berwyn",
+          "department": "Information Technology",
           "postedDate": "2026-07-13"
         },
         {
-          "title": "Fund Accounting & Administration, Associate 2",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Fund-Accounting---Administration--Associate-2_R-787490/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-07-27"
+          "title": "Alpha Front Office Services, Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Alpha-Front-Office-Services--Vice-President_R-794664/apply",
+          "location": "Berwyn",
+          "department": "Investment Operations",
+          "postedDate": "2026-07-20"
         },
         {
-          "title": "Fund Accounting & Administration, Associate 2",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Fund-Accounting---Administration--Associate-2_R-795313/apply",
-          "location": "Kansas City",
+          "title": "Legal Support, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Legal-Support--Officer_R-792858/apply",
+          "location": "Berwyn",
+          "department": "Compliance, Risk and Legal",
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Technical Support Specialist (API, ETL, Java, C#), AVP - Charles River Development",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Front-Office---Buyside-Post-Production-Technical-Support-Specialist----API--ETL-tool-usage--Java-and-or-C--programming--Investment-Trading-Software-Fixed-Income-and-Equities---Charles-River-Development_R-783187/apply",
+          "location": "Berwyn",
           "department": "Other",
           "postedDate": "2026-07-29"
         },
         {
-          "title": "Fund Accounting, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Fund-Accounting--Senior-Associate_R-795353-1/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-07-30"
+          "title": "Global Delivery Transaction Management, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Global-Delivery-Transaction-Management--Officer_R-795297/apply",
+          "location": "Berwyn",
+          "department": "Investment Operations",
+          "postedDate": "2026-07-29"
         },
         {
-          "title": "Fund Accounting, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Fund-Accounting--Officer_R-795359-1/apply",
-          "location": "Kansas City",
+          "title": "Data Protection, Managing Director",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Data-Protection--Managing-Director_R-795438/apply",
+          "location": "Berwyn",
           "department": "Other",
-          "postedDate": "2026-08-03"
+          "postedDate": "2026-07-31"
         },
         {
-          "title": "Software Quality Engineer, AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Software-Quality-Engineer--AVP_R-792188/apply",
-          "location": "Toronto",
-          "department": "Information Technology",
-          "postedDate": "2026-06-10"
-        },
-        {
-          "title": "SaaS Onboarding -Systems Engineer & Automation - AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/SaaS-Onboarding--Systems-Engineer---Automation---AVP_R-785447/apply",
-          "location": "Toronto",
+          "title": "Production Support Engineer, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Production-Support-Engineer--Senior-Associate_R-794413/apply",
+          "location": "Berwyn",
           "department": "Other",
-          "postedDate": "2026-06-18"
-        },
-        {
-          "title": "Full Stack Software Engineer, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792055/apply",
-          "location": "Toronto",
-          "department": "Other",
-          "postedDate": "2026-06-09"
-        },
-        {
-          "title": "Sr. Software Engineer, AVP II",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Sr-Software-Engineer--AVP-II_R-792061/apply",
-          "location": "Toronto",
-          "department": "Other",
-          "postedDate": "2026-06-09"
+          "postedDate": "2026-08-04"
         }
       ]
     },
