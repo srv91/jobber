@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T11:35:14.875Z",
+  "lastUpdated": "2026-08-09T23:33:33.427Z",
   "sources": [
     {
       "id": "sunlife",
@@ -96,13 +96,6 @@
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Thunder-Bay-Ontario/SUN-LIFE-FINANCIAL-ADVISOR_JR00034423",
           "location": "Thunder Bay, Ontario",
           "department": "JR00034423",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
-          "title": "Lead- USI Accounting",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Lead--USI-Accounting_JR00126805",
-          "location": "Gurugram, Haryana",
-          "department": "JR00126805",
           "postedDate": "Posted 2 Days Ago"
         },
         {
@@ -286,6 +279,13 @@
           "location": "3 Locations",
           "department": "JR00126698",
           "postedDate": "Posted 3 Days Ago"
+        },
+        {
+          "title": "Senior Red Team Operator",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Senior-Red-Team-Operator_JR00126713",
+          "location": "Taguig City, National Capital Region (Manila)",
+          "department": "JR00126713",
+          "postedDate": "Posted 3 Days Ago"
         }
       ]
     },
@@ -345,6 +345,13 @@
       "url": "https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/fidelitycanada/jobs",
       "jobCount": 40,
       "jobs": [
+        {
+          "title": "Team Manager Technology Recruitment",
+          "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Team-Manager-Technology-Recruitment_J69888-1",
+          "location": "Toronto Office",
+          "department": "J69888",
+          "postedDate": "Posted Today"
+        },
         {
           "title": "Operations and Regulatory Compliance Specialist Sr",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Operations-and-Regulatory-Compliance-Specialist-Sr_J69969",
@@ -602,13 +609,6 @@
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Senior-Internal-Auditor--Assurance---Advisory_J67487",
           "location": "Toronto Office",
           "department": "J67487",
-          "postedDate": "Posted 13 Days Ago"
-        },
-        {
-          "title": "Team Manager Technology Recruitment",
-          "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Team-Manager-Technology-Recruitment_J69888-1",
-          "location": "Toronto Office",
-          "department": "J69888",
           "postedDate": "Posted 13 Days Ago"
         },
         {
@@ -1036,17 +1036,17 @@
           "postedDate": "Aug 8, 2026"
         },
         {
-          "title": "BI Platform EngineerBI Platform Engineer",
-          "url": "https://jobs.canadalife.com/job/Toronto-BI-Platform-Engineer-ON/1395162133/",
-          "location": "Toronto, ON, CA\n            \n                +1 more…",
-          "department": "Digital Technology",
-          "postedDate": "Aug 8, 2026"
-        },
-        {
           "title": "Bilingual (Fr/En) Marketing Relationship ManagerBilingual (Fr/En) Marketing Relationship Manager",
           "url": "https://jobs.canadalife.com/job/Mississauga-Ontario-Bilingual-%28FrEn%29-Marketing-Relationship-Manager-ON-L4W-0E4/1403496633/",
           "location": "Mississauga Ontario, ON, CA, L4W 0E4\n            \n                +1 more…",
           "department": "Corporate Functions",
+          "postedDate": "Aug 8, 2026"
+        },
+        {
+          "title": "BI Platform EngineerBI Platform Engineer",
+          "url": "https://jobs.canadalife.com/job/Toronto-BI-Platform-Engineer-ON/1395162133/",
+          "location": "Toronto, ON, CA\n            \n                +1 more…",
+          "department": "Digital Technology",
           "postedDate": "Aug 8, 2026"
         },
         {
@@ -1071,6 +1071,27 @@
           "postedDate": "Aug 7, 2026"
         },
         {
+          "title": "Sr Devops Engineering Specialist (Container Platforms)Sr Devops Engineering Specialist (Container Platforms)",
+          "url": "https://jobs.canadalife.com/job/London-Sr-Devops-Engineering-Specialist-%28Container-Platforms%29-ON/1424431833/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Digital Technology",
+          "postedDate": "Aug 7, 2026"
+        },
+        {
+          "title": "Account Executive, Group BenefitsAccount Executive, Group Benefits",
+          "url": "https://jobs.canadalife.com/job/Toronto-Account-Executive%2C-Group-Benefits-ON/1424462533/",
+          "location": "Toronto, ON, CA",
+          "department": "Sales and Business Development",
+          "postedDate": "Aug 7, 2026"
+        },
+        {
+          "title": "Senior Change Management SpecialistSenior Change Management Specialist",
+          "url": "https://jobs.canadalife.com/job/London-Senior-Change-Management-Specialist-ON/1424438233/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
+          "postedDate": "Aug 7, 2026"
+        },
+        {
           "title": "Bilingual (Fr/En) Manager, Inside SalesBilingual (Fr/En) Manager, Inside Sales",
           "url": "https://jobs.canadalife.com/job/Montreal-Bilingual-%28FrEn%29-Manager%2C-Inside-Sales-Queb/1424492233/",
           "location": "Montreal, Quebec, CA",
@@ -1085,27 +1106,6 @@
           "postedDate": "Aug 7, 2026"
         },
         {
-          "title": "Sr Videographer/Multi-Media SpecialistSr Videographer/Multi-Media Specialist",
-          "url": "https://jobs.canadalife.com/job/Toronto-Ontario-Sr-VideographerMulti-Media-Specialist-ON-M5T-3M3/1424491733/",
-          "location": "Toronto Ontario, ON, CA, M5T 3M3\n            \n                +1 more…",
-          "department": "Digital Technology",
-          "postedDate": "Aug 7, 2026"
-        },
-        {
-          "title": "Senior Change Management SpecialistSenior Change Management Specialist",
-          "url": "https://jobs.canadalife.com/job/London-Senior-Change-Management-Specialist-ON/1424438233/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Aug 7, 2026"
-        },
-        {
-          "title": "Account Executive, Group BenefitsAccount Executive, Group Benefits",
-          "url": "https://jobs.canadalife.com/job/Toronto-Account-Executive%2C-Group-Benefits-ON/1424462533/",
-          "location": "Toronto, ON, CA",
-          "department": "Sales and Business Development",
-          "postedDate": "Aug 7, 2026"
-        },
-        {
           "title": "Associate Strategic Implementation ManagerAssociate Strategic Implementation Manager",
           "url": "https://jobs.canadalife.com/job/London-Associate-Strategic-Implementation-Manager-ON/1424423933/",
           "location": "London, ON, CA\n            \n                +2 more…",
@@ -1113,9 +1113,9 @@
           "postedDate": "Aug 7, 2026"
         },
         {
-          "title": "Sr Devops Engineering Specialist (Container Platforms)Sr Devops Engineering Specialist (Container Platforms)",
-          "url": "https://jobs.canadalife.com/job/London-Sr-Devops-Engineering-Specialist-%28Container-Platforms%29-ON/1424431833/",
-          "location": "London, ON, CA\n            \n                +2 more…",
+          "title": "Sr Videographer/Multi-Media SpecialistSr Videographer/Multi-Media Specialist",
+          "url": "https://jobs.canadalife.com/job/Toronto-Ontario-Sr-VideographerMulti-Media-Specialist-ON-M5T-3M3/1424491733/",
+          "location": "Toronto Ontario, ON, CA, M5T 3M3\n            \n                +1 more…",
           "department": "Digital Technology",
           "postedDate": "Aug 7, 2026"
         },
@@ -1134,16 +1134,9 @@
           "postedDate": "Aug 6, 2026"
         },
         {
-          "title": "Manager, AI GovernanceManager, AI Governance",
-          "url": "https://jobs.canadalife.com/job/Toronto-Manager%2C-AI-Governance-ON/1424000233/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "Aug 6, 2026"
-        },
-        {
-          "title": "Solutions Architect - App Enablement LeadSolutions Architect - App Enablement Lead",
-          "url": "https://jobs.canadalife.com/job/Toronto-Ontario-Solutions-Architect-App-Enablement-Lead-ON-M5T-3M3/1424080833/",
-          "location": "Toronto Ontario, ON, CA, M5T 3M3\n            \n                +2 more…",
+          "title": "Data Platform EngineerData Platform Engineer",
+          "url": "https://jobs.canadalife.com/job/Toronto-Data-Platform-Engineer-ON/1424024633/",
+          "location": "Toronto, ON, CA\n            \n                +1 more…",
           "department": "Digital Technology",
           "postedDate": "Aug 6, 2026"
         },
@@ -1155,6 +1148,13 @@
           "postedDate": "Aug 6, 2026"
         },
         {
+          "title": "Manager, AI GovernanceManager, AI Governance",
+          "url": "https://jobs.canadalife.com/job/Toronto-Manager%2C-AI-Governance-ON/1424000233/",
+          "location": "Toronto, ON, CA\n            \n                +2 more…",
+          "department": "Digital Technology",
+          "postedDate": "Aug 6, 2026"
+        },
+        {
           "title": "Senior AI Platform DeveloperSenior AI Platform Developer",
           "url": "https://jobs.canadalife.com/job/Toronto-Senior-AI-Platform-Developer-ON/1423954533/",
           "location": "Toronto, ON, CA\n            \n                +2 more…",
@@ -1162,9 +1162,9 @@
           "postedDate": "Aug 6, 2026"
         },
         {
-          "title": "Data Platform EngineerData Platform Engineer",
-          "url": "https://jobs.canadalife.com/job/Toronto-Data-Platform-Engineer-ON/1424024633/",
-          "location": "Toronto, ON, CA\n            \n                +1 more…",
+          "title": "Solutions Architect - App Enablement LeadSolutions Architect - App Enablement Lead",
+          "url": "https://jobs.canadalife.com/job/Toronto-Ontario-Solutions-Architect-App-Enablement-Lead-ON-M5T-3M3/1424080833/",
+          "location": "Toronto Ontario, ON, CA, M5T 3M3\n            \n                +2 more…",
           "department": "Digital Technology",
           "postedDate": "Aug 6, 2026"
         },
@@ -1190,17 +1190,17 @@
           "postedDate": "Aug 5, 2026"
         },
         {
-          "title": "DAM Engineering SpecialistDAM Engineering Specialist",
-          "url": "https://jobs.canadalife.com/job/London-DAM-Engineering-Specialist-ON/1423524233/",
+          "title": "Manager, Change ManagementManager, Change Management",
+          "url": "https://jobs.canadalife.com/job/London-Manager%2C-Change-Management-ON/1423587733/",
           "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
+          "department": "Corporate Functions",
           "postedDate": "Aug 5, 2026"
         },
         {
-          "title": "Manager Planning & IntakeManager Planning & Intake",
-          "url": "https://jobs.canadalife.com/job/London-Manager-Planning-&-Intake-ON/1423583733/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
+          "title": "Adobe Experience Manager (AEM ) Engineering SpecialistAdobe Experience Manager (AEM ) Engineering Specialist",
+          "url": "https://jobs.canadalife.com/job/Canada-Adobe-Experience-Manager-%28AEM-%29-Engineering-Specialist-ON/1423191133/",
+          "location": "Canada, ON, CA",
+          "department": "Digital Technology",
           "postedDate": "Aug 5, 2026"
         }
       ]
@@ -2806,74 +2806,74 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "Alternative Investment Services Bank Loans Operations, Assistant Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Alternative-Investment-Services-Bank-Loans-Operations--Assistant-Vice-President_R-788552-1/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-07-13"
-        },
-        {
-          "title": "Fund Accounting & Administration, Associate 2",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Fund-Accounting---Administration--Associate-2_R-787490/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-07-27"
-        },
-        {
-          "title": "Fund Accounting & Administration, Associate 2",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Fund-Accounting---Administration--Associate-2_R-795313/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Fund Accounting, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Fund-Accounting--Senior-Associate_R-795353-1/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Fund Accounting, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Fund-Accounting--Officer_R-795359-1/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Bank Loan Servicing, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Chicago-Illinois/Bank-Loan-Servicing--Officer_R-790582/apply",
-          "location": "OS IL",
-          "department": "Other",
-          "postedDate": "2026-08-05"
-        },
-        {
-          "title": "Account Operations Principal (Series 24 Required), Assistant Vice President – Wealth Custody & Clearing",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dallas/Account-Operations-Principal--Series-24-Required---Assistant-Vice-President---Wealth-Custody---Clearing_R-792796-1/apply",
-          "location": "Dallas",
-          "department": "Business Strategy and Project Management",
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Account Operations Principal (Series 24 preferred), Assistant Vice President – Wealth Custody & Clearing",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dallas/Account-Operations-Specialist--Assistant-Vice-President--Wealth-Custody---Clearing-_R-792794-1/apply",
-          "location": "Dallas",
-          "department": "Business Strategy and Project Management",
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Wealth Strategy Analyst & Product Management, Officer (Wealth Custody and Clearing)",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dallas/Wealth-Strategy-Analyst---Product-Management--Officer--Wealth-Custody-and-Clearing-_R-795658/apply",
-          "location": "Dallas",
+          "title": "RIA Regional Consultant – Enterprise RIAs, VP III - State Street Investment Management",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Montgomery-County-Maryland/RIA-Regional-Consultant---Enterprise-RIAs--VP-III---State-Street-Investment-Management_R-795566-2/apply",
+          "location": "OS MD",
           "department": "Sales and Client Relationship",
           "postedDate": "2026-08-05"
         },
         {
-          "title": "Software Quality Engineer, AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Software-Quality-Engineer--AVP_R-792188/apply",
-          "location": "Toronto",
+          "title": "IT Program Project Delivery",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/IT-Program-Project-Delivery_R-792819/apply",
+          "location": "Berwyn",
+          "department": "Other",
+          "postedDate": "2026-06-23"
+        },
+        {
+          "title": "Post Production Support Specialist",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Post-Production-Support-Specialist_R-793208/apply",
+          "location": "Berwyn",
           "department": "Information Technology",
-          "postedDate": "2026-06-10"
+          "postedDate": "2026-07-15"
+        },
+        {
+          "title": "Infrastructure Operations Support AVP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Infrastructure-Operations-Support-AVP_R-794066/apply",
+          "location": "Berwyn",
+          "department": "Information Technology",
+          "postedDate": "2026-07-13"
+        },
+        {
+          "title": "Alpha Front Office Services, Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Alpha-Front-Office-Services--Vice-President_R-794664/apply",
+          "location": "Berwyn",
+          "department": "Investment Operations",
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Legal Support, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Legal-Support--Officer_R-792858/apply",
+          "location": "Berwyn",
+          "department": "Compliance, Risk and Legal",
+          "postedDate": "2026-07-21"
+        },
+        {
+          "title": "Technical Support Specialist (API, ETL, Java, C#), AVP - Charles River Development",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Front-Office---Buyside-Post-Production-Technical-Support-Specialist----API--ETL-tool-usage--Java-and-or-C--programming--Investment-Trading-Software-Fixed-Income-and-Equities---Charles-River-Development_R-783187/apply",
+          "location": "Berwyn",
+          "department": "Other",
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Global Delivery Transaction Management, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Global-Delivery-Transaction-Management--Officer_R-795297/apply",
+          "location": "Berwyn",
+          "department": "Investment Operations",
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Data Protection, Managing Director",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Data-Protection--Managing-Director_R-795438/apply",
+          "location": "Berwyn",
+          "department": "Other",
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Production Support Engineer, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Production-Support-Engineer--Senior-Associate_R-794413/apply",
+          "location": "Berwyn",
+          "department": "Other",
+          "postedDate": "2026-08-04"
         }
       ]
     },
