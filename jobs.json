@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T11:25:50.804Z",
+  "lastUpdated": "2026-08-15T23:22:36.684Z",
   "sources": [
     {
       "id": "sunlife",
@@ -218,41 +218,6 @@
           "postedDate": "Posted 2 Days Ago"
         },
         {
-          "title": "Lead - Finance (Accounts Payable)",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Assistant-Manager---Finance--Accounts-Payable-_JR00125686",
-          "location": "Gurugram, Haryana",
-          "department": "JR00125686",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
-          "title": "Lead- USI Accounting",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Lead--USI-Accounting_JR00126805",
-          "location": "Gurugram, Haryana",
-          "department": "JR00126805",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
-          "title": "Lead - Compliance, Monitoring & Testing",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Lead---Compliance--Monitoring---Testing_JR00125114",
-          "location": "Gurugram, Haryana",
-          "department": "JR00125114",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
-          "title": "Lead/Assistant Manager – ICFR",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/IT-Control-Analyst---ICFR_JR00121775",
-          "location": "Gurugram, Haryana",
-          "department": "JR00121775",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
-          "title": "Lead - Mortgages",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Lead---Mortgages_JR00126797",
-          "location": "Gurugram, Haryana",
-          "department": "JR00126797",
-          "postedDate": "Posted 2 Days Ago"
-        },
-        {
           "title": "Senior Counsel, Privacy",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Senior-Counsel--Privacy_JR00125984",
           "location": "Wellesley Hills, Massachusetts",
@@ -286,6 +251,41 @@
           "location": "Stratford, Ontario",
           "department": "JR00126886",
           "postedDate": "Posted 2 Days Ago"
+        },
+        {
+          "title": "Distribution Enablement Initiatives Consultant",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Distribution-Enablement-Initiatives-Consultant_JR00126635",
+          "location": "2 Locations",
+          "department": "JR00126635",
+          "postedDate": "Posted 2 Days Ago"
+        },
+        {
+          "title": "Director of Finance  & Operational Compliance",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Finance-Director_JR00125936",
+          "location": "Waterford, Waterford, Ireland",
+          "department": "JR00125936",
+          "postedDate": "Posted 2 Days Ago"
+        },
+        {
+          "title": "Senior Underwriting Consultant",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Senior-Underwriting-Consultant_JR00125182",
+          "location": "2 Locations",
+          "department": "JR00125182",
+          "postedDate": "Posted 2 Days Ago"
+        },
+        {
+          "title": "Specialist/Senior Specialist - Strategic Sourcing",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Manager-Sourcing_JR00122379",
+          "location": "Gurugram, Haryana",
+          "department": "JR00122379",
+          "postedDate": "Posted 2 Days Ago"
+        },
+        {
+          "title": "Advanced Case Manager - Insurance Sales - Mandarin",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Advanced-Case-Manager---Insurance-Sales---Mandarin_JR00126645",
+          "location": "3 Locations",
+          "department": "JR00126645",
+          "postedDate": "Posted 3 Days Ago"
         }
       ]
     },
@@ -293,8 +293,29 @@
       "id": "agf",
       "name": "AGF",
       "url": "https://agf.wd3.myworkdayjobs.com/wday/cxs/agf/AGF_Careers/jobs",
-      "jobCount": 10,
+      "jobCount": 11,
       "jobs": [
+        {
+          "title": "Senior Client Service Representative",
+          "url": "https://agf.wd3.myworkdayjobs.com/AGF_Careers/job/Toronto-ON/Senior-Client-Service-Representative_R11318-3",
+          "location": "Toronto, ON",
+          "department": "R11318",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Client Services Representative",
+          "url": "https://agf.wd3.myworkdayjobs.com/AGF_Careers/job/Toronto-ON/Client-Services-Representative_R11314-2",
+          "location": "Toronto, ON",
+          "department": "R11314",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Salesforce AI & Data Cloud Solutions Engineer",
+          "url": "https://agf.wd3.myworkdayjobs.com/AGF_Careers/job/Toronto-ON/Salesforce-Developer--Solution-Designer_R11306-3",
+          "location": "Toronto, ON",
+          "department": "R11306",
+          "postedDate": "Posted Today"
+        },
         {
           "title": "Senior Bilingual Client Service Representative (English/French)",
           "url": "https://agf.wd3.myworkdayjobs.com/AGF_Careers/job/Toronto-ON/Senior-Bilingual-Client-Service-Representative--English-French-_R11316-3",
@@ -307,20 +328,6 @@
           "url": "https://agf.wd3.myworkdayjobs.com/AGF_Careers/job/Toronto-ON/Bilingual-Client-Services-Representative--English-French-_R11315-4",
           "location": "Toronto, ON",
           "department": "R11315",
-          "postedDate": "Posted Yesterday"
-        },
-        {
-          "title": "Senior Client Service Representative",
-          "url": "https://agf.wd3.myworkdayjobs.com/AGF_Careers/job/Toronto-ON/Senior-Client-Service-Representative_R11318-3",
-          "location": "Toronto, ON",
-          "department": "R11318",
-          "postedDate": "Posted Yesterday"
-        },
-        {
-          "title": "Client Services Representative",
-          "url": "https://agf.wd3.myworkdayjobs.com/AGF_Careers/job/Toronto-ON/Client-Services-Representative_R11314-2",
-          "location": "Toronto, ON",
-          "department": "R11314",
           "postedDate": "Posted Yesterday"
         },
         {
@@ -1043,20 +1050,6 @@
           "postedDate": "Aug 14, 2026"
         },
         {
-          "title": "Senior Employee Relations Advisor, Human ResourcesSenior Employee Relations Advisor, Human Resources",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Senior-Employee-Relations-Advisor%2C-Human-Resources-MB/1426689433/",
-          "location": "Winnipeg, MB, CA\n            \n                +3 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Aug 14, 2026"
-        },
-        {
-          "title": "Associate Manager, Operational Accounting TeamAssociate Manager, Operational Accounting Team",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Manitoba-Associate-Manager%2C-Operational-Accounting-Team-MB-R3C-1V3/1426669633/",
-          "location": "Winnipeg Manitoba, MB, CA, R3C 1V3",
-          "department": "Actuarial and Investments and Finance",
-          "postedDate": "Aug 14, 2026"
-        },
-        {
           "title": "Associate Manager, Business TestingAssociate Manager, Business Testing",
           "url": "https://jobs.canadalife.com/job/London-Associate-Manager%2C-Business-Testing-ON/1426751433/",
           "location": "London, ON, CA\n            \n                +2 more…",
@@ -1071,10 +1064,24 @@
           "postedDate": "Aug 14, 2026"
         },
         {
+          "title": "Senior Employee Relations Advisor, Human ResourcesSenior Employee Relations Advisor, Human Resources",
+          "url": "https://jobs.canadalife.com/job/Winnipeg-Senior-Employee-Relations-Advisor%2C-Human-Resources-MB/1426689433/",
+          "location": "Winnipeg, MB, CA\n            \n                +3 more…",
+          "department": "Corporate Functions",
+          "postedDate": "Aug 14, 2026"
+        },
+        {
           "title": "Senior Project ManagerSenior Project Manager",
           "url": "https://jobs.canadalife.com/job/London-Senior-Project-Manager-ON/1426678233/",
           "location": "London, ON, CA\n            \n                +2 more…",
           "department": "Digital Technology",
+          "postedDate": "Aug 14, 2026"
+        },
+        {
+          "title": "Associate Manager, Operational Accounting TeamAssociate Manager, Operational Accounting Team",
+          "url": "https://jobs.canadalife.com/job/Winnipeg-Manitoba-Associate-Manager%2C-Operational-Accounting-Team-MB-R3C-1V3/1426669633/",
+          "location": "Winnipeg Manitoba, MB, CA, R3C 1V3",
+          "department": "Actuarial and Investments and Finance",
           "postedDate": "Aug 14, 2026"
         },
         {
@@ -1092,10 +1099,17 @@
           "postedDate": "Aug 13, 2026"
         },
         {
-          "title": "Graphic Designer, VPI (Value Partners Investments)Graphic Designer, VPI (Value Partners Investments)",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Graphic-Designer%2C-VPI-%28Value-Partners-Investments%29-MB-R3C-3R8/1426299333/",
-          "location": "Winnipeg, MB, CA, R3C 3R8",
+          "title": "Senior Business Systems AnalystSenior Business Systems Analyst",
+          "url": "https://jobs.canadalife.com/job/Toronto-Senior-Business-Systems-Analyst-ON/1426173833/",
+          "location": "Toronto, ON, CA\n            \n                +2 more…",
           "department": "Corporate Functions",
+          "postedDate": "Aug 13, 2026"
+        },
+        {
+          "title": "Business Solutions DeveloperBusiness Solutions Developer",
+          "url": "https://jobs.canadalife.com/job/Montreal-Business-Solutions-Developer-Queb/1426283933/",
+          "location": "Montreal, Quebec, CA\n            \n                +3 more…",
+          "department": "Digital Technology",
           "postedDate": "Aug 13, 2026"
         },
         {
@@ -1106,9 +1120,9 @@
           "postedDate": "Aug 13, 2026"
         },
         {
-          "title": "Senior Business Systems AnalystSenior Business Systems Analyst",
-          "url": "https://jobs.canadalife.com/job/Toronto-Senior-Business-Systems-Analyst-ON/1426173833/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
+          "title": "Graphic Designer, VPI (Value Partners Investments)Graphic Designer, VPI (Value Partners Investments)",
+          "url": "https://jobs.canadalife.com/job/Winnipeg-Graphic-Designer%2C-VPI-%28Value-Partners-Investments%29-MB-R3C-3R8/1426299333/",
+          "location": "Winnipeg, MB, CA, R3C 3R8",
           "department": "Corporate Functions",
           "postedDate": "Aug 13, 2026"
         },
@@ -1120,24 +1134,10 @@
           "postedDate": "Aug 13, 2026"
         },
         {
-          "title": "Business Solutions DeveloperBusiness Solutions Developer",
-          "url": "https://jobs.canadalife.com/job/Montreal-Business-Solutions-Developer-Queb/1426283933/",
-          "location": "Montreal, Quebec, CA\n            \n                +3 more…",
-          "department": "Digital Technology",
-          "postedDate": "Aug 13, 2026"
-        },
-        {
           "title": "Lead Business AnalystLead Business Analyst",
           "url": "https://jobs.canadalife.com/job/Winnipeg-Lead-Business-Analyst-MB/1383751633/",
           "location": "Winnipeg, MB, CA\n            \n                +3 more…",
           "department": "Corporate Functions",
-          "postedDate": "Aug 12, 2026"
-        },
-        {
-          "title": "Senior Software DeveloperSenior Software Developer",
-          "url": "https://jobs.canadalife.com/job/London-Senior-Software-Developer-ON/1425758633/",
-          "location": "London, ON, CA\n            \n                +1 more…",
-          "department": "Digital Technology",
           "postedDate": "Aug 12, 2026"
         },
         {
@@ -1152,6 +1152,13 @@
           "url": "https://jobs.canadalife.com/job/Winnipeg-Team-Lead%2C-Investment-Operations-Great-West-MB/1425855233/",
           "location": "Winnipeg, MB, CA",
           "department": "Actuarial and Investments and Finance",
+          "postedDate": "Aug 12, 2026"
+        },
+        {
+          "title": "Senior Software DeveloperSenior Software Developer",
+          "url": "https://jobs.canadalife.com/job/London-Senior-Software-Developer-ON/1425758633/",
+          "location": "London, ON, CA\n            \n                +1 more…",
+          "department": "Digital Technology",
           "postedDate": "Aug 12, 2026"
         },
         {
@@ -1183,17 +1190,17 @@
           "postedDate": "Aug 11, 2026"
         },
         {
-          "title": "Customer Processing RepresentativeCustomer Processing Representative",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Customer-Processing-Representative-MB/1425422633/",
-          "location": "Winnipeg, MB, CA",
-          "department": "Customer Service and Administration",
+          "title": "Senior Communications SpecialistSenior Communications Specialist",
+          "url": "https://jobs.canadalife.com/job/London-Senior-Communications-Specialist-ON/1425353133/",
+          "location": "London, ON, CA\n            \n                +3 more…",
+          "department": "Corporate Functions",
           "postedDate": "Aug 11, 2026"
         },
         {
-          "title": "Customer Service SpecialistCustomer Service Specialist",
-          "url": "https://jobs.canadalife.com/job/London-Customer-Service-Specialist-ON/1425420033/",
-          "location": "London, ON, CA\n            \n                +1 more…",
-          "department": "Customer Service and Administration",
+          "title": "AVP, Operational Risk & Resilience Programs | Great WestAVP, Operational Risk & Resilience Programs | Great West",
+          "url": "https://jobs.canadalife.com/job/London-AVP%2C-Operational-Risk-&-Resilience-Programs-Great-West-ON/1425249833/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
           "postedDate": "Aug 11, 2026"
         }
       ]
@@ -2701,74 +2708,74 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "Alternative Investment Services Bank Loans Operations, Assistant Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Alternative-Investment-Services-Bank-Loans-Operations--Assistant-Vice-President_R-788552-1/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-07-13"
-        },
-        {
-          "title": "Fund Accounting & Administration, Associate 2",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Fund-Accounting---Administration--Associate-2_R-787490/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-07-27"
-        },
-        {
-          "title": "Operation Client Service, AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Operation-Client-Service--AVP_R-795941/apply",
-          "location": "Kansas City",
+          "title": "Associate Regional Consultant - Model Portfolios, AVP - State Street Investment Management",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Scottsdale/Associate-Regional-Consultant---Model-Portfolios--AVP---State-Street-Investment-Management_R-794336/apply",
+          "location": "Scottsdale",
           "department": "Sales and Client Relationship",
-          "postedDate": "2026-08-11"
+          "postedDate": "2026-07-16"
         },
         {
-          "title": "Fund Accounting, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Fund-Accounting--Officer_R-795359-1/apply",
-          "location": "Kansas City",
+          "title": "Software Quality Assurance (SQA) Lead, Vice President, Onsite",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Software-Quality-Assurance--SQA--Lead--Vice-President--Onsite_R-795483-2/apply",
+          "location": "Irvine",
+          "department": "Information Technology",
+          "postedDate": "2026-08-05"
+        },
+        {
+          "title": "Senior Business Systems Analyst, Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Senior-Business-Systems-Analyst--Vice-President_R-795750/apply",
+          "location": "Irvine",
           "department": "Other",
-          "postedDate": "2026-08-03"
+          "postedDate": "2026-08-06"
         },
         {
-          "title": "Fund Accounting & Administration, Associate 2",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Fund-Accounting---Administration--Associate-2_R-795313/apply",
-          "location": "Kansas City",
+          "title": "Software Engineering & Development Lead, Vice President, Onsite",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Software-Engineering---Development-Lead--Vice-President--Onsite_R-795485-1/apply",
+          "location": "Irvine",
           "department": "Other",
-          "postedDate": "2026-07-29"
+          "postedDate": "2026-08-05"
         },
         {
-          "title": "Fund Accounting, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Fund-Accounting--Senior-Associate_R-795353-1/apply",
-          "location": "Kansas City",
+          "title": "Technology Delivery Lead – Managing Director",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Technology-Delivery-Lead---Managing-Director_R-795370-1/apply",
+          "location": "Irvine",
           "department": "Other",
-          "postedDate": "2026-07-30"
+          "postedDate": "2026-08-05"
         },
         {
-          "title": "Fund Accounting, Managing Director",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Fund-Accounting--Managing-Director_R-794173/apply",
-          "location": "Kansas City",
-          "department": "Investment Operations",
-          "postedDate": "2026-08-11"
-        },
-        {
-          "title": "Bank Loan Servicing, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Chicago-Illinois/Bank-Loan-Servicing--Officer_R-790582/apply",
-          "location": "OS IL",
+          "title": "Solutions Architecture, Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Solutions-Architecture--Vice-President_R-795883/apply",
+          "location": "Irvine",
           "department": "Other",
-          "postedDate": "2026-08-11"
-        },
-        {
-          "title": "Account Operations Principal (Series 24 Required), Assistant Vice President – Wealth Custody & Clearing",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dallas/Account-Operations-Principal--Series-24-Required---Assistant-Vice-President---Wealth-Custody---Clearing_R-792796-1/apply",
-          "location": "Dallas",
-          "department": "Business Strategy and Project Management",
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Advisor Support and Experience Service Professional, Officer - Wealth Custody & Clearing",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dallas/Advisor-Support-and-Experience-Service-Professional--Officer---Wealth-Custody---Clearing_R-792935-1/apply",
-          "location": "Dallas",
-          "department": "Sales and Client Relationship",
           "postedDate": "2026-08-10"
+        },
+        {
+          "title": "Middle Office Operations, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Middle-Office-Operations--Senior-Associate_R-791663/apply",
+          "location": "Irvine",
+          "department": "Investment Operations",
+          "postedDate": "2026-06-03"
+        },
+        {
+          "title": "Middle Office Operations, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Middle-Office-Operations--Senior-Associate_R-791669/apply",
+          "location": "Irvine",
+          "department": "Investment Operations",
+          "postedDate": "2026-06-03"
+        },
+        {
+          "title": "Middle Office Operations, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Middle-Office-Operations--Senior-Associate_R-791673/apply",
+          "location": "Irvine",
+          "department": "Investment Operations",
+          "postedDate": "2026-06-03"
+        },
+        {
+          "title": "Middle Office Operations, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Middle-Office-Operations--Officer_R-791676/apply",
+          "location": "Irvine",
+          "department": "Investment Operations",
+          "postedDate": "2026-06-03"
         }
       ]
     },
