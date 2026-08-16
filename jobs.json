@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T11:25:06.485Z",
+  "lastUpdated": "2026-08-16T23:22:11.669Z",
   "sources": [
     {
       "id": "sunlife",
@@ -7,6 +7,13 @@
       "url": "https://sunlife.wd3.myworkdayjobs.com/wday/cxs/sunlife/Experienced-Jobs/jobs",
       "jobCount": 40,
       "jobs": [
+        {
+          "title": "Senior Software Engineer, Operations",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/North-York-Ontario/Senior-Software-Engineer--Operations_JR00126239",
+          "location": "3 Locations",
+          "department": "JR00126239",
+          "postedDate": "Posted Today"
+        },
         {
           "title": "Intermediate/Senior Underwriter",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Montreal-Quebec/Intermediate-Senior-Underwriter_JR00127114-2",
@@ -271,13 +278,6 @@
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Senior-Underwriting-Consultant_JR00125182",
           "location": "2 Locations",
           "department": "JR00125182",
-          "postedDate": "Posted 3 Days Ago"
-        },
-        {
-          "title": "Specialist/Senior Specialist - Strategic Sourcing",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Manager-Sourcing_JR00122379",
-          "location": "Gurugram, Haryana",
-          "department": "JR00122379",
           "postedDate": "Posted 3 Days Ago"
         },
         {
@@ -1099,9 +1099,9 @@
           "postedDate": "Aug 13, 2026"
         },
         {
-          "title": "Senior Business Systems AnalystSenior Business Systems Analyst",
-          "url": "https://jobs.canadalife.com/job/Toronto-Senior-Business-Systems-Analyst-ON/1426173833/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
+          "title": "Graphic Designer, VPI (Value Partners Investments)Graphic Designer, VPI (Value Partners Investments)",
+          "url": "https://jobs.canadalife.com/job/Winnipeg-Graphic-Designer%2C-VPI-%28Value-Partners-Investments%29-MB-R3C-3R8/1426299333/",
+          "location": "Winnipeg, MB, CA, R3C 3R8",
           "department": "Corporate Functions",
           "postedDate": "Aug 13, 2026"
         },
@@ -1113,6 +1113,13 @@
           "postedDate": "Aug 13, 2026"
         },
         {
+          "title": "Client Experience Specialist - WinnipegClient Experience Specialist - Winnipeg",
+          "url": "https://jobs.canadalife.com/job/Winnipeg-Client-Experience-Specialist-Winnipeg-MB/1426299933/",
+          "location": "Winnipeg, MB, CA",
+          "department": "Customer Service and Administration",
+          "postedDate": "Aug 13, 2026"
+        },
+        {
           "title": "Senior DeVops Engineering Specialist (Azure)Senior DeVops Engineering Specialist (Azure)",
           "url": "https://jobs.canadalife.com/job/London-Senior-DeVops-Engineering-Specialist-%28Azure%29-ON/1426331333/",
           "location": "London, ON, CA\n            \n                +2 more…",
@@ -1120,17 +1127,10 @@
           "postedDate": "Aug 13, 2026"
         },
         {
-          "title": "Graphic Designer, VPI (Value Partners Investments)Graphic Designer, VPI (Value Partners Investments)",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Graphic-Designer%2C-VPI-%28Value-Partners-Investments%29-MB-R3C-3R8/1426299333/",
-          "location": "Winnipeg, MB, CA, R3C 3R8",
+          "title": "Senior Business Systems AnalystSenior Business Systems Analyst",
+          "url": "https://jobs.canadalife.com/job/Toronto-Senior-Business-Systems-Analyst-ON/1426173833/",
+          "location": "Toronto, ON, CA\n            \n                +2 more…",
           "department": "Corporate Functions",
-          "postedDate": "Aug 13, 2026"
-        },
-        {
-          "title": "Client Experience Specialist - WinnipegClient Experience Specialist - Winnipeg",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Client-Experience-Specialist-Winnipeg-MB/1426299933/",
-          "location": "Winnipeg, MB, CA",
-          "department": "Customer Service and Administration",
           "postedDate": "Aug 13, 2026"
         },
         {
@@ -1148,17 +1148,17 @@
           "postedDate": "Aug 12, 2026"
         },
         {
-          "title": "Team Lead, Investment Operations | Great WestTeam Lead, Investment Operations | Great West",
-          "url": "https://jobs.canadalife.com/job/Winnipeg-Team-Lead%2C-Investment-Operations-Great-West-MB/1425855233/",
-          "location": "Winnipeg, MB, CA",
-          "department": "Actuarial and Investments and Finance",
-          "postedDate": "Aug 12, 2026"
-        },
-        {
           "title": "Senior Software DeveloperSenior Software Developer",
           "url": "https://jobs.canadalife.com/job/London-Senior-Software-Developer-ON/1425758633/",
           "location": "London, ON, CA\n            \n                +1 more…",
           "department": "Digital Technology",
+          "postedDate": "Aug 12, 2026"
+        },
+        {
+          "title": "Team Lead, Investment Operations | Great WestTeam Lead, Investment Operations | Great West",
+          "url": "https://jobs.canadalife.com/job/Winnipeg-Team-Lead%2C-Investment-Operations-Great-West-MB/1425855233/",
+          "location": "Winnipeg, MB, CA",
+          "department": "Actuarial and Investments and Finance",
           "postedDate": "Aug 12, 2026"
         },
         {
@@ -1190,17 +1190,17 @@
           "postedDate": "Aug 11, 2026"
         },
         {
-          "title": "Senior Communications SpecialistSenior Communications Specialist",
-          "url": "https://jobs.canadalife.com/job/London-Senior-Communications-Specialist-ON/1425353133/",
-          "location": "London, ON, CA\n            \n                +3 more…",
-          "department": "Corporate Functions",
+          "title": "Client Service Processor (12 Month Contract)Client Service Processor (12 Month Contract)",
+          "url": "https://jobs.canadalife.com/job/London-Client-Service-Processor-%2812-Month-Contract%29-ON/1425269233/",
+          "location": "London, ON, CA",
+          "department": "Customer Service and Administration",
           "postedDate": "Aug 11, 2026"
         },
         {
-          "title": "AVP, Operational Risk & Resilience Programs | Great WestAVP, Operational Risk & Resilience Programs | Great West",
-          "url": "https://jobs.canadalife.com/job/London-AVP%2C-Operational-Risk-&-Resilience-Programs-Great-West-ON/1425249833/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
+          "title": "Bilingual Customer Service SpecialistBilingual Customer Service Specialist",
+          "url": "https://jobs.canadalife.com/job/Montreal-Bilingual-Customer-Service-Specialist-Queb/1425404533/",
+          "location": "Montreal, Quebec, CA",
+          "department": "Customer Service and Administration",
           "postedDate": "Aug 11, 2026"
         }
       ]
@@ -2708,74 +2708,74 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "Operation Client Service, AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Operation-Client-Service--AVP_R-795941/apply",
-          "location": "Kansas City",
-          "department": "Sales and Client Relationship",
-          "postedDate": "2026-08-11"
-        },
-        {
-          "title": "Fund Accounting, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Fund-Accounting--Officer_R-795359-1/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-08-03"
-        },
-        {
-          "title": "Fund Accounting & Administration, Associate 2",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Fund-Accounting---Administration--Associate-2_R-795313/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-07-29"
-        },
-        {
-          "title": "Fund Accounting, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Fund-Accounting--Senior-Associate_R-795353-1/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-07-30"
-        },
-        {
-          "title": "Alternative Investment Services Bank Loans Operations, Assistant Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Alternative-Investment-Services-Bank-Loans-Operations--Assistant-Vice-President_R-788552-1/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-07-13"
-        },
-        {
-          "title": "Fund Accounting & Administration, Associate 2",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Fund-Accounting---Administration--Associate-2_R-787490/apply",
-          "location": "Kansas City",
-          "department": "Other",
-          "postedDate": "2026-07-27"
-        },
-        {
-          "title": "Fund Accounting, Managing Director",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Fund-Accounting--Managing-Director_R-794173/apply",
-          "location": "Kansas City",
-          "department": "Investment Operations",
-          "postedDate": "2026-08-11"
-        },
-        {
-          "title": "Bank Loan Servicing, Officer",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Chicago-Illinois/Bank-Loan-Servicing--Officer_R-790582/apply",
-          "location": "OS IL",
-          "department": "Other",
-          "postedDate": "2026-08-11"
-        },
-        {
-          "title": "Wealth Strategy Analyst & Product Management, Officer (Wealth Custody and Clearing)",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dallas/Wealth-Strategy-Analyst---Product-Management--Officer--Wealth-Custody-and-Clearing-_R-795658/apply",
-          "location": "Dallas",
+          "title": "RIA Regional Consultant – Enterprise RIAs, VP III - State Street Investment Management",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Montgomery-County-Maryland/RIA-Regional-Consultant---Enterprise-RIAs--VP-III---State-Street-Investment-Management_R-795566-2/apply",
+          "location": "OS MD",
           "department": "Sales and Client Relationship",
           "postedDate": "2026-08-05"
         },
         {
-          "title": "Advisor Support and Experience Service Professional, Officer - Wealth Custody & Clearing",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dallas/Advisor-Support-and-Experience-Service-Professional--Officer---Wealth-Custody---Clearing_R-792935-1/apply",
-          "location": "Dallas",
-          "department": "Sales and Client Relationship",
-          "postedDate": "2026-08-10"
+          "title": "Data Protection, Managing Director",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Data-Protection--Managing-Director_R-795438/apply",
+          "location": "Berwyn",
+          "department": "Other",
+          "postedDate": "2026-07-31"
+        },
+        {
+          "title": "Technical Support Specialist (API, ETL, Java, C#), AVP - Charles River Development",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Front-Office---Buyside-Post-Production-Technical-Support-Specialist----API--ETL-tool-usage--Java-and-or-C--programming--Investment-Trading-Software-Fixed-Income-and-Equities---Charles-River-Development_R-783187/apply",
+          "location": "Berwyn",
+          "department": "Other",
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "IT Program Project Delivery",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/IT-Program-Project-Delivery_R-792819/apply",
+          "location": "Berwyn",
+          "department": "Other",
+          "postedDate": "2026-06-23"
+        },
+        {
+          "title": "Post Production Support Specialist",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Post-Production-Support-Specialist_R-793208/apply",
+          "location": "Berwyn",
+          "department": "Information Technology",
+          "postedDate": "2026-07-15"
+        },
+        {
+          "title": "Infrastructure Operations Support AVP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Infrastructure-Operations-Support-AVP_R-794066/apply",
+          "location": "Berwyn",
+          "department": "Information Technology",
+          "postedDate": "2026-07-13"
+        },
+        {
+          "title": "Alpha Front Office Services, Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Alpha-Front-Office-Services--Vice-President_R-794664/apply",
+          "location": "Berwyn",
+          "department": "Investment Operations",
+          "postedDate": "2026-07-20"
+        },
+        {
+          "title": "Legal Support, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Legal-Support--Officer_R-792858/apply",
+          "location": "Berwyn",
+          "department": "Compliance, Risk and Legal",
+          "postedDate": "2026-08-14"
+        },
+        {
+          "title": "Global Delivery Transaction Management, Officer",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Global-Delivery-Transaction-Management--Officer_R-795297/apply",
+          "location": "Berwyn",
+          "department": "Investment Operations",
+          "postedDate": "2026-07-29"
+        },
+        {
+          "title": "Corporate Functions Senior Solutions Architect – VP",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Corporate-Functions-Senior-Solutions-Architect---VP_R-795149/apply",
+          "location": "Princeton",
+          "department": "Other",
+          "postedDate": "2026-07-27"
         }
       ]
     },
