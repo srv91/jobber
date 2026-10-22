@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T01:21:13.059Z",
+  "lastUpdated": "2026-10-22T15:50:20.063Z",
   "sources": [
     {
       "id": "sunlife",
@@ -8,32 +8,109 @@
       "jobCount": 40,
       "jobs": [
         {
+          "title": "Service Desk Associate",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Milwaukee-Wisconsin/Service-Desk-Associate_JR00128806",
+          "location": "Milwaukee, Wisconsin",
+          "department": "JR00128806",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "US Tax Intern - Summer 2027 Intern",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/US-Tax-Intern---Summer-2027-Intern_JR00128150",
+          "location": "Wellesley Hills, Massachusetts",
+          "department": "JR00128150",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Senior Software Engineer, Operations – Core Java & iOS focus",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Senior-Software-Engineer--Operations---Core-Java---iOS-focus_JR00128905",
+          "location": "3 Locations",
+          "department": "JR00128905",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Director, Workforce & BPO Management, DentaQuest",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/DQ-Milwaukee-Bayshore/Director--Workforce---BPO-Management--DentaQuest_JR00127748",
+          "location": "3 Locations",
+          "department": "JR00127748",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Stop Loss & Health Claim Analyst",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/US-Employees-Remote/Stop-Loss---Health-Claim-Analyst_JR00128026-1",
+          "location": "6 Locations",
+          "department": "JR00128026",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Client Care Representative",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Client-Care-Representative_JR00124668-1",
+          "location": "Taguig City, National Capital Region (Manila)",
+          "department": "JR00124668",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Assistant Manager, AML Compliance (1-year contract)",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taikoo-Shing-Hong-Kong-Island/Assistant-Manager--AML-Compliance--1-year-contract-_JR00128908-2",
+          "location": "Taikoo Shing, Hong Kong Island",
+          "department": "JR00128908",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Security Platform Engineer (SIEM)",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Security-Platform-Engineer--SIEM-_JR00126894",
+          "location": "3 Locations",
+          "department": "JR00126894",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Director, Change Management Governance",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Hunghom-Kowloon-Hong-Kong/Director--Change-Mgmt---Benefit-Realisation_JR00127144",
+          "location": "Hunghom, Kowloon, Hong Kong",
+          "department": "JR00127144",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Director, High Net Worth Client Professional Support",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Hunghom-Kowloon-Hong-Kong/Director--High-Net-Worth-Client-Professional-Support_JR00126909",
+          "location": "Hunghom, Kowloon, Hong Kong",
+          "department": "JR00126909",
+          "postedDate": "Posted Today"
+        },
+        {
+          "title": "Solution Architect, China Technology Centre",
+          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Beijing-Beijing/Solution-Architect--China-Technology-Centre_JR00128996",
+          "location": "Beijing, Beijing",
+          "department": "JR00128996",
+          "postedDate": "Posted Today"
+        },
+        {
           "title": "Senior Software Engineer, Operations",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Senior-Software-Engineer--Operations_JR00127705",
           "location": "2 Locations",
           "department": "JR00127705",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Wealth Specialist",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Wealth-Specialist_JR00128856-1",
           "location": "2 Locations",
           "department": "JR00128856",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Business Development Partner",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Winnipeg-Manitoba/Business-Development-Partner_JR00119841",
           "location": "Winnipeg, Manitoba",
           "department": "JR00119841",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Wealth Sales Representative",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Wealth-Sales-Representative_JR00128275-2",
           "location": "Toronto, Ontario",
           "department": "JR00128275",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Finance Specialist",
@@ -61,231 +138,154 @@
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Business-Portfolio-Manager_JR00128049",
           "location": "2 Locations",
           "department": "JR00128049",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Learning Facilitator II",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Learning-Facilitator-II_JR00127769-1",
           "location": "Taguig City, National Capital Region (Manila)",
           "department": "JR00127769",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "FC CoE Analyst",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/FC-CoE-Analyst_JR00128415-2",
           "location": "Taguig City, National Capital Region (Manila)",
           "department": "JR00128415",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Adjoint(e) à la Gestion, Centre Financier",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Sherbrooke-Quebec/Adjoint-e---la-Gestion--Centre-Financier_JR00127809-1",
           "location": "Sherbrooke, Quebec",
           "department": "JR00127809",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Senior Reliability Site Engineer (Operations)",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/North-York-Ontario/Senior-Software-Engineer--Operations_JR00126239",
           "location": "3 Locations",
           "department": "JR00126239",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Senior Data Scientist",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Senior-Data-Scientist_JR00125593",
           "location": "2 Locations",
           "department": "JR00125593",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Access Governance Specialist",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Access-Governance-Specialist_JR00128686",
           "location": "2 Locations",
           "department": "JR00128686",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Infrastructure DBA",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/North-York-Ontario/Infrastructure-DBA_JR00124868",
           "location": "3 Locations",
           "department": "JR00124868",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Senior Underwriter",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Sun-Life-Waterloo-King/Senior-Underwriter_JR00129006",
           "location": "13 Locations",
           "department": "JR00129006",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Lead - Mortgages",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Lead---Mortgages_JR00126797",
           "location": "Gurugram, Haryana",
           "department": "JR00126797",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Associate Director, Product Marketing",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Hunghom-Kowloon-Hong-Kong/Associate-Director--Product-Marketing_JR00128787",
           "location": "Hunghom, Kowloon, Hong Kong",
           "department": "JR00128787",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Payroll Project Lead",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Payroll-Project-Lead_JR00129041",
           "location": "Taguig City, National Capital Region (Manila)",
           "department": "JR00129041",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Trainer",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Makati-City-National-Capital-Region-Manila/Trainer_JR00124954",
           "location": "Makati City, National Capital Region (Manila)",
           "department": "JR00124954",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Head of Technology, China Technology Centre",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Beijing-Beijing/Head-of-Technology--China-Technology-Centre_JR00128992",
           "location": "Beijing, Beijing",
           "department": "JR00128992",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Assistant Manager - Finance (Financial Reporting and Controls)",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Assistant-Manager---Finance--Financial-Reporting-and-Controls-_JR00128798-1",
           "location": "Gurugram, Haryana",
           "department": "JR00128798",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Manager - Legal and Secretarial",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Manager---Legal-and-Secretarial_JR00128420-1",
           "location": "Gurugram, Haryana",
           "department": "JR00128420",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Associate Group Underwriter",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Calgary-Group-Benefits/Associate-Group-Underwriter_JR00128864",
           "location": "4 Locations",
           "department": "JR00128864",
-          "postedDate": "Posted Yesterday"
+          "postedDate": "Posted 2 Days Ago"
         },
         {
           "title": "Senior Security Platform Developer, Security Automation (Python, Splunk SOAR)",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Senior-Security-Platform-Developer--Security-Automation--Python--Splunk-SOAR-_JR00128881",
           "location": "2 Locations",
           "department": "JR00128881",
-          "postedDate": "Posted Yesterday"
+          "postedDate": "Posted 2 Days Ago"
         },
         {
           "title": "Bilingual SLCSI Operations Specialist",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Bilingual-SLCSI-Operations-Specialist_JR00128520",
           "location": "3 Locations",
           "department": "JR00128520",
-          "postedDate": "Posted Yesterday"
+          "postedDate": "Posted 2 Days Ago"
         },
         {
           "title": "Director, National Accounts",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Director--National-Accounts_JR00128923-2",
           "location": "Toronto, Ontario",
           "department": "JR00128923",
-          "postedDate": "Posted Yesterday"
+          "postedDate": "Posted 2 Days Ago"
         },
         {
           "title": "Engineering Manager",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Engineering-Manager_JR00126829",
           "location": "2 Locations",
           "department": "JR00126829",
-          "postedDate": "Posted Yesterday"
+          "postedDate": "Posted 2 Days Ago"
         },
         {
           "title": "AVP, Corporate Development",
           "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/AVP--Corporate-Development_JR00128941",
           "location": "Toronto, Ontario",
           "department": "JR00128941",
-          "postedDate": "Posted Yesterday"
-        },
-        {
-          "title": "Senior Group Underwriting Consultant",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Montreal-Quebec/Senior-Group-Underwriting-Consultant_JR00128948",
-          "location": "Montreal, Quebec",
-          "department": "JR00128948",
-          "postedDate": "Posted Yesterday"
-        },
-        {
-          "title": "Director, GRS Tax",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Director--GRS-Tax_JR00126518",
-          "location": "3 Locations",
-          "department": "JR00126518",
-          "postedDate": "Posted Yesterday"
-        },
-        {
-          "title": "Bilingual Pension Administrator",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Montreal-Quebec/Bilingual-Pension-Administrator--Payout-Annuity_JR00128274-2",
-          "location": "Montreal, Quebec",
-          "department": "JR00128274",
-          "postedDate": "Posted Yesterday"
-        },
-        {
-          "title": "Tax Analyst",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Tax-Analyst_JR00128672",
-          "location": "2 Locations",
-          "department": "JR00128672",
-          "postedDate": "Posted Yesterday"
-        },
-        {
-          "title": "Resource Team Leader",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Prince-George-British-Columbia/Resource-Team-Leader_JR00128435",
-          "location": "Prince George, British Columbia",
-          "department": "JR00128435",
-          "postedDate": "Posted Yesterday"
-        },
-        {
-          "title": "Business Development Partner",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Blainville-Quebec/Business-Development-Partner_JR00128251-1",
-          "location": "2 Locations",
-          "department": "JR00128251",
-          "postedDate": "Posted Yesterday"
-        },
-        {
-          "title": "Director, Domain Enterprise Architect, RPA and Intelligent Automation",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Montreal-Quebec/Director--Domain-Enterprise-Architect--RPA-and-Intelligent-Automation_JR00128077",
-          "location": "3 Locations",
-          "department": "JR00128077",
-          "postedDate": "Posted Yesterday"
-        },
-        {
-          "title": "Director, Domain Enterprise Architect, Technology Modernization and Cloudification",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Montreal-Quebec/Director--Domain-Enterprise-Architect--Technology-Modernization-and-Cloudification_JR00128076",
-          "location": "3 Locations",
-          "department": "JR00128076",
-          "postedDate": "Posted Yesterday"
-        },
-        {
-          "title": "Director, Enterprise Architecture Strategy, Core Platform",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Montreal-Quebec/Director--Enterprise-Architecture-Strategy--Core-Platform_JR00128032",
-          "location": "3 Locations",
-          "department": "JR00128032",
-          "postedDate": "Posted Yesterday"
-        },
-        {
-          "title": "Associée en Assurance et Gestion du Patrimoine | Insurance and Wealth Associate, Prospr by Sun Life",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Montreal-Quebec/Associe-en-Assurance-et-Gestion-du-Patrimoine---Insurance-and-Wealth-Associate--Prospr-by-Sun-Life_JR00126363-1",
-          "location": "Montreal, Quebec",
-          "department": "JR00126363",
-          "postedDate": "Posted Yesterday"
-        },
-        {
-          "title": "Bilingual Financial Service Consultant- Insurance",
-          "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Montreal-Quebec/Financial-Service-Consultant--Insurance_JR00126771",
-          "location": "10 Locations",
-          "department": "JR00126771",
-          "postedDate": "Posted Yesterday"
+          "postedDate": "Posted 2 Days Ago"
         }
       ]
     },
@@ -300,21 +300,21 @@
           "url": "https://agf.wd3.myworkdayjobs.com/AGF_Careers/job/Toronto-ON/Salesforce-Developer--Solution-Designer_R11306-3",
           "location": "Toronto, ON",
           "department": "R11306",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "AI Platform Engineering Lead",
           "url": "https://agf.wd3.myworkdayjobs.com/AGF_Careers/job/Toronto-ON/AI-Platform-Engineering-Lead_R11328-1",
           "location": "Toronto, ON",
           "department": "R11328",
-          "postedDate": "Posted 28 Days Ago"
+          "postedDate": "Posted 29 Days Ago"
         },
         {
           "title": "Forward Deployed AI Engineer",
           "url": "https://agf.wd3.myworkdayjobs.com/AGF_Careers/job/Toronto-ON/Forward-Deployed-AI-Engineer_R11327-1",
           "location": "Toronto, ON",
           "department": "R11327",
-          "postedDate": "Posted 28 Days Ago"
+          "postedDate": "Posted 29 Days Ago"
         },
         {
           "title": "Associate, Wealth Solutions (Western Canada)",
@@ -339,284 +339,284 @@
       "jobCount": 40,
       "jobs": [
         {
+          "title": "New Accounts Administrator",
+          "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Mississauga-Office/New-Accounts-Administrator_J70859",
+          "location": "Mississauga Office",
+          "department": "J70859",
+          "postedDate": "Posted Today"
+        },
+        {
           "title": "Corporate Tax Manager (Contract until January 2028)",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Corporate-Tax-Manager--Contract-until-January-2028-_J72248",
           "location": "Toronto Office",
           "department": "J72248",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Background Vetting Associate",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Background-Vetting-Associate_J72122",
           "location": "Toronto Office",
           "department": "J72122",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Strategic Account Associate",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Strategic-Account-Associate_J71579",
           "location": "Toronto Office",
           "department": "J71579",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Social Media Community Manager",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Social-Media-Community-Manager_J72409",
           "location": "Toronto Office",
           "department": "J72409",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Product Owner – Altersvorsorgedepot",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Kronberg-Office/Product-Owner---Altersvorsorgedepot_J68080-2",
           "location": "Kronberg Office",
           "department": "J68080",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Risk Specialist Sr, Model Risk (Contract until April 2027)",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Risk-Specialist-Sr--Model-Risk--Contract-until-April-2027-_J72228",
           "location": "Toronto Office",
           "department": "J72228",
-          "postedDate": "Posted 5 Days Ago"
+          "postedDate": "Posted 6 Days Ago"
         },
         {
           "title": "Data Governance Specialist",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Data-Governance-Specialist_J72171",
           "location": "Toronto Office",
           "department": "J72171",
-          "postedDate": "Posted 5 Days Ago"
+          "postedDate": "Posted 6 Days Ago"
         },
         {
           "title": "Operations Representative",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Operations-Representative_J71950",
           "location": "Toronto Office",
           "department": "J71950",
-          "postedDate": "Posted 6 Days Ago"
+          "postedDate": "Posted 7 Days Ago"
         },
         {
           "title": "Operations Representative",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Operations-Representative_J72020",
           "location": "Toronto Office",
           "department": "J72020",
-          "postedDate": "Posted 6 Days Ago"
+          "postedDate": "Posted 7 Days Ago"
         },
         {
           "title": "Business Operations Analyst",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Business-Operations-Analyst_J71818",
           "location": "2 Locations",
           "department": "J71818",
-          "postedDate": "Posted 6 Days Ago"
+          "postedDate": "Posted 7 Days Ago"
         },
         {
           "title": "Wealth Advisor (Winnipeg & Calgary Positions Available)",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Calgary-Office/Wealth-Advisor_J64025",
           "location": "Calgary Office",
           "department": "J64025",
-          "postedDate": "Posted 7 Days Ago"
+          "postedDate": "Posted 8 Days Ago"
         },
         {
           "title": "Managed Accounts Portfolio Services Group Analyst",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Managed-Accounts-Portfolio-Services-Group-Analyst_J71584",
           "location": "Toronto Office",
           "department": "J71584",
-          "postedDate": "Posted 7 Days Ago"
+          "postedDate": "Posted 8 Days Ago"
         },
         {
           "title": "Full Stack Developer FCC",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Developer-Platform-FCC_J63954",
           "location": "Toronto Office",
           "department": "J63954",
-          "postedDate": "Posted 8 Days Ago"
+          "postedDate": "Posted 9 Days Ago"
         },
         {
           "title": "Software Developer",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Software-Developer_J70152-1",
           "location": "Toronto Office",
           "department": "J70152",
-          "postedDate": "Posted 8 Days Ago"
+          "postedDate": "Posted 9 Days Ago"
         },
         {
           "title": "Technical Architect Sr",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Technical-Architect-Sr_J70116",
           "location": "2 Locations",
           "department": "J70116",
-          "postedDate": "Posted 8 Days Ago"
+          "postedDate": "Posted 9 Days Ago"
         },
         {
           "title": "Legal Counsel",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Legal-Counsel_J72128",
           "location": "Toronto Office",
           "department": "J72128",
-          "postedDate": "Posted 8 Days Ago"
+          "postedDate": "Posted 9 Days Ago"
         },
         {
           "title": "Customer Journey Optimization Developer",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Customer-Journey-Optimization-Developer_J71333",
           "location": "Toronto Office",
           "department": "J71333",
-          "postedDate": "Posted 12 Days Ago"
+          "postedDate": "Posted 13 Days Ago"
         },
         {
           "title": "Finance Manager",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Finance-Manager_J71982",
           "location": "Toronto Office",
           "department": "J71982",
-          "postedDate": "Posted 14 Days Ago"
+          "postedDate": "Posted 15 Days Ago"
         },
         {
           "title": "Fund Tax Manager (Contract until January 2028)",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Fund-Tax-Manager--Contract-until-January-2028-_J72114",
           "location": "Toronto Office",
           "department": "J72114",
-          "postedDate": "Posted 14 Days Ago"
+          "postedDate": "Posted 15 Days Ago"
         },
         {
           "title": "Business Analyst - Fidelity Wealth",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Business-Analyst---Fidelity-Wealth_J67784",
           "location": "Toronto Office",
           "department": "J67784",
-          "postedDate": "Posted 14 Days Ago"
+          "postedDate": "Posted 15 Days Ago"
         },
         {
           "title": "Producteur bilingue, Affaires de la société / Corporate Affairs Producer Bilingual",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Montreal-Office/Producteur-bilingue--Affaires-de-la-socit---Corporate-Affairs-Producer-Bilingual_J71409",
           "location": "Montreal Office",
           "department": "J71409",
-          "postedDate": "Posted 17 Days Ago"
+          "postedDate": "Posted 18 Days Ago"
         },
         {
           "title": "Recruitment Consultant",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Recruitment-Consultant_J71720",
           "location": "2 Locations",
           "department": "J71720",
-          "postedDate": "Posted 18 Days Ago"
+          "postedDate": "Posted 19 Days Ago"
         },
         {
           "title": "Director, Product Strategy and Commercialization",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Mississauga-Office/Director--Product-Strategy-and-Commercialization_J70969",
           "location": "Mississauga Office",
           "department": "J70969",
-          "postedDate": "Posted 18 Days Ago"
+          "postedDate": "Posted 19 Days Ago"
         },
         {
           "title": "Technical Analyst Sr",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Technical-Analyst-Sr_J70632",
           "location": "Toronto Office",
           "department": "J70632",
-          "postedDate": "Posted 18 Days Ago"
+          "postedDate": "Posted 19 Days Ago"
         },
         {
           "title": "Software Developer",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Software-Developer_J70265",
           "location": "Toronto Office",
           "department": "J70265",
-          "postedDate": "Posted 18 Days Ago"
+          "postedDate": "Posted 19 Days Ago"
         },
         {
           "title": "Technology Risk Manager",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Technology-Risk-Manager_J65302",
           "location": "Toronto Office",
           "department": "J65302",
-          "postedDate": "Posted 18 Days Ago"
+          "postedDate": "Posted 19 Days Ago"
         },
         {
           "title": "Product Manager, Investly",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Product-Manager--Investly_J70148-1",
           "location": "Toronto Office",
           "department": "J70148",
-          "postedDate": "Posted 18 Days Ago"
+          "postedDate": "Posted 19 Days Ago"
         },
         {
           "title": "Product Manager, Investly",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Product-Manager--Investly_J69349",
           "location": "Toronto Office",
           "department": "J69349",
-          "postedDate": "Posted 18 Days Ago"
+          "postedDate": "Posted 19 Days Ago"
         },
         {
           "title": "Machine Learning Analyst",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Machine-Learning-Analyst_J68515",
           "location": "Toronto Office",
           "department": "J68515",
-          "postedDate": "Posted 19 Days Ago"
+          "postedDate": "Posted 20 Days Ago"
         },
         {
           "title": "Software Developer",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Software-Developer_J65877",
           "location": "Toronto Office",
           "department": "J65877",
-          "postedDate": "Posted 19 Days Ago"
+          "postedDate": "Posted 20 Days Ago"
         },
         {
           "title": "Project Manager FCC",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Project-Manager-FCC_J70928",
           "location": "Toronto Office",
           "department": "J70928",
-          "postedDate": "Posted 19 Days Ago"
+          "postedDate": "Posted 20 Days Ago"
         },
         {
           "title": "Project Manager FCC",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Project-Manager-FCC_J69097",
           "location": "Toronto Office",
           "department": "J69097",
-          "postedDate": "Posted 19 Days Ago"
+          "postedDate": "Posted 20 Days Ago"
         },
         {
           "title": "Traducteur ou traductrice, Services de compensation Fidelity Canada / Translator, Fidelity Clearing Canada (FCC)",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Translator--Fidelity-Clearing-Canada--FCC----100--Remote---Contract_J70483",
           "location": "2 Locations",
           "department": "J70483",
-          "postedDate": "Posted 19 Days Ago"
+          "postedDate": "Posted 20 Days Ago"
         },
         {
           "title": "Strategic Account Manager",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Strategic-Account-Manager_J71893-1",
           "location": "2 Locations",
           "department": "J71893",
-          "postedDate": "Posted 19 Days Ago"
+          "postedDate": "Posted 20 Days Ago"
         },
         {
           "title": "Marketing & Communications Manager",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Marketing---Communications-Manager_J71004",
           "location": "2 Locations",
           "department": "J71004",
-          "postedDate": "Posted 19 Days Ago"
+          "postedDate": "Posted 20 Days Ago"
         },
         {
           "title": "Operations Controls Fraud Analyst",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Operations-Controls-Fraud-Analyst_J71338",
           "location": "Toronto Office",
           "department": "J71338",
-          "postedDate": "Posted 19 Days Ago"
+          "postedDate": "Posted 20 Days Ago"
         },
         {
           "title": "Traducteur ou Traductrice / Translator",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Traducteur-ou-Traductrice---Translator_J71631",
           "location": "2 Locations",
           "department": "J71631",
-          "postedDate": "Posted 20 Days Ago"
+          "postedDate": "Posted 21 Days Ago"
         },
         {
           "title": "Cyber Security Risk Director",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Cyber-Security-Risk-Director_J71273",
           "location": "Toronto Office",
           "department": "J71273",
-          "postedDate": "Posted 20 Days Ago"
+          "postedDate": "Posted 21 Days Ago"
         },
         {
           "title": "Director Software Product Management, Investly",
           "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Director-Software-Product-Management--Investly_J67990",
           "location": "Toronto Office",
           "department": "J67990",
-          "postedDate": "Posted 20 Days Ago"
-        },
-        {
-          "title": "Full Stack Developer Sr",
-          "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Technical-Analyst-Sr_J70661",
-          "location": "Toronto Office",
-          "department": "J70661",
-          "postedDate": "Posted 20 Days Ago"
+          "postedDate": "Posted 21 Days Ago"
         }
       ]
     },
@@ -631,126 +631,126 @@
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Cash-and-Treasury_R26-145",
           "location": "Toronto - 16 York St",
           "department": "R26-145",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Intern, Continuous Improvement & Transformation (Summer 2027)",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Continuous-Improvement---Transformation_R26-147",
           "location": "Toronto - 16 York St",
           "department": "R26-147",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Intern, Enterprise Risk (Summer 2027)",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Enterprise-Risk_R26-144",
           "location": "Toronto - 16 York St",
           "department": "R26-144",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Intern, Fundamental Equities (Summer 2027)",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Fundamental-Equities_R26-150",
           "location": "Toronto - 16 York St",
           "department": "R26-150",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Intern, Performance and Analytics, Projects (Summer 2027)",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Performance-and-Analytics--Projects--Summer-2027-_R26-159",
           "location": "Toronto - 16 York St",
           "department": "R26-159",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Intern, Global Credit (Summer 2027)",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Global-Credit--Summer-2027-_R26-151",
           "location": "Toronto - 16 York St",
           "department": "R26-151",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Intern, Private Markets Operations  (Summer 2027)",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Private-Markets-Operations---Summer-2027-_R26-163",
           "location": "Toronto - 16 York St",
           "department": "R26-163",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Intern, Total Portfolio & Strategic Initiatives (Summer 2027)",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Total-Portfolio---Strategic-Initiatives--Summer-2027-_R26-157",
           "location": "Toronto - 16 York St",
           "department": "R26-157",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Intern, Client Relationship Management (Summer 2027)",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Client-Relationship-Management--Summer-2027-_R26-161",
           "location": "Toronto - 16 York St",
           "department": "R26-161",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Intern, Infrastructure (Summer 2027)",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Infrastructure--Summer-2027-_R26-154",
           "location": "Toronto - 16 York St",
           "department": "R26-154",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Intern, Middle Office Operations",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Middle-Office-Operations_R26-146",
           "location": "Toronto - 16 York St",
           "department": "R26-146",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Intern, Performance and Analytics, Reporting (Summer 2027)",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Performance-and-Analytics--Reporting--Summer-2027-_R26-158",
           "location": "Toronto - 16 York St",
           "department": "R26-158",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Intern, Real Estate (Summer 2027)",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Real-Estate_R26-149",
           "location": "Toronto - 16 York St",
           "department": "R26-149",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Intern, Total Portfolio and Capital Markets (Summer 2027)",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Total-Portfolio-and-Capital-Markets--Summer-2027-_R26-152",
           "location": "Toronto - 16 York St",
           "department": "R26-152",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Senior Associate, Investment Risk",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Senior-Associate--Investment-Risk_R26-153-1",
           "location": "Toronto - 16 York St",
           "department": "R26-153",
-          "postedDate": "Posted 7 Days Ago"
+          "postedDate": "Posted 8 Days Ago"
         },
         {
           "title": "Principal, Client Portfolio Strategy and Governance",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Principal--Client-Portfolio-Strategy-and-Governance_R26-140-1",
           "location": "Toronto - 16 York St",
           "department": "R26-140",
-          "postedDate": "Posted 13 Days Ago"
+          "postedDate": "Posted 14 Days Ago"
         },
         {
           "title": "Senior Data Engineer, Risk Technology",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Senior-Data-Engineer--Risk-Technology_R26-136-1",
           "location": "Toronto - 16 York St",
           "department": "R26-136",
-          "postedDate": "Posted 27 Days Ago"
+          "postedDate": "Posted 28 Days Ago"
         },
         {
           "title": "Principal, Investment Insights",
           "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Principal--Investment-Insights_R26-131-1",
           "location": "Toronto - 16 York St",
           "department": "R26-131",
-          "postedDate": "Posted 30 Days Ago"
+          "postedDate": "Posted 30+ Days Ago"
         },
         {
           "title": "Associate Portfolio Manager, Public Credit",
@@ -772,49 +772,49 @@
           "url": "https://optrust.wd3.myworkdayjobs.com/OPTrust/job/Toronto-ON/Facilities-and-Administrative-Coordinator_R1308",
           "location": "Toronto, ON",
           "department": "R1308",
-          "postedDate": "Posted Yesterday"
+          "postedDate": "Posted 2 Days Ago"
         },
         {
           "title": "Relationship Advisor",
           "url": "https://optrust.wd3.myworkdayjobs.com/OPTrust/job/Toronto-ON/Relationship-Advisor_R1277-1",
           "location": "Toronto, ON",
           "department": "R1277",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Manager, Strategy and Operations, OCIO",
           "url": "https://optrust.wd3.myworkdayjobs.com/OPTrust/job/Toronto-ON/Manager--Strategy-and-Operations--OCIO_R1309",
           "location": "Toronto, ON",
           "department": "R1309",
-          "postedDate": "Posted 5 Days Ago"
+          "postedDate": "Posted 6 Days Ago"
         },
         {
           "title": "Team Leader, Business Support Services",
           "url": "https://optrust.wd3.myworkdayjobs.com/OPTrust/job/Toronto-ON/Team-Leader--Business-Support-Services_R1293",
           "location": "Toronto, ON",
           "department": "R1293",
-          "postedDate": "Posted 6 Days Ago"
+          "postedDate": "Posted 7 Days Ago"
         },
         {
           "title": "Senior Investment Coordinator",
           "url": "https://optrust.wd3.myworkdayjobs.com/OPTrust/job/Toronto-ON/Senior-Investment-Coordinator_R1278",
           "location": "Toronto, ON",
           "department": "R1278",
-          "postedDate": "Posted 8 Days Ago"
+          "postedDate": "Posted 9 Days Ago"
         },
         {
           "title": "Principal, Private Markets",
           "url": "https://optrust.wd3.myworkdayjobs.com/OPTrust/job/London-UK/Principal--Private-Markets_R1302",
           "location": "London, UK",
           "department": "R1302",
-          "postedDate": "Posted 13 Days Ago"
+          "postedDate": "Posted 14 Days Ago"
         },
         {
           "title": "Data Analyst",
           "url": "https://optrust.wd3.myworkdayjobs.com/OPTrust/job/Toronto-ON/Data-Analyst_R1304",
           "location": "Toronto, ON",
           "department": "R1304",
-          "postedDate": "Posted 13 Days Ago"
+          "postedDate": "Posted 14 Days Ago"
         }
       ]
     },
@@ -825,234 +825,234 @@
       "jobCount": 40,
       "jobs": [
         {
+          "title": "Senior Actuarial Analyst (Insurance Pricing Analyst)",
+          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Senior-Actuarial-Analyst--Insurance-Pricing-Analyst-_R-174037",
+          "location": "Poland - Warsaw - ASEC",
+          "department": "R-174037",
+          "postedDate": "Posted Today"
+        },
+        {
           "title": "Casualty Claims Specialist",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Calgary/Casualty-Claims-Specialist_R-174457",
           "location": "2 Locations",
           "department": "R-174457",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Senior Casualty Claims Specialist – Global Corporate and Specialty (GCS)",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Oakville-ON-1335-North-Service-Road-East/Senior-Casualty-Claims-Specialist---Global-Corporate-and-Specialty--GCS-_R-173155",
           "location": "2 Locations",
           "department": "R-173155",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "AI Implementation Specialist",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/AI-Implementation-Specialist_R-174439",
           "location": "Poland - Warsaw - ASEC",
           "department": "R-174439",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Senior Underwriter, Cyber",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/US---New-York/Senior-Underwriter--Cyber_R-174460",
           "location": "US - New York",
           "department": "R-174460",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Directeur(trice) d’unité, Assurance des entreprises B&A – Petite entreprises",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Montreal-QC-630-boul-Ren-Lvesque-Ouest/Directeu-trice--d-unit--Assurance-des-entreprises-B-A---Petite-entreprises_R-174458",
           "location": "Canada - Montreal QC 630 boul René Lévesque Ouest",
           "department": "R-174458",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Finance Intern",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Finance-Intern_R-174489",
           "location": "Poland - Warsaw - ASEC",
           "department": "R-174489",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Financial Crime Manager - 6 Month FTC",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Norwich/Financial-Crime-Manager_R-168918-2",
           "location": "Norwich",
           "department": "R-168918",
-          "postedDate": "Posted Today"
+          "postedDate": "Posted Yesterday"
         },
         {
           "title": "Directeur(trice) d’unité – équipe centralisée des opérations de souscription",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Montreal-QC-630-boul-Ren-Lvesque-Ouest/Directeur-trice--d-unit---quipe-centralise-des-oprations-de-souscription_R-174459",
           "location": "Canada - Montreal QC 630 boul René Lévesque Ouest",
           "department": "R-174459",
-          "postedDate": "Posted Yesterday"
+          "postedDate": "Posted 2 Days Ago"
         },
         {
           "title": "Senior Audit Lead, Underwriting Quality & Risk Oversight",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/US---New-York/Senior-Audit-Lead--Underwriting-Quality---Risk-Oversight_R-174423",
           "location": "US - New York",
           "department": "R-174423",
-          "postedDate": "Posted Yesterday"
+          "postedDate": "Posted 2 Days Ago"
         },
         {
           "title": "Senior Recovery Claims Adjuster - Property Claims",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Oakville-ON-1335-North-Service-Road-East/Senior-Recovery-Claims-Adjuster---Property-Claims_R-174367",
           "location": "2 Locations",
           "department": "R-174367",
-          "postedDate": "Posted Yesterday"
+          "postedDate": "Posted 2 Days Ago"
         },
         {
           "title": "Actuarial Modelling Specialist",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Actuarial-Modelling-Specialist_R-174397",
           "location": "Poland - Warsaw - ASEC",
           "department": "R-174397",
-          "postedDate": "Posted Yesterday"
+          "postedDate": "Posted 2 Days Ago"
         },
         {
           "title": "Senior Manager, Security Advisory Services",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Senior-Manager--Security-Advisory-Services_R-174390",
           "location": "Markham",
           "department": "R-174390",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Actuarial Analyst, Large Accounts Pricing",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Actuarial-Analyst--Large-Accounts-Pricing_R-174287",
           "location": "Markham",
           "department": "R-174287",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Regional Business Development Manager",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/UK---Manchester---Quay-Street/Business-Development-Manager_R-158830-2",
           "location": "UK - Manchester - Quay Street",
           "department": "R-158830",
-          "postedDate": "Posted 2 Days Ago"
+          "postedDate": "Posted 3 Days Ago"
         },
         {
           "title": "Rédacteur(trice) production principal(e) – Assurance automobile des entreprises",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Quebec-City-QC---825-boulevard-Lebourgneuf/Rdacteur-trice--production-principal-e----Assurance-automobile-des-entreprises_R-172497",
           "location": "Canada - Quebec City QC - 825 boulevard Lebourgneuf",
           "department": "R-172497",
-          "postedDate": "Posted 5 Days Ago"
+          "postedDate": "Posted 6 Days Ago"
         },
         {
           "title": "Rédacteur(trice) principal(e), Production— Assurance des entreprises (P&C)",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Quebec-City-QC---825-boulevard-Lebourgneuf/Rdacteur-trice--principal-e---Production--Assurance-des-entreprises--P-C-_R-172487",
           "location": "Canada - Quebec City QC - 825 boulevard Lebourgneuf",
           "department": "R-172487",
-          "postedDate": "Posted 5 Days Ago"
+          "postedDate": "Posted 6 Days Ago"
         },
         {
           "title": "Spécialiste en production, Assurance des entreprises (P&C)",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Quebec-City-QC---825-boulevard-Lebourgneuf/Rdacteur-trice--production-intermdiaire---Assurance-des-entreprises--P-C-_R-172486",
           "location": "Canada - Quebec City QC - 825 boulevard Lebourgneuf",
           "department": "R-172486",
-          "postedDate": "Posted 5 Days Ago"
+          "postedDate": "Posted 6 Days Ago"
         },
         {
           "title": "Spécialiste, Production – Assurance des entreprises (Programmes)",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Montreal-QC-630-boul-Ren-Lvesque-Ouest/Spcialiste--Production---Assurance-des-entreprises--Programmes-_R-174318",
           "location": "Canada - Montreal QC 630 boul René Lévesque Ouest",
           "department": "R-174318",
-          "postedDate": "Posted 5 Days Ago"
+          "postedDate": "Posted 6 Days Ago"
         },
         {
           "title": "Cyber Response Technical Team Lead",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Cyber-Response-Technical-Team-Lead_R-174304",
           "location": "Poland - Warsaw - ASEC",
           "department": "R-174304",
-          "postedDate": "Posted 5 Days Ago"
+          "postedDate": "Posted 6 Days Ago"
         },
         {
           "title": "Security Analyst (Global SOC)",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Security-Analyst_R-174307",
           "location": "Poland - Warsaw - ASEC",
           "department": "R-174307",
-          "postedDate": "Posted 5 Days Ago"
+          "postedDate": "Posted 6 Days Ago"
         },
         {
           "title": "Recovery Claims Adjuster - Property Claims",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Oakville-ON-1335-North-Service-Road-East/Recovery-Claims-Adjuster_R-172446",
           "location": "Canada - Oakville ON 1335 North Service Road East",
           "department": "R-172446",
-          "postedDate": "Posted 5 Days Ago"
+          "postedDate": "Posted 6 Days Ago"
         },
         {
           "title": "Senior Five9 CCaaS Administrator",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Unified-Communications---Contact-Centre-Administrator_R-171939",
           "location": "Markham",
           "department": "R-171939",
-          "postedDate": "Posted 6 Days Ago"
+          "postedDate": "Posted 7 Days Ago"
         },
         {
           "title": "Large Loss Commercial Property Claims Examiner",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Calgary/Large-Loss-Commercial-Property-Claims-Examiner_R-164819",
           "location": "8 Locations",
           "department": "R-164819",
-          "postedDate": "Posted 6 Days Ago"
+          "postedDate": "Posted 7 Days Ago"
         },
         {
           "title": "High-Net-Worth Property Claims Adjuster (Aviva Ovation)",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Toronto/Ovation--High-Net-Worth--Claims-Adjuster_R-172359",
           "location": "5 Locations",
           "department": "R-172359",
-          "postedDate": "Posted 6 Days Ago"
+          "postedDate": "Posted 7 Days Ago"
         },
         {
           "title": "Front Line Manager – Property Claims",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Calgary/Front-Line-Manager---Property-Claims_R-171786-1",
           "location": "2 Locations",
           "department": "R-171786",
-          "postedDate": "Posted 6 Days Ago"
+          "postedDate": "Posted 7 Days Ago"
         },
         {
           "title": "Senior Financial Analyst",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Senior-Financial-Analyst_R-174020",
           "location": "Markham",
           "department": "R-174020",
-          "postedDate": "Posted 6 Days Ago"
+          "postedDate": "Posted 7 Days Ago"
         },
         {
           "title": "Data Solution Senior Designer",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Data-Solution-Senior-Designer_R-174263",
           "location": "Poland - Warsaw - ASEC",
           "department": "R-174263",
-          "postedDate": "Posted 6 Days Ago"
+          "postedDate": "Posted 7 Days Ago"
         },
         {
           "title": "HR Specialist for Employment and Legalization of Foreign Workers",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/HR-Specialist-for-Employment-and-Legalization-of-Foreign-Workers_R-174209",
           "location": "Poland - Warsaw - ASEC",
           "department": "R-174209",
-          "postedDate": "Posted 6 Days Ago"
+          "postedDate": "Posted 7 Days Ago"
         },
         {
           "title": "Rédacteur(trice) production intermédiaire - Assurance des entreprises (P&C)",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Montreal-QC-630-boul-Ren-Lvesque-Ouest/Rdacteur-trice--production-intermdiaire---Assurance-des-entreprises--P-C-_R-172490",
           "location": "Canada - Montreal QC 630 boul René Lévesque Ouest",
           "department": "R-172490",
-          "postedDate": "Posted 7 Days Ago"
+          "postedDate": "Posted 8 Days Ago"
         },
         {
           "title": "Intermediate / Senior Underwriter, High Net Worth",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Intermediate---Senior-Underwriter--High-Net-Worth_R-171941",
           "location": "4 Locations",
           "department": "R-171941",
-          "postedDate": "Posted 7 Days Ago"
+          "postedDate": "Posted 8 Days Ago"
         },
         {
           "title": "AVP, High Net Worth Underwriting Ops",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/AVP--High-Net-Worth-Underwriting-Ops_R-174146-1",
           "location": "Markham",
           "department": "R-174146",
-          "postedDate": "Posted 7 Days Ago"
+          "postedDate": "Posted 8 Days Ago"
         },
         {
           "title": "Account Specialist – Warranty and Service Contracts",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Toronto/Account-Specialist---Warranty-and-Service-Contracts_R-173903",
           "location": "Toronto",
           "department": "R-173903",
-          "postedDate": "Posted 8 Days Ago"
-        },
-        {
-          "title": "Senior Actuarial Analyst (Insurance Pricing Analyst)",
-          "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Senior-Actuarial-Analyst--Insurance-Pricing-Analyst-_R-174037",
-          "location": "Poland - Warsaw - ASEC",
-          "department": "R-174037",
           "postedDate": "Posted 9 Days Ago"
         },
         {
@@ -1060,49 +1060,49 @@
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Lead-Data-Designer_R-173783",
           "location": "Markham",
           "department": "R-173783",
-          "postedDate": "Posted 12 Days Ago"
+          "postedDate": "Posted 13 Days Ago"
         },
         {
           "title": "Production Manager - Aviva AutoCare Centre",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Cambridge/Production-Manager---Aviva-AutoCare-Centre_R-173944",
           "location": "Cambridge",
           "department": "R-173944",
-          "postedDate": "Posted 13 Days Ago"
+          "postedDate": "Posted 14 Days Ago"
         },
         {
           "title": "Senior Casualty Claims Specialist – Aviva Business Insurance (ABI)",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Senior-Casualty-Claims-Specialist---Aviva-Business-Insurance--ABI-_R-173939",
           "location": "4 Locations",
           "department": "R-173939",
-          "postedDate": "Posted 13 Days Ago"
+          "postedDate": "Posted 14 Days Ago"
         },
         {
           "title": "Corporate Security Manager",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Corporate-Security-Manager_R-173426",
           "location": "Markham",
           "department": "R-173426",
-          "postedDate": "Posted 14 Days Ago"
+          "postedDate": "Posted 15 Days Ago"
         },
         {
           "title": "Réviseur(e), Indemnisation Biens",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Montreal-QC-630-boul-Ren-Lvesque-Ouest/Spcialiste--Indemnisation_R-173812",
           "location": "Canada - Montreal QC 630 boul René Lévesque Ouest",
           "department": "R-173812",
-          "postedDate": "Posted 14 Days Ago"
+          "postedDate": "Posted 15 Days Ago"
         },
         {
           "title": "Group Portfolio Lead",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Group-Portfolio-Lead_R-173651",
           "location": "Markham",
           "department": "R-173651",
-          "postedDate": "Posted 14 Days Ago"
+          "postedDate": "Posted 15 Days Ago"
         },
         {
           "title": "Data Scientist, Commercial Price Modelling",
           "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Data-Scientist--Commercial-Price-Modelling_R-173901",
           "location": "2 Locations",
           "department": "R-173901",
-          "postedDate": "Posted 14 Days Ago"
+          "postedDate": "Posted 15 Days Ago"
         }
       ]
     },
@@ -1127,6 +1127,27 @@
       "url": "https://jobs.canadalife.com/go/All-Jobs/9170201/",
       "jobCount": 25,
       "jobs": [
+        {
+          "title": "Director, Corporate Financial Reporting - ICOFR | Great WestDirector, Corporate Financial Reporting - ICOFR | Great West",
+          "url": "https://jobs.canadalife.com/job/London-Director%2C-Corporate-Financial-Reporting-ICOFR-Great-West-ON/1440695533/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
+          "postedDate": "Oct 22, 2026"
+        },
+        {
+          "title": "Director, Internal Controls over Financial Reporting (ICOFR)Director, Internal Controls over Financial Reporting (ICOFR)",
+          "url": "https://jobs.canadalife.com/job/London-Director%2C-Internal-Controls-over-Financial-Reporting-%28ICOFR%29-ON/1440193233/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Actuarial and Investments and Finance",
+          "postedDate": "Oct 22, 2026"
+        },
+        {
+          "title": "Contracts & Compensation SpecialistContracts & Compensation Specialist",
+          "url": "https://jobs.canadalife.com/job/London-Contracts-&-Compensation-Specialist-ON/1450401933/",
+          "location": "London, ON, CA\n            \n                +2 more…",
+          "department": "Corporate Functions",
+          "postedDate": "Oct 22, 2026"
+        },
         {
           "title": "Bilingual (Fr/En) Intake Coordinator Group DisabilityBilingual (Fr/En) Intake Coordinator Group Disability",
           "url": "https://jobs.canadalife.com/job/Winnipeg-Bilingual-%28FrEn%29-Intake-Coordinator-Group-Disability-MB/1440240233/",
@@ -1280,27 +1301,6 @@
           "location": "Montreal, Quebec, CA\n            \n                +5 more…",
           "department": "Customer Service and Administration",
           "postedDate": "Oct 19, 2026"
-        },
-        {
-          "title": "Bilingual (Fr/En) Associate Manager, Quebec ComplianceBilingual (Fr/En) Associate Manager, Quebec Compliance",
-          "url": "https://jobs.canadalife.com/job/Montreal-Bilingual-%28FrEn%29-Associate-Manager%2C-Quebec-Compliance-Queb/1449158933/",
-          "location": "Montreal, Quebec, CA",
-          "department": "Corporate Functions",
-          "postedDate": "Oct 19, 2026"
-        },
-        {
-          "title": "Associate Manager, Risk and Resilience (Fixed Term)Associate Manager, Risk and Resilience (Fixed Term)",
-          "url": "https://jobs.canadalife.com/job/Toronto-Associate-Manager%2C-Risk-and-Resilience-%28Fixed-Term%29-ON/1449169733/",
-          "location": "Toronto, ON, CA\n            \n                +2 more…",
-          "department": "Corporate Functions",
-          "postedDate": "Oct 19, 2026"
-        },
-        {
-          "title": "Jr. Desktop Engineering Specialist  (Student Position)Jr. Desktop Engineering Specialist  (Student Position)",
-          "url": "https://jobs.canadalife.com/job/London-Jr_-Desktop-Engineering-Specialist-%28Student-Position%29-ON/1449203233/",
-          "location": "London, ON, CA\n            \n                +2 more…",
-          "department": "Digital Technology",
-          "postedDate": "Oct 19, 2026"
         }
       ]
     },
@@ -1351,8 +1351,15 @@
       "id": "alterna",
       "name": "Alterna Savings",
       "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/JobBoardView/LoadSearchResults",
-      "jobCount": 27,
+      "jobCount": 28,
       "jobs": [
+        {
+          "title": "Pension & Benefits Specialist",
+          "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=9713688f-f273-46b8-a472-34dfc3fe6f51",
+          "location": "Ottawa, Ontario",
+          "department": "Human Resources",
+          "postedDate": "2026-10-22"
+        },
         {
           "title": "Marketing Specialist",
           "url": "https://recruiting.ultipro.ca/ALT5000ASCUL/JobBoard/5cf23382-2cd5-42f4-8a95-48fc4c5822db/OpportunityDetail?opportunityId=4b0868a3-3523-444b-a3b8-c3714564dc12",
@@ -1930,6 +1937,13 @@
       "jobCount": 74,
       "jobs": [
         {
+          "title": "Customer Service Assistant",
+          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=bbddf87e-7a80-46bb-b1e7-9721bc57578e",
+          "location": "Mississauga, Ontario",
+          "department": "Client Service",
+          "postedDate": "2026-10-22"
+        },
+        {
           "title": "Senior Business Systems Analyst",
           "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=dd16d597-27b1-4659-8840-82f0103c9d45",
           "location": "Guelph, Ontario",
@@ -2187,13 +2201,6 @@
           "location": "Gatineau, Quebec",
           "department": "Sales",
           "postedDate": "2026-10-08"
-        },
-        {
-          "title": "Product Manager",
-          "url": "https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=5da7c195-206b-48b7-b259-88a317553b02",
-          "location": "Toronto, Ontario",
-          "department": "Marketing & Communications",
-          "postedDate": "2026-10-07"
         },
         {
           "title": "Claims Representative I",
@@ -2533,6 +2540,13 @@
           "postedDate": "2026-10-21"
         },
         {
+          "title": "AVP HR Service Delivery &amp; Technology",
+          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=14349",
+          "location": "Location\nManitoba|Ontario|Quebec",
+          "department": "General",
+          "postedDate": "2026-10-22"
+        },
+        {
           "title": "Bilingual Advisor IG Wealth Connect",
           "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13251",
           "location": "Location\nAlberta|British Columbia|Manitoba|New Brunswick|Newfoundland & Labrador|North West Territories|Nova Scotia|Ontario|Prince Edward Island|Quebec|Saskatchewan|Yukon",
@@ -2666,13 +2680,6 @@
           "postedDate": "2026-10-19"
         },
         {
-          "title": "Senior Specialist Trade Centre",
-          "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=14310",
-          "location": "Location\nManitoba|Quebec",
-          "department": "General",
-          "postedDate": "2026-10-01"
-        },
-        {
           "title": "Wealth Advisor (Mutual fund licensed) - Ottawa West-Kanata",
           "url": "https://career17.sapsf.com/career?company=investorsgP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=14343",
           "location": "Location\nOntario",
@@ -2723,55 +2730,6 @@
       "jobCount": 10,
       "jobs": [
         {
-          "title": "Associate Regional Consultant - Model Portfolios, AVP - State Street Investment Management",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Scottsdale/Associate-Regional-Consultant---Model-Portfolios--AVP---State-Street-Investment-Management_R-794336/apply",
-          "location": "Scottsdale",
-          "department": "Sales and Client Relationship",
-          "postedDate": "2026-09-15"
-        },
-        {
-          "title": "RIA Associate Regional Consultant - US Wealth, AVP - State Street Investment Management",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Scottsdale/RIA-Associate-Regional-Consultant---US-Wealth--AVP--State-Street-Investment-Management--Hybrid_R-798064/apply",
-          "location": "Scottsdale",
-          "department": "Sales and Client Relationship",
-          "postedDate": "2026-09-18"
-        },
-        {
-          "title": "Associate Regional Consultant, Model Portfolios – US Wealth, AVP, State Street Investment Management",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Scottsdale/Associate-Regional-Consultant--Model-Portfolio-Solutions---US-Wealth--Assistant-Vice-President_R-799210/apply",
-          "location": "Scottsdale",
-          "department": "Sales and Client Relationship",
-          "postedDate": "2026-10-13"
-        },
-        {
-          "title": "Software Engineering & Development, Assistant Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Software-Engineering---Development--Assistant-Vice-President_R-796397/apply",
-          "location": "Irvine",
-          "department": "Other",
-          "postedDate": "2026-08-20"
-        },
-        {
-          "title": "DevOps Engineer (Config Mgmt), AVP",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/DevOps-Engineer--Config-Mgmt---AVP_R-795378-1/apply",
-          "location": "Irvine",
-          "department": "Other",
-          "postedDate": "2026-09-04"
-        },
-        {
-          "title": "Middle Office Trade Management & Settlements, Vice President",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Alpha-Operations-Client-Pathways--Vice-President_R-778801/apply",
-          "location": "Irvine",
-          "department": "Investment Operations",
-          "postedDate": "2026-10-07"
-        },
-        {
-          "title": "Alternative Operations Settlement Specialist, Senior Associate",
-          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Alternative-Operations-Settlement-Specialist--Senior-Associate_R-797704/apply",
-          "location": "Irvine",
-          "department": "Other",
-          "postedDate": "2026-10-02"
-        },
-        {
           "title": "Institutional Sales Consultant, VP II - State Street Investment Management",
           "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Institutional-Sales-Consultant--VP-II---State-Street-Investment-Management_R-799869-1/apply",
           "location": "OS CA",
@@ -2791,6 +2749,55 @@
           "location": "Sacramento",
           "department": "Sales and Client Relationship",
           "postedDate": "2026-09-01"
+        },
+        {
+          "title": "ETF Settlements, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/ETF-Settlements--Senior-Associate_R-797631-2/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-10-05"
+        },
+        {
+          "title": "Core Operations, Associate 2",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Core-Operations--Associate-2_R-798788/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-10-05"
+        },
+        {
+          "title": "Core Operations, Associate 2",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Core-Operations--Associate-2_R-799016/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-10-05"
+        },
+        {
+          "title": "Core Operations, Associate 2",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Core-Operations--Associate-2_R-798922/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-10-05"
+        },
+        {
+          "title": "Client Experience Manager, Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Client-Experience-Manager--Vice-President_R-793996-1/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-10-13"
+        },
+        {
+          "title": "Basket Operations Core Operations, Vice President",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Basket-Operations-Core-Operations--Vice-President_R-799833-4/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-10-19"
+        },
+        {
+          "title": "Private Markets Fund Accounting and Administration, Senior Associate",
+          "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Private-Markets-Fund-Accounting-and-Administration--Senior-Associate_R-799820/apply",
+          "location": "Sacramento",
+          "department": "Other",
+          "postedDate": "2026-10-19"
         }
       ]
     },
@@ -2798,8 +2805,22 @@
       "id": "raymondjames",
       "name": "Raymond James",
       "url": "https://raymondjames.taleo.net/careersection/1_ca/jobsearch.ftl?lang=en",
-      "jobCount": 97,
+      "jobCount": 101,
       "jobs": [
+        {
+          "title": "Branch Administrator",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600659&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-10-22"
+        },
+        {
+          "title": "Corporate Actions Associate",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600660&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "BC-Vancouver",
+          "department": "General",
+          "postedDate": "2026-10-22"
+        },
         {
           "title": "AVP, Wealth Planning & Tax Consulting",
           "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600657&tz=GMT%2B00%3A00&tzname=UTC",
@@ -3396,6 +3417,20 @@
           "postedDate": "2026-10-22"
         },
         {
+          "title": "Advisor Internship Program (AIP) (Victoria/Kelowna)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600193&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-10-22"
+        },
+        {
+          "title": "Advisor Internship Program (AIP) (Toronto/Waterloo/Ottawa)",
+          "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600192&tz=GMT%2B00%3A00&tzname=UTC",
+          "location": "Multiple Locations",
+          "department": "General",
+          "postedDate": "2026-10-22"
+        },
+        {
           "title": "Advisor Internship Program (AIP) (Calgary/Edmonton/Saskatoon)",
           "url": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600191&tz=GMT%2B00%3A00&tzname=UTC",
           "location": "Multiple Locations",
@@ -3683,8 +3718,36 @@
       "id": "iawealth",
       "name": "IA Wealth",
       "url": "https://ia.ca/jobs/jobs-available",
-      "jobCount": 93,
+      "jobCount": 94,
       "jobs": [
+        {
+          "title": "Senior Actuarial Advisor, Life Insurance",
+          "url": "https://ia.ca/en/carrieres/job/JR10028074",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-10-22"
+        },
+        {
+          "title": "Internal Wholesaler",
+          "url": "https://ia.ca/en/carrieres/job/JR10026598",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-10-22"
+        },
+        {
+          "title": "Agency Support Representative (Dorval)",
+          "url": "https://ia.ca/en/carrieres/job/JR10028144",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-10-22"
+        },
+        {
+          "title": "IT Technician",
+          "url": "https://ia.ca/en/carrieres/job/JR10028157",
+          "location": "Canada",
+          "department": "General",
+          "postedDate": "2026-10-22"
+        },
         {
           "title": "Senior Project Manager, Process Transformation",
           "url": "https://ia.ca/en/carrieres/job/JR10028082",
@@ -4141,13 +4204,6 @@
           "postedDate": "2026-10-22"
         },
         {
-          "title": "Claims Partnerships Advisor- Home Insurance",
-          "url": "https://ia.ca/en/carrieres/job/JR10027669",
-          "location": "Canada",
-          "department": "General",
-          "postedDate": "2026-10-22"
-        },
-        {
           "title": "Wealth Enablement Digital Trainer",
           "url": "https://ia.ca/en/carrieres/job/JR10026877",
           "location": "Canada",
@@ -4246,13 +4302,6 @@
           "postedDate": "2026-10-22"
         },
         {
-          "title": "IT Solutions and Data Designer",
-          "url": "https://ia.ca/en/carrieres/job/JR10027893",
-          "location": "Canada",
-          "department": "General",
-          "postedDate": "2026-10-22"
-        },
-        {
           "title": "Sales Associate",
           "url": "https://ia.ca/en/carrieres/job/JR10027831",
           "location": "Canada",
@@ -4297,13 +4346,6 @@
         {
           "title": "Director - Credit Trading",
           "url": "https://ia.ca/en/carrieres/job/JR10027815",
-          "location": "Canada",
-          "department": "General",
-          "postedDate": "2026-10-22"
-        },
-        {
-          "title": "Internal Wholesaler",
-          "url": "https://ia.ca/en/carrieres/job/JR10026598",
           "location": "Canada",
           "department": "General",
           "postedDate": "2026-10-22"
